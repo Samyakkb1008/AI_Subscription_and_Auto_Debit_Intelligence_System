@@ -1,0 +1,4241 @@
+CustomerID,Merchant,Predicted_Amount,Balance,Risk_Level
+C1,company,39600.0,134933,Low
+C1,dmart,-701.52,107509,Low
+C1,flipkart,-1074.86,108978,Low
+C1,gym membership,-1200.0,95313,Low
+C1,netflix,-499.0,94814,Low
+C1,spotify,-199.0,117689,Low
+C1,swiggy,-1066.28,109386,Low
+C1,uber,-1163.22,105780,Low
+C1,zomato,-811.95,108400,Low
+C10,amazon prime,-999.0,377,Low
+C10,dmart,-977.62,33,Low
+C10,electricity bill,-1500.0,33,Low
+C10,medical store,-1134.5,33,Low
+C10,petrol pump,-921.52,33,Low
+C10,reliance smart,-1053.17,33,Low
+C10,spotify,-199.0,178,Low
+C10,swiggy,-1024.87,33,Low
+C10,uber,-1281.36,33,Low
+C100,amazon prime,-999.0,93024,Low
+C100,dmart,-1019.54,80080,Low
+C100,electricity bill,-1500.0,88984,Low
+C100,flipkart,-935.26,78503,Low
+C100,medical store,-958.61,30969,Low
+C100,netflix,-499.0,77799,Low
+C100,petrol pump,-951.22,84217,Low
+C100,reliance smart,-961.21,79809,Low
+C100,swiggy,-890.2,76641,Low
+C100,zomato,-1034.45,78298,Low
+C101,cafe coffee day,-853.94,54709,Low
+C101,company,35833.0,66425,Low
+C101,dmart,-907.47,48639,Low
+C101,electricity bill,-1500.0,44400,Low
+C101,gym membership,-1200.0,45900,Low
+C101,medical store,-1038.85,42856,Low
+C101,reliance smart,-993.53,58572,Low
+C101,uber,-1269.25,44028,Low
+C101,zomato,-965.0,38928,Low
+C102,cafe coffee day,-915.04,87619,Low
+C102,flipkart,-914.43,86284,Low
+C102,medical store,-1085.81,89846,Low
+C102,netflix,-499.0,112133,Low
+C102,petrol pump,-1115.86,85053,Low
+C102,uber,-1193.56,95383,Low
+C102,zomato,-992.77,85031,Low
+C103,amazon prime,-999.0,107197,Low
+C103,cafe coffee day,-1105.05,126296,Low
+C103,company,36321.14,128628,Low
+C103,electricity bill,-1500.0,124796,Low
+C103,flipkart,-1024.94,108616,Low
+C103,medical store,-1098.79,108196,Low
+C103,petrol pump,-1091.91,106141,Low
+C103,reliance smart,-1021.41,123115,Low
+C103,spotify,-199.0,119806,Low
+C103,swiggy,-985.46,112359,Low
+C103,uber,-830.12,114635,Low
+C104,company,36350.33,51197,Low
+C104,medical store,-1060.65,144,Low
+C104,netflix,-499.0,144,Low
+C104,petrol pump,-884.38,144,Low
+C104,reliance smart,-1062.5,144,Low
+C104,uber,-961.65,144,Low
+C105,electricity bill,-1500.0,125346,Low
+C105,gym membership,-1200.0,123532,Low
+C105,medical store,-1121.86,113656,Low
+C105,petrol pump,-968.1,112177,Low
+C105,swiggy,-1012.82,111376,Low
+C105,zomato,-1224.35,119775,Low
+C106,cafe coffee day,-1143.0,54573,Low
+C106,dmart,-993.26,53211,Low
+C106,electricity bill,-1500.0,72141,Low
+C106,flipkart,-909.85,77399,Low
+C106,gym membership,-1200.0,58528,Low
+C106,medical store,-1105.15,59728,Low
+C106,petrol pump,-1186.22,60294,Low
+C106,reliance smart,-1068.42,67311,Low
+C106,spotify,-199.0,67112,Low
+C106,swiggy,-1036.53,73641,Low
+C106,uber,-1095.09,57238,Low
+C107,cafe coffee day,-1149.37,154093,Low
+C107,dmart,-1145.8,150351,Low
+C107,electricity bill,-1500.0,156339,Low
+C107,medical store,-1057.45,170030,Low
+C107,petrol pump,-950.32,154396,Low
+C107,reliance smart,-1140.26,179633,Low
+C107,uber,-1249.27,148445,Low
+C108,amazon prime,-999.0,36,Low
+C108,dmart,-868.25,36,Low
+C108,flipkart,-853.41,36,Low
+C108,gym membership,-1200.0,36,Low
+C108,petrol pump,-1055.67,36,Low
+C108,swiggy,-920.48,36,Low
+C108,uber,-1103.04,36,Low
+C108,zomato,-938.83,36,Low
+C109,cafe coffee day,-1150.25,18388,Low
+C109,netflix,-499.0,12230,Low
+C109,reliance smart,-1019.79,26943,Low
+C109,spotify,-199.0,41414,Low
+C109,swiggy,-1142.71,27515,Low
+C109,uber,-985.12,25308,Low
+C11,cafe coffee day,-902.39,66028,Low
+C11,dmart,-1288.38,58770,Low
+C11,flipkart,-1256.74,55819,Low
+C11,medical store,-772.82,63098,Low
+C11,netflix,-499.0,74129,Low
+C11,swiggy,-1039.26,62238,Low
+C11,uber,-955.81,80213,Low
+C11,zomato,-1116.11,67867,Low
+C110,amazon prime,-999.0,77931,Low
+C110,cafe coffee day,-1050.78,55628,Low
+C110,dmart,-1055.89,61395,Low
+C110,flipkart,-1069.64,55883,Low
+C110,petrol pump,-863.83,63915,Low
+C110,reliance smart,-1057.19,64474,Low
+C110,uber,-1009.53,81858,Low
+C110,zomato,-1105.86,58671,Low
+C111,amazon prime,-999.0,22299,Low
+C111,cafe coffee day,-1028.14,29508,Low
+C111,company,36866.67,40394,Low
+C111,dmart,-1001.36,18522,Low
+C111,flipkart,-1090.83,22284,Low
+C111,netflix,-499.0,21800,Low
+C111,petrol pump,-982.12,21806,Low
+C111,swiggy,-910.96,30187,Low
+C111,uber,-1028.35,14223,Low
+C112,amazon prime,-999.0,106218,Low
+C112,cafe coffee day,-1054.39,100645,Low
+C112,electricity bill,-1500.0,96546,Low
+C112,medical store,-1097.75,90776,Low
+C112,netflix,-499.0,98945,Low
+C112,petrol pump,-1014.61,98046,Low
+C112,swiggy,-999.13,98228,Low
+C112,uber,-1100.57,92856,Low
+C112,zomato,-1057.37,94692,Low
+C113,amazon prime,-999.0,27165,Low
+C113,cafe coffee day,-1019.7,26251,Low
+C113,dmart,-982.89,24312,Low
+C113,gym membership,-1200.0,46411,Low
+C113,medical store,-888.11,32649,Low
+C113,petrol pump,-1030.43,24655,Low
+C113,reliance smart,-1067.8,31549,Low
+C113,spotify,-199.0,33055,Low
+C113,swiggy,-929.1,30827,Low
+C114,amazon prime,-999.0,103654,Low
+C114,cafe coffee day,-920.93,86186,Low
+C114,flipkart,-933.2,89641,Low
+C114,swiggy,-1023.41,86961,Low
+C114,uber,-1119.68,86294,Low
+C115,cafe coffee day,-1055.96,22606,Low
+C115,flipkart,-1004.04,19872,Low
+C115,gym membership,-1200.0,46571,Low
+C115,netflix,-499.0,20948,Low
+C115,petrol pump,-1119.94,31444,Low
+C115,reliance smart,-1173.86,16858,Low
+C115,uber,-1022.73,17307,Low
+C115,zomato,-1280.5,18232,Low
+C116,amazon prime,-999.0,73681,Low
+C116,company,36335.17,95344,Low
+C116,dmart,-1146.95,61810,Low
+C116,electricity bill,-1500.0,79529,Low
+C116,flipkart,-851.1,69737,Low
+C116,petrol pump,-1163.79,63219,Low
+C116,reliance smart,-908.11,59650,Low
+C116,spotify,-199.0,87049,Low
+C116,uber,-939.79,60927,Low
+C117,dmart,-973.62,73734,Low
+C117,flipkart,-1167.19,59268,Low
+C117,petrol pump,-1185.74,70348,Low
+C117,reliance smart,-1256.05,56809,Low
+C117,spotify,-199.0,63654,Low
+C117,uber,-984.22,72010,Low
+C117,zomato,-1002.95,67056,Low
+C118,amazon prime,-999.0,273898,Low
+C118,cafe coffee day,-1248.0,272711,Low
+C118,dmart,-870.79,268709,Low
+C118,medical store,-1028.0,265452,Low
+C118,petrol pump,-967.52,274897,Low
+C118,spotify,-199.0,294451,Low
+C119,cafe coffee day,-985.79,79160,Low
+C119,company,37492.17,93444,Low
+C119,electricity bill,-1500.0,69676,Low
+C119,flipkart,-997.67,66840,Low
+C119,medical store,-1024.81,79657,Low
+C119,petrol pump,-997.83,65421,Low
+C119,spotify,-199.0,90767,Low
+C119,swiggy,-1044.12,86199,Low
+C119,uber,-961.6,72096,Low
+C12,amazon prime,-999.0,55512,Low
+C12,cafe coffee day,-1141.0,47691,Low
+C12,dmart,-1050.25,33579,Low
+C12,flipkart,-1036.58,39115,Low
+C12,gym membership,-1200.0,44782,Low
+C12,reliance smart,-1144.05,45982,Low
+C12,spotify,-199.0,42194,Low
+C12,swiggy,-998.23,42782,Low
+C12,uber,-1166.19,36055,Low
+C12,zomato,-1064.65,34898,Low
+C120,cafe coffee day,-980.53,71262,Low
+C120,company,36372.0,83018,Low
+C120,dmart,-888.43,60232,Low
+C120,gym membership,-1200.0,66062,Low
+C120,medical store,-1184.1,67262,Low
+C120,netflix,-499.0,60754,Low
+C120,petrol pump,-1106.67,70836,Low
+C120,reliance smart,-1019.86,54652,Low
+C120,spotify,-199.0,71639,Low
+C120,uber,-1208.67,52155,Low
+C120,zomato,-1102.95,51041,Low
+C121,cafe coffee day,-1050.88,104271,Low
+C121,dmart,-1131.91,88923,Low
+C121,electricity bill,-1500.0,115787,Low
+C121,flipkart,-1308.68,87002,Low
+C121,medical store,-953.41,96082,Low
+C121,petrol pump,-918.3,102031,Low
+C121,reliance smart,-1050.54,85494,Low
+C121,swiggy,-1084.17,84004,Low
+C121,uber,-1013.33,85890,Low
+C121,zomato,-905.26,89557,Low
+C122,cafe coffee day,-963.82,182627,Low
+C122,dmart,-1177.53,178517,Low
+C122,electricity bill,-1500.0,198755,Low
+C122,medical store,-938.67,191902,Low
+C122,petrol pump,-1035.83,174618,Low
+C122,reliance smart,-1042.72,183218,Low
+C122,swiggy,-1127.0,174792,Low
+C122,uber,-913.85,189841,Low
+C122,zomato,-877.11,183029,Low
+C123,amazon prime,-999.0,180871,Low
+C123,flipkart,-932.64,185250,Low
+C123,gym membership,-1200.0,186717,Low
+C123,medical store,-840.24,161329,Low
+C123,petrol pump,-994.37,164686,Low
+C123,reliance smart,-998.68,162753,Low
+C123,swiggy,-1129.5,169650,Low
+C123,uber,-1173.56,167730,Low
+C124,amazon prime,-999.0,79173,Low
+C124,cafe coffee day,-1270.35,54962,Low
+C124,company,36248.71,83998,Low
+C124,electricity bill,-1500.0,70835,Low
+C124,flipkart,-1194.22,56146,Low
+C124,medical store,-994.21,64642,Low
+C124,petrol pump,-1081.63,58570,Low
+C124,reliance smart,-1034.94,47653,Low
+C124,spotify,-199.0,70636,Low
+C124,zomato,-1093.28,52260,Low
+C125,amazon prime,-999.0,45,Low
+C125,cafe coffee day,-1013.15,45,Low
+C125,company,33039.75,47344,Low
+C125,electricity bill,-1500.0,45,Low
+C125,medical store,-1145.26,45,Low
+C125,petrol pump,-756.75,45,Low
+C125,reliance smart,-1068.54,45,Low
+C125,spotify,-199.0,45,Low
+C125,swiggy,-1070.29,45,Low
+C125,uber,-1058.19,45,Low
+C125,zomato,-948.76,45,Low
+C126,amazon prime,-999.0,23756,Low
+C126,cafe coffee day,-965.67,22575,Low
+C126,dmart,-1074.78,13582,Low
+C126,flipkart,-1234.73,12614,Low
+C126,medical store,-1157.16,4528,Low
+C126,petrol pump,-1201.78,24755,Low
+C126,reliance smart,-928.58,8702,Low
+C126,swiggy,-1330.87,33022,Low
+C127,cafe coffee day,-978.23,47534,Low
+C127,company,32866.8,62017,Low
+C127,dmart,-812.4,61374,Low
+C127,flipkart,-1094.35,39056,Low
+C127,gym membership,-1200.0,57370,Low
+C127,medical store,-1206.95,43243,Low
+C127,netflix,-499.0,49560,Low
+C127,petrol pump,-972.68,37381,Low
+C127,reliance smart,-1153.33,40429,Low
+C127,spotify,-199.0,53585,Low
+C127,swiggy,-1280.3,38632,Low
+C127,uber,-1142.19,52270,Low
+C128,cafe coffee day,-1059.09,35924,Low
+C128,dmart,-1122.85,53957,Low
+C128,gym membership,-1200.0,36338,Low
+C128,medical store,-925.68,51317,Low
+C128,netflix,-499.0,56400,Low
+C128,petrol pump,-963.0,40517,Low
+C128,reliance smart,-1047.28,42399,Low
+C128,spotify,-199.0,45441,Low
+C128,swiggy,-1123.78,34075,Low
+C128,uber,-1150.86,32033,Low
+C128,zomato,-1144.94,33764,Low
+C129,dmart,-945.18,151385,Low
+C129,electricity bill,-1500.0,136593,Low
+C129,flipkart,-949.35,133479,Low
+C129,medical store,-1337.52,142857,Low
+C129,reliance smart,-1216.47,138894,Low
+C129,uber,-776.86,150367,Low
+C129,zomato,-839.81,138093,Low
+C13,amazon prime,-999.0,36503,Low
+C13,cafe coffee day,-899.59,59404,Low
+C13,company,37231.17,77313,Low
+C13,dmart,-958.19,53597,Low
+C13,electricity bill,-1500.0,37502,Low
+C13,flipkart,-1117.14,50668,Low
+C13,medical store,-1255.68,56213,Low
+C13,petrol pump,-1035.35,48986,Low
+C13,reliance smart,-1066.9,47278,Low
+C13,spotify,-199.0,66389,Low
+C13,swiggy,-1032.14,69257,Low
+C13,uber,-971.85,57999,Low
+C13,zomato,-1054.79,49439,Low
+C130,amazon prime,-999.0,22997,Low
+C130,cafe coffee day,-1062.45,18011,Low
+C130,electricity bill,-1500.0,26342,Low
+C130,gym membership,-1200.0,10963,Low
+C130,medical store,-990.63,7543,Low
+C130,petrol pump,-942.17,22411,Low
+C130,reliance smart,-1141.68,5586,Low
+C130,swiggy,-1237.21,765,Low
+C130,uber,-1094.86,765,Low
+C130,zomato,-826.62,4852,Low
+C131,cafe coffee day,-1150.36,172708,Low
+C131,gym membership,-1200.0,200138,Low
+C131,medical store,-1194.07,155358,Low
+C131,reliance smart,-1410.39,174636,Low
+C131,swiggy,-1171.82,182354,Low
+C131,uber,-972.15,168674,Low
+C132,cafe coffee day,-1173.96,252650,Low
+C132,dmart,-964.56,254129,Low
+C132,gym membership,-1200.0,266113,Low
+C132,netflix,-499.0,255101,Low
+C132,spotify,-199.0,247838,Low
+C132,swiggy,-1025.85,246659,Low
+C132,uber,-1037.82,250340,Low
+C132,zomato,-961.67,245350,Low
+C133,cafe coffee day,-1027.9,87808,Low
+C133,company,37805.29,107242,Low
+C133,dmart,-933.37,91408,Low
+C133,electricity bill,-1500.0,78535,Low
+C133,flipkart,-1151.67,80035,Low
+C133,medical store,-923.52,70999,Low
+C133,netflix,-499.0,106743,Low
+C133,petrol pump,-1077.5,76577,Low
+C133,reliance smart,-1116.18,96874,Low
+C133,swiggy,-1069.09,82397,Low
+C133,uber,-1220.79,76077,Low
+C133,zomato,-1038.47,95245,Low
+C134,amazon prime,-999.0,147455,Low
+C134,dmart,-951.12,144567,Low
+C134,flipkart,-1105.2,142555,Low
+C134,medical store,-950.8,149921,Low
+C134,netflix,-499.0,157621,Low
+C134,petrol pump,-973.5,148454,Low
+C134,reliance smart,-916.77,154208,Low
+C134,spotify,-199.0,159828,Low
+C134,uber,-945.05,144167,Low
+C135,company,35662.17,117083,Low
+C135,electricity bill,-1500.0,107752,Low
+C135,flipkart,-1068.42,92077,Low
+C135,gym membership,-1200.0,94231,Low
+C135,medical store,-916.47,93831,Low
+C135,netflix,-499.0,112922,Low
+C135,petrol pump,-849.74,99494,Low
+C135,reliance smart,-877.62,95431,Low
+C135,swiggy,-979.18,100303,Low
+C135,zomato,-866.5,96020,Low
+C136,dmart,-1042.7,30288,Low
+C136,electricity bill,-1500.0,46646,Low
+C136,flipkart,-1112.32,60581,Low
+C136,gym membership,-1200.0,48669,Low
+C136,medical store,-1082.27,36605,Low
+C136,netflix,-499.0,57058,Low
+C136,petrol pump,-1213.28,31647,Low
+C136,reliance smart,-1248.3,25793,Low
+C136,uber,-1182.6,26274,Low
+C136,zomato,-983.77,31477,Low
+C137,amazon prime,-999.0,68778,Low
+C137,cafe coffee day,-951.07,40093,Low
+C137,company,36511.5,69777,Low
+C137,dmart,-1143.94,55305,Low
+C137,flipkart,-1033.21,41036,Low
+C137,gym membership,-1200.0,35618,Low
+C137,medical store,-731.94,57815,Low
+C137,petrol pump,-1232.88,38090,Low
+C137,reliance smart,-988.82,65792,Low
+C137,spotify,-199.0,54150,Low
+C137,uber,-1012.19,43826,Low
+C137,zomato,-1460.44,48177,Low
+C138,amazon prime,-999.0,50301,Low
+C138,dmart,-1082.15,36372,Low
+C138,electricity bill,-1500.0,61397,Low
+C138,flipkart,-1094.76,56942,Low
+C138,medical store,-937.41,38621,Low
+C138,petrol pump,-1183.3,40413,Low
+C138,reliance smart,-1166.46,47622,Low
+C138,swiggy,-1007.39,38000,Low
+C139,cafe coffee day,-994.0,36564,Low
+C139,company,33387.71,65998,Low
+C139,dmart,-1005.33,37528,Low
+C139,electricity bill,-1500.0,57139,Low
+C139,flipkart,-1076.65,40351,Low
+C139,petrol pump,-1145.12,55414,Low
+C139,reliance smart,-949.46,49542,Low
+C139,uber,-986.15,42514,Low
+C139,zomato,-1067.55,60980,Low
+C14,cafe coffee day,-922.85,180,Low
+C14,dmart,-970.76,180,Low
+C14,electricity bill,-1500.0,180,Low
+C14,flipkart,-1076.55,180,Low
+C14,medical store,-1169.87,180,Low
+C14,netflix,-499.0,180,Low
+C14,reliance smart,-918.57,180,Low
+C14,zomato,-1307.81,8808,Low
+C140,amazon prime,-999.0,65251,Low
+C140,dmart,-1043.85,47887,Low
+C140,flipkart,-931.43,56029,Low
+C140,petrol pump,-1207.35,67395,Low
+C140,reliance smart,-934.0,55301,Low
+C140,spotify,-199.0,70632,Low
+C140,uber,-924.81,52965,Low
+C140,zomato,-1233.0,51068,Low
+C141,amazon prime,-999.0,19420,Low
+C141,cafe coffee day,-1121.63,14291,Low
+C141,dmart,-1000.61,14165,Low
+C141,flipkart,-987.7,9607,Low
+C141,netflix,-499.0,32667,Low
+C141,petrol pump,-1098.5,20419,Low
+C141,reliance smart,-958.05,17014,Low
+C141,spotify,-199.0,27214,Low
+C141,swiggy,-1170.56,25223,Low
+C141,uber,-1147.17,8069,Low
+C141,zomato,-786.65,16601,Low
+C142,cafe coffee day,-1175.85,123900,Low
+C142,dmart,-1252.42,126746,Low
+C142,electricity bill,-1500.0,130069,Low
+C142,reliance smart,-965.0,146317,Low
+C142,swiggy,-1077.86,119163,Low
+C142,uber,-822.12,140839,Low
+C143,cafe coffee day,-1056.33,45,Low
+C143,dmart,-1103.47,45,Low
+C143,flipkart,-1181.96,45,Low
+C143,gym membership,-1200.0,12708,Low
+C143,medical store,-1215.84,45,Low
+C143,reliance smart,-1172.5,45,Low
+C143,swiggy,-1112.1,45,Low
+C143,uber,-1112.2,6221,Low
+C143,zomato,-1039.06,45,Low
+C144,flipkart,-1193.71,22003,Low
+C144,medical store,-926.58,33445,Low
+C144,netflix,-499.0,54802,Low
+C144,petrol pump,-1128.5,23579,Low
+C144,reliance smart,-1075.56,19609,Low
+C144,spotify,-199.0,55301,Low
+C144,swiggy,-895.59,21429,Low
+C144,uber,-1029.5,51729,Low
+C145,electricity bill,-1500.0,47867,Low
+C145,gym membership,-1200.0,39501,Low
+C145,medical store,-1158.62,19749,Low
+C145,petrol pump,-945.59,28774,Low
+C145,reliance smart,-1047.72,17067,Low
+C145,swiggy,-925.05,29933,Low
+C145,zomato,-1017.46,30789,Low
+C146,amazon prime,-999.0,10804,Low
+C146,cafe coffee day,-1005.35,308,Low
+C146,electricity bill,-1500.0,16223,Low
+C146,flipkart,-1128.47,308,Low
+C146,medical store,-984.13,308,Low
+C146,petrol pump,-1162.74,308,Low
+C146,swiggy,-1041.75,308,Low
+C146,uber,-1111.3,308,Low
+C147,cafe coffee day,-1210.29,2152,Low
+C147,dmart,-932.0,118,Low
+C147,flipkart,-859.7,118,Low
+C147,netflix,-499.0,118,Low
+C147,petrol pump,-901.83,118,Low
+C147,spotify,-199.0,9364,Low
+C147,swiggy,-920.3,118,Low
+C147,uber,-997.54,929,Low
+C148,cafe coffee day,-1368.55,105592,Low
+C148,electricity bill,-1500.0,125062,Low
+C148,flipkart,-966.28,116814,Low
+C148,gym membership,-1200.0,116997,Low
+C148,spotify,-199.0,118197,Low
+C149,amazon prime,-999.0,6,Low
+C149,company,39412.5,56045,Low
+C149,dmart,-1054.61,6,Low
+C149,flipkart,-926.81,6,Low
+C149,gym membership,-1200.0,6,Low
+C149,medical store,-1082.9,6,Low
+C149,reliance smart,-1154.21,6,Low
+C149,spotify,-199.0,6,Low
+C149,swiggy,-1128.3,6,Low
+C149,uber,-1084.5,6,Low
+C149,zomato,-1071.27,6,Low
+C15,dmart,-1315.12,106293,Low
+C15,electricity bill,-1500.0,128393,Low
+C15,flipkart,-921.73,98924,Low
+C15,medical store,-1024.94,113813,Low
+C15,petrol pump,-1191.88,99914,Low
+C15,reliance smart,-942.6,104253,Low
+C15,swiggy,-825.05,102026,Low
+C15,zomato,-1132.23,97051,Low
+C150,amazon prime,-999.0,30082,Low
+C150,cafe coffee day,-1116.66,11344,Low
+C150,company,28377.2,35375,Low
+C150,dmart,-904.45,6827,Low
+C150,flipkart,-935.81,10512,Low
+C150,medical store,-1348.25,3146,Low
+C150,swiggy,-999.53,14511,Low
+C150,zomato,-1170.86,17740,Low
+C151,dmart,-879.9,45765,Low
+C151,electricity bill,-1500.0,52448,Low
+C151,gym membership,-1200.0,39560,Low
+C151,medical store,-863.94,36747,Low
+C151,netflix,-499.0,58422,Low
+C151,petrol pump,-959.2,66453,Low
+C151,reliance smart,-1138.84,33786,Low
+C151,swiggy,-896.21,42509,Low
+C151,uber,-1019.11,43953,Low
+C151,zomato,-927.96,36233,Low
+C152,amazon prime,-999.0,72891,Low
+C152,cafe coffee day,-1037.7,63965,Low
+C152,dmart,-882.73,60211,Low
+C152,flipkart,-1159.21,60809,Low
+C152,medical store,-907.5,81304,Low
+C152,netflix,-499.0,61411,Low
+C152,petrol pump,-1226.22,68400,Low
+C152,reliance smart,-1023.0,62090,Low
+C152,spotify,-199.0,68201,Low
+C152,swiggy,-1219.44,65540,Low
+C152,uber,-973.62,67317,Low
+C153,cafe coffee day,-892.77,193433,Low
+C153,dmart,-1089.05,174734,Low
+C153,flipkart,-1088.78,212012,Low
+C153,gym membership,-1200.0,202607,Low
+C153,medical store,-960.53,173522,Low
+C153,netflix,-499.0,215354,Low
+C153,petrol pump,-834.35,183380,Low
+C153,reliance smart,-1141.05,175492,Low
+C153,zomato,-815.58,178348,Low
+C154,cafe coffee day,-1160.43,65172,Low
+C154,company,31601.0,75945,Low
+C154,electricity bill,-1500.0,61004,Low
+C154,flipkart,-1153.63,55960,Low
+C154,netflix,-499.0,73615,Low
+C154,petrol pump,-1078.62,23124,Low
+C154,zomato,-990.46,54580,Low
+C155,cafe coffee day,-960.15,60789,Low
+C155,flipkart,-932.92,58379,Low
+C155,medical store,-1107.76,71227,Low
+C155,netflix,-499.0,80024,Low
+C155,petrol pump,-927.0,60520,Low
+C155,swiggy,-1123.9,63378,Low
+C155,zomato,-1050.68,61180,Low
+C156,dmart,-1144.2,16118,Low
+C156,flipkart,-1193.22,14009,Low
+C156,gym membership,-1200.0,34721,Low
+C156,medical store,-999.71,20222,Low
+C156,reliance smart,-1229.35,15914,Low
+C156,zomato,-1230.52,18522,Low
+C157,cafe coffee day,-1238.39,32180,Low
+C157,dmart,-991.55,19107,Low
+C157,electricity bill,-1500.0,21891,Low
+C157,flipkart,-955.11,38829,Low
+C157,gym membership,-1200.0,27810,Low
+C157,medical store,-1102.35,39195,Low
+C157,netflix,-499.0,37953,Low
+C157,petrol pump,-1275.91,18369,Low
+C157,uber,-1275.48,29010,Low
+C158,amazon prime,-999.0,36099,Low
+C158,cafe coffee day,-1067.5,23966,Low
+C158,company,31253.57,50781,Low
+C158,electricity bill,-1500.0,37098,Low
+C158,flipkart,-1001.12,24600,Low
+C158,gym membership,-1200.0,38598,Low
+C158,medical store,-893.45,25773,Low
+C158,petrol pump,-1077.22,30393,Low
+C158,swiggy,-996.63,28909,Low
+C158,zomato,-859.82,22674,Low
+C159,amazon prime,-999.0,116542,Low
+C159,cafe coffee day,-1077.17,123756,Low
+C159,dmart,-1149.65,132474,Low
+C159,electricity bill,-1500.0,127939,Low
+C159,medical store,-837.74,114758,Low
+C159,petrol pump,-1067.35,117541,Low
+C159,reliance smart,-1011.1,123607,Low
+C159,spotify,-199.0,120423,Low
+C159,uber,-1086.52,130573,Low
+C159,zomato,-1259.95,122496,Low
+C16,amazon prime,-999.0,25317,Low
+C16,cafe coffee day,-1077.67,18305,Low
+C16,flipkart,-1133.59,22471,Low
+C16,medical store,-1240.59,30095,Low
+C16,petrol pump,-853.05,23989,Low
+C16,reliance smart,-1015.92,13738,Low
+C16,swiggy,-1000.68,18663,Low
+C16,uber,-1059.22,16477,Low
+C16,zomato,-1260.35,24968,Low
+C160,cafe coffee day,-929.42,61986,Low
+C160,dmart,-1017.33,63255,Low
+C160,gym membership,-1200.0,79744,Low
+C160,medical store,-1088.65,62626,Low
+C160,netflix,-499.0,70322,Low
+C160,reliance smart,-1190.29,67046,Low
+C160,swiggy,-1108.74,63115,Low
+C160,zomato,-1074.14,64841,Low
+C161,amazon prime,-999.0,189,Low
+C161,cafe coffee day,-1147.06,189,Low
+C161,dmart,-1015.83,189,Low
+C161,medical store,-1050.09,189,Low
+C161,reliance smart,-1233.47,189,Low
+C161,spotify,-199.0,189,Low
+C161,zomato,-1175.72,388,Low
+C162,amazon prime,-999.0,61239,Low
+C162,company,38132.17,87802,Low
+C162,flipkart,-1228.53,80785,Low
+C162,medical store,-1255.75,65126,Low
+C162,petrol pump,-1003.68,62238,Low
+C162,swiggy,-1066.04,70495,Low
+C162,uber,-1114.29,59901,Low
+C162,zomato,-997.09,57803,Low
+C163,cafe coffee day,-960.36,13122,Low
+C163,company,34021.67,45368,Low
+C163,dmart,-963.5,14246,Low
+C163,electricity bill,-1500.0,37919,Low
+C163,flipkart,-927.95,26743,Low
+C163,gym membership,-1200.0,20883,Low
+C163,petrol pump,-1153.04,15736,Low
+C163,reliance smart,-1081.9,20530,Low
+C163,spotify,-199.0,34222,Low
+C163,swiggy,-1002.0,25672,Low
+C164,gym membership,-1200.0,37793,Low
+C164,medical store,-977.89,40954,Low
+C164,reliance smart,-1145.32,28871,Low
+C164,swiggy,-949.62,27624,Low
+C164,zomato,-1073.08,27981,Low
+C165,amazon prime,-999.0,113114,Low
+C165,cafe coffee day,-1070.58,103324,Low
+C165,dmart,-888.79,110627,Low
+C165,medical store,-1001.84,124410,Low
+C165,netflix,-499.0,122318,Low
+C165,petrol pump,-748.0,105184,Low
+C165,reliance smart,-886.72,107392,Low
+C165,spotify,-199.0,111259,Low
+C165,swiggy,-1120.09,109100,Low
+C165,uber,-958.0,115589,Low
+C165,zomato,-1060.86,114113,Low
+C166,cafe coffee day,-1025.0,216761,Low
+C166,dmart,-947.37,227804,Low
+C166,flipkart,-1128.19,215433,Low
+C166,gym membership,-1200.0,235393,Low
+C166,medical store,-1019.38,226398,Low
+C166,reliance smart,-824.61,228995,Low
+C166,spotify,-199.0,237968,Low
+C166,swiggy,-1065.03,215716,Low
+C166,uber,-1109.05,199617,Low
+C166,zomato,-1144.43,219598,Low
+C167,amazon prime,-999.0,175976,Low
+C167,cafe coffee day,-1050.5,166237,Low
+C167,flipkart,-963.76,176975,Low
+C167,gym membership,-1200.0,140022,Low
+C167,reliance smart,-1035.62,167857,Low
+C167,swiggy,-961.36,181175,Low
+C167,zomato,-1405.62,163095,Low
+C168,amazon prime,-999.0,43358,Low
+C168,cafe coffee day,-996.79,34904,Low
+C168,dmart,-990.89,38585,Low
+C168,flipkart,-1034.4,45892,Low
+C168,gym membership,-1200.0,62310,Low
+C168,medical store,-1038.62,1,Low
+C168,reliance smart,-1088.0,36683,Low
+C168,uber,-1020.95,33068,Low
+C168,zomato,-1022.35,41326,Low
+C169,amazon prime,-999.0,1,Low
+C169,cafe coffee day,-930.87,1,Low
+C169,electricity bill,-1500.0,1,Low
+C169,flipkart,-999.94,1,Low
+C169,medical store,-1020.52,1,Low
+C169,petrol pump,-1061.12,1,Low
+C169,reliance smart,-1143.83,1,Low
+C169,uber,-1105.6,1,Low
+C17,company,31441.71,82919,Low
+C17,dmart,-1104.79,57514,Low
+C17,electricity bill,-1500.0,62119,Low
+C17,medical store,-1166.62,70367,Low
+C17,netflix,-499.0,74407,Low
+C17,petrol pump,-902.62,54578,Low
+C17,reliance smart,-730.29,63619,Low
+C17,spotify,-199.0,67263,Low
+C17,swiggy,-906.63,64598,Low
+C170,dmart,-900.77,91,Low
+C170,flipkart,-1133.76,91,Low
+C170,medical store,-1014.86,91,Low
+C170,netflix,-499.0,91,Low
+C170,petrol pump,-966.48,91,Low
+C170,reliance smart,-1179.89,91,Low
+C170,spotify,-199.0,91,Low
+C170,swiggy,-1142.0,91,Low
+C170,uber,-1169.91,91,Low
+C170,zomato,-1204.86,91,Low
+C171,dmart,-1161.52,353,Low
+C171,flipkart,-1210.23,8345,Low
+C171,medical store,-1004.24,1345,Low
+C171,netflix,-499.0,13595,Low
+C171,petrol pump,-1195.95,5877,Low
+C171,reliance smart,-1027.79,142,Low
+C171,uber,-1197.95,9197,Low
+C172,dmart,-1145.43,99606,Low
+C172,electricity bill,-1500.0,112889,Low
+C172,flipkart,-941.26,92603,Low
+C172,gym membership,-1200.0,93691,Low
+C172,medical store,-1240.16,98179,Low
+C172,petrol pump,-743.5,93192,Low
+C172,reliance smart,-1064.71,91548,Low
+C172,swiggy,-1053.04,100926,Low
+C172,uber,-1055.22,114389,Low
+C173,dmart,-1076.31,40723,Low
+C173,electricity bill,-1500.0,44744,Low
+C173,flipkart,-1122.0,36685,Low
+C173,netflix,-499.0,44245,Low
+C173,petrol pump,-952.25,38020,Low
+C173,swiggy,-1142.21,39083,Low
+C173,uber,-954.71,52515,Low
+C173,zomato,-965.43,37713,Low
+C174,cafe coffee day,-1046.14,75935,Low
+C174,flipkart,-1329.36,78128,Low
+C174,petrol pump,-1096.84,88520,Low
+C174,reliance smart,-1096.29,88207,Low
+C174,spotify,-199.0,71041,Low
+C174,uber,-1084.24,81875,Low
+C175,cafe coffee day,-1018.0,75581,Low
+C175,company,33575.83,79056,Low
+C175,dmart,-1091.56,66247,Low
+C175,flipkart,-1072.31,60042,Low
+C175,netflix,-499.0,74081,Low
+C175,petrol pump,-925.96,65966,Low
+C175,reliance smart,-1082.62,60597,Low
+C175,swiggy,-918.88,64549,Low
+C175,zomato,-1131.14,54117,Low
+C176,dmart,-954.38,106713,Low
+C176,flipkart,-1064.61,106601,Low
+C176,gym membership,-1200.0,114924,Low
+C176,medical store,-1165.45,120067,Low
+C176,petrol pump,-862.06,120640,Low
+C176,reliance smart,-1000.74,113957,Low
+C176,spotify,-199.0,120891,Low
+C176,uber,-1085.16,107882,Low
+C176,zomato,-1283.13,140447,Low
+C177,flipkart,-892.06,20274,Low
+C177,gym membership,-1200.0,19074,Low
+C177,medical store,-1017.5,22628,Low
+C177,netflix,-499.0,33769,Low
+C177,petrol pump,-877.4,29478,Low
+C177,reliance smart,-902.04,25220,Low
+C177,uber,-906.05,24195,Low
+C177,zomato,-1048.53,14704,Low
+C178,amazon prime,-999.0,122991,Low
+C178,cafe coffee day,-912.94,112288,Low
+C178,dmart,-920.36,94170,Low
+C178,electricity bill,-1500.0,112882,Low
+C178,flipkart,-1140.4,96496,Low
+C178,medical store,-752.07,56829,Low
+C178,uber,-954.32,102521,Low
+C178,zomato,-916.43,117371,Low
+C179,cafe coffee day,-1295.17,74397,Low
+C179,dmart,-1027.67,83727,Low
+C179,electricity bill,-1500.0,27030,Low
+C179,gym membership,-1200.0,82527,Low
+C179,medical store,-956.44,30332,Low
+C179,petrol pump,-968.92,75530,Low
+C179,reliance smart,-1144.44,72746,Low
+C179,swiggy,-919.15,69941,Low
+C179,uber,-945.17,76018,Low
+C179,zomato,-1023.48,69190,Low
+C18,dmart,-1047.12,23075,Low
+C18,flipkart,-1142.09,25188,Low
+C18,medical store,-984.25,22820,Low
+C18,petrol pump,-1119.15,31453,Low
+C18,reliance smart,-1272.2,40065,Low
+C18,spotify,-199.0,23120,Low
+C18,swiggy,-1222.45,30206,Low
+C18,zomato,-1320.14,29353,Low
+C180,cafe coffee day,-763.42,15959,Low
+C180,dmart,-1086.88,25755,Low
+C180,flipkart,-991.72,12439,Low
+C180,medical store,-1264.0,20932,Low
+C180,petrol pump,-969.48,13321,Low
+C180,reliance smart,-1139.04,19250,Low
+C180,spotify,-199.0,4780,Low
+C180,uber,-907.1,13840,Low
+C181,amazon prime,-999.0,11701,Low
+C181,flipkart,-1031.55,31,Low
+C181,medical store,-1044.47,991,Low
+C181,netflix,-499.0,1647,Low
+C181,petrol pump,-983.58,209,Low
+C181,reliance smart,-1103.45,31,Low
+C181,swiggy,-1235.74,31,Low
+C181,uber,-1051.04,31,Low
+C182,amazon prime,-999.0,58985,Low
+C182,company,37928.4,69700,Low
+C182,dmart,-984.53,45295,Low
+C182,gym membership,-1200.0,59984,Low
+C182,petrol pump,-960.48,42755,Low
+C182,swiggy,-931.68,44398,Low
+C182,uber,-1125.88,8091,Low
+C182,zomato,-1081.87,16809,Low
+C183,amazon prime,-999.0,2199,Low
+C183,cafe coffee day,-1187.27,55,Low
+C183,dmart,-1005.32,11086,Low
+C183,electricity bill,-1500.0,4875,Low
+C183,medical store,-963.8,55,Low
+C183,petrol pump,-1092.14,12351,Low
+C183,swiggy,-1079.84,3198,Low
+C184,company,34648.43,80071,Low
+C184,dmart,-945.56,68713,Low
+C184,medical store,-1169.05,54461,Low
+C184,reliance smart,-1040.54,63459,Low
+C184,spotify,-199.0,72905,Low
+C184,swiggy,-1162.14,53824,Low
+C184,uber,-1260.24,57121,Low
+C184,zomato,-1129.4,54872,Low
+C185,cafe coffee day,-1184.43,16885,Low
+C185,dmart,-914.96,14324,Low
+C185,flipkart,-1018.45,17898,Low
+C185,petrol pump,-1035.83,24474,Low
+C185,reliance smart,-990.11,13792,Low
+C185,spotify,-199.0,25333,Low
+C185,swiggy,-1090.9,38496,Low
+C185,zomato,-1005.06,15717,Low
+C186,electricity bill,-1500.0,148566,Low
+C186,flipkart,-1276.7,139309,Low
+C186,petrol pump,-952.33,145042,Low
+C186,reliance smart,-1081.73,54896,Low
+C186,swiggy,-946.58,152765,Low
+C186,zomato,-1274.28,146597,Low
+C187,cafe coffee day,-1003.58,293,Low
+C187,dmart,-1140.25,293,Low
+C187,electricity bill,-1500.0,293,Low
+C187,flipkart,-1008.24,293,Low
+C187,gym membership,-1200.0,500,Low
+C187,medical store,-1031.24,293,Low
+C187,spotify,-199.0,16056,Low
+C187,swiggy,-1194.7,293,Low
+C187,uber,-1085.21,293,Low
+C188,cafe coffee day,-1042.39,58257,Low
+C188,company,32017.0,75865,Low
+C188,dmart,-1011.39,55941,Low
+C188,flipkart,-1107.5,59223,Low
+C188,medical store,-1184.46,19932,Low
+C188,netflix,-499.0,75366,Low
+C188,petrol pump,-1021.59,62178,Low
+C188,reliance smart,-1033.0,52879,Low
+C188,swiggy,-1057.08,50410,Low
+C188,zomato,-869.32,49973,Low
+C189,cafe coffee day,-1044.81,480,Low
+C189,company,31710.6,43987,Low
+C189,dmart,-1054.16,209,Low
+C189,flipkart,-918.05,209,Low
+C189,medical store,-983.41,480,Low
+C189,petrol pump,-1190.48,480,Low
+C189,reliance smart,-930.05,209,Low
+C189,spotify,-199.0,12678,Low
+C19,cafe coffee day,-919.89,57285,Low
+C19,company,37271.8,83013,Low
+C19,flipkart,-1005.26,56028,Low
+C19,medical store,-886.67,59317,Low
+C19,netflix,-499.0,60663,Low
+C19,reliance smart,-1219.75,67438,Low
+C19,spotify,-199.0,82814,Low
+C19,swiggy,-1061.05,57592,Low
+C19,uber,-1318.06,78212,Low
+C19,zomato,-1024.9,65378,Low
+C190,amazon prime,-999.0,41490,Low
+C190,cafe coffee day,-883.67,30093,Low
+C190,dmart,-1058.77,27617,Low
+C190,flipkart,-1298.0,37486,Low
+C190,medical store,-1042.33,33794,Low
+C190,petrol pump,-1077.32,25651,Low
+C190,reliance smart,-1201.48,31541,Low
+C190,uber,-1065.72,9393,Low
+C190,zomato,-1095.61,28400,Low
+C191,amazon prime,-999.0,125457,Low
+C191,cafe coffee day,-1225.76,123834,Low
+C191,dmart,-1185.21,118939,Low
+C191,electricity bill,-1500.0,114580,Low
+C191,medical store,-956.11,116080,Low
+C191,netflix,-499.0,131495,Low
+C191,petrol pump,-1069.5,130460,Low
+C191,reliance smart,-937.57,110338,Low
+C191,uber,-1092.33,109863,Low
+C191,zomato,-1131.28,113388,Low
+C192,cafe coffee day,-1106.16,174311,Low
+C192,flipkart,-921.52,167089,Low
+C192,gym membership,-1200.0,184745,Low
+C192,petrol pump,-1003.73,167676,Low
+C192,reliance smart,-829.63,178920,Low
+C192,spotify,-199.0,185945,Low
+C192,uber,-1153.6,183068,Low
+C192,zomato,-997.61,195120,Low
+C193,cafe coffee day,-867.28,19634,Low
+C193,dmart,-970.33,18621,Low
+C193,electricity bill,-1500.0,219,Low
+C193,flipkart,-860.42,41650,Low
+C193,netflix,-499.0,35002,Low
+C193,swiggy,-995.16,30782,Low
+C193,uber,-895.29,24018,Low
+C193,zomato,-1178.75,32570,Low
+C194,amazon prime,-999.0,75442,Low
+C194,cafe coffee day,-1002.15,81623,Low
+C194,company,33703.71,93481,Low
+C194,dmart,-853.7,76441,Low
+C194,flipkart,-1194.5,70632,Low
+C194,netflix,-499.0,89340,Low
+C194,petrol pump,-1007.8,69955,Low
+C194,spotify,-199.0,82555,Low
+C194,swiggy,-887.71,67412,Low
+C194,zomato,-1461.19,62025,Low
+C195,electricity bill,-1500.0,130148,Low
+C195,flipkart,-1185.13,126737,Low
+C195,medical store,-986.87,123326,Low
+C195,petrol pump,-1168.22,125708,Low
+C195,swiggy,-1112.67,133170,Low
+C195,uber,-897.11,134948,Low
+C195,zomato,-934.79,130028,Low
+C196,cafe coffee day,-1012.43,102142,Low
+C196,dmart,-897.0,107118,Low
+C196,electricity bill,-1500.0,105618,Low
+C196,flipkart,-978.82,111382,Low
+C196,medical store,-1195.12,110180,Low
+C196,netflix,-499.0,110883,Low
+C196,petrol pump,-1237.25,103674,Low
+C196,swiggy,-974.79,108107,Low
+C196,uber,-1316.23,119871,Low
+C196,zomato,-1093.13,100446,Low
+C197,cafe coffee day,-1193.48,104860,Low
+C197,dmart,-1084.12,89406,Low
+C197,flipkart,-1198.41,87092,Low
+C197,medical store,-1076.45,88090,Low
+C197,netflix,-499.0,108971,Low
+C197,petrol pump,-1247.5,103293,Low
+C197,reliance smart,-889.33,92011,Low
+C197,swiggy,-852.95,94225,Low
+C197,zomato,-1171.52,85442,Low
+C198,netflix,-499.0,93,Low
+C198,reliance smart,-1160.0,93,Low
+C198,swiggy,-957.68,93,Low
+C198,uber,-988.5,93,Low
+C198,zomato,-1077.05,93,Low
+C199,amazon prime,-999.0,270133,Low
+C199,cafe coffee day,-994.55,266072,Low
+C199,dmart,-1174.91,260519,Low
+C199,flipkart,-790.06,261955,Low
+C199,gym membership,-1200.0,268933,Low
+C199,medical store,-1191.61,258830,Low
+C199,netflix,-499.0,274643,Low
+C199,petrol pump,-1134.8,260168,Low
+C199,reliance smart,-1072.1,283449,Low
+C199,swiggy,-1068.76,276886,Low
+C2,cafe coffee day,-1124.68,179987,Low
+C2,dmart,-1321.85,180605,Low
+C2,flipkart,-1086.18,190241,Low
+C2,medical store,-1270.39,182436,Low
+C2,netflix,-499.0,184105,Low
+C2,reliance smart,-974.75,184604,Low
+C2,spotify,-199.0,190042,Low
+C2,swiggy,-1089.0,185378,Low
+C20,cafe coffee day,-1051.95,86012,Low
+C20,company,30943.0,104276,Low
+C20,flipkart,-1182.32,68677,Low
+C20,netflix,-499.0,96401,Low
+C20,swiggy,-938.33,68437,Low
+C20,zomato,-1032.0,75250,Low
+C200,amazon prime,-999.0,65043,Low
+C200,cafe coffee day,-1156.27,61882,Low
+C200,dmart,-994.82,58550,Low
+C200,gym membership,-1200.0,70716,Low
+C200,medical store,-931.83,37490,Low
+C200,netflix,-499.0,74401,Low
+C200,petrol pump,-895.24,67540,Low
+C200,zomato,-906.63,167,Low
+C201,company,34841.71,96719,Low
+C201,dmart,-1092.43,68930,Low
+C201,electricity bill,-1500.0,40393,Low
+C201,gym membership,-1200.0,95519,Low
+C201,medical store,-863.75,77828,Low
+C201,reliance smart,-1031.33,82203,Low
+C201,swiggy,-901.46,68342,Low
+C202,electricity bill,-1500.0,28968,Low
+C202,flipkart,-1032.67,25544,Low
+C202,petrol pump,-982.0,4894,Low
+C202,uber,-810.24,13970,Low
+C202,zomato,-1205.86,5401,Low
+C203,cafe coffee day,-1004.29,148732,Low
+C203,electricity bill,-1500.0,152916,Low
+C203,flipkart,-1116.42,144867,Low
+C203,gym membership,-1200.0,140191,Low
+C203,medical store,-788.32,135228,Low
+C203,reliance smart,-1031.44,136810,Low
+C203,spotify,-199.0,169446,Low
+C203,uber,-919.7,142987,Low
+C203,zomato,-1079.88,138999,Low
+C204,amazon prime,-999.0,28514,Low
+C204,cafe coffee day,-875.57,9874,Low
+C204,dmart,-1180.29,44,Low
+C204,electricity bill,-1500.0,10136,Low
+C204,flipkart,-1199.29,9142,Low
+C204,gym membership,-1200.0,13458,Low
+C204,medical store,-961.1,7745,Low
+C204,petrol pump,-1209.18,22337,Low
+C204,reliance smart,-1217.0,24076,Low
+C204,uber,-979.95,17148,Low
+C205,company,38960.71,114224,Low
+C205,dmart,-1158.35,87389,Low
+C205,electricity bill,-1500.0,91437,Low
+C205,medical store,-1100.89,89248,Low
+C205,reliance smart,-858.05,107219,Low
+C205,swiggy,-1088.4,87751,Low
+C205,uber,-973.37,99986,Low
+C205,zomato,-1290.67,94544,Low
+C206,amazon prime,-999.0,31805,Low
+C206,dmart,-1123.9,686,Low
+C206,electricity bill,-1500.0,686,Low
+C206,flipkart,-950.88,7954,Low
+C206,gym membership,-1200.0,16211,Low
+C206,medical store,-936.5,686,Low
+C206,petrol pump,-1108.32,686,Low
+C206,reliance smart,-1152.67,686,Low
+C206,swiggy,-1037.85,15018,Low
+C206,uber,-1134.53,18923,Low
+C206,zomato,-1061.74,3924,Low
+C207,cafe coffee day,-1192.67,93,Low
+C207,electricity bill,-1500.0,15979,Low
+C207,flipkart,-1134.5,199,Low
+C207,medical store,-1115.35,199,Low
+C207,netflix,-499.0,6510,Low
+C207,petrol pump,-813.22,199,Low
+C207,reliance smart,-997.0,199,Low
+C207,swiggy,-1091.43,199,Low
+C207,uber,-1144.74,1338,Low
+C208,amazon prime,-999.0,73080,Low
+C208,electricity bill,-1500.0,70082,Low
+C208,flipkart,-1014.05,74079,Low
+C208,gym membership,-1200.0,82705,Low
+C208,medical store,-1136.48,67603,Low
+C208,swiggy,-1039.65,78418,Low
+C208,uber,-962.7,68877,Low
+C208,zomato,-818.5,79342,Low
+C209,amazon prime,-999.0,130,Low
+C209,dmart,-1090.42,130,Low
+C209,flipkart,-769.94,130,Low
+C209,reliance smart,-1227.76,130,Low
+C209,swiggy,-1300.59,130,Low
+C209,uber,-1009.05,130,Low
+C209,zomato,-809.41,130,Low
+C21,amazon prime,-999.0,99661,Low
+C21,cafe coffee day,-908.65,71910,Low
+C21,dmart,-1042.15,65372,Low
+C21,gym membership,-1200.0,71382,Low
+C21,medical store,-1315.29,72101,Low
+C21,netflix,-499.0,67527,Low
+C21,petrol pump,-1131.7,70276,Low
+C21,uber,-1100.7,69124,Low
+C21,zomato,-1073.6,74664,Low
+C210,cafe coffee day,-836.41,33907,Low
+C210,dmart,-1092.24,23241,Low
+C210,gym membership,-1200.0,36520,Low
+C210,petrol pump,-1038.6,41234,Low
+C210,uber,-1127.72,18989,Low
+C210,zomato,-1299.67,28177,Low
+C211,amazon prime,-999.0,273,Low
+C211,flipkart,-1229.11,536,Low
+C211,medical store,-881.57,273,Low
+C211,netflix,-499.0,12332,Low
+C211,reliance smart,-968.58,536,Low
+C211,uber,-988.41,6955,Low
+C212,amazon prime,-999.0,142444,Low
+C212,dmart,-1005.12,114191,Low
+C212,medical store,-1101.89,120723,Low
+C212,netflix,-499.0,114715,Low
+C212,petrol pump,-818.27,158509,Low
+C212,swiggy,-1067.21,119160,Low
+C212,uber,-1079.6,116179,Low
+C213,amazon prime,-999.0,128325,Low
+C213,dmart,-970.44,130518,Low
+C213,flipkart,-1140.88,121932,Low
+C213,gym membership,-1200.0,126651,Low
+C213,petrol pump,-1234.05,120031,Low
+C213,reliance smart,-1028.22,134127,Low
+C213,swiggy,-959.43,135354,Low
+C213,uber,-991.05,118768,Low
+C213,zomato,-1002.74,123948,Low
+C214,cafe coffee day,-1069.94,52722,Low
+C214,company,30351.0,60705,Low
+C214,electricity bill,-1500.0,57521,Low
+C214,flipkart,-1047.38,35993,Low
+C214,medical store,-1223.41,44144,Low
+C214,petrol pump,-1105.19,30705,Low
+C214,swiggy,-883.93,33035,Low
+C214,zomato,-1035.79,36971,Low
+C215,amazon prime,-999.0,63181,Low
+C215,dmart,-1254.4,65981,Low
+C215,flipkart,-1131.1,58951,Low
+C215,medical store,-853.59,83537,Low
+C215,netflix,-499.0,44730,Low
+C215,reliance smart,-1272.0,76196,Low
+C215,swiggy,-1221.56,68826,Low
+C216,dmart,-942.32,63237,Low
+C216,electricity bill,-1500.0,60112,Low
+C216,flipkart,-1130.48,66629,Low
+C216,gym membership,-1200.0,62037,Low
+C216,reliance smart,-977.27,58474,Low
+C216,spotify,-199.0,63638,Low
+C216,swiggy,-896.08,61612,Low
+C216,uber,-997.38,82421,Low
+C217,electricity bill,-1500.0,22338,Low
+C217,flipkart,-1222.47,12779,Low
+C217,gym membership,-1200.0,37702,Low
+C217,medical store,-1064.9,11933,Low
+C217,petrol pump,-1063.04,2181,Low
+C217,spotify,-199.0,20371,Low
+C217,swiggy,-1161.65,23838,Low
+C217,zomato,-844.8,14949,Low
+C218,cafe coffee day,-965.92,53979,Low
+C218,company,31588.5,65716,Low
+C218,electricity bill,-1500.0,73,Low
+C218,flipkart,-1087.0,59900,Low
+C218,gym membership,-1200.0,49767,Low
+C218,medical store,-849.06,73,Low
+C218,reliance smart,-989.79,48580,Low
+C218,spotify,-199.0,59550,Low
+C218,uber,-1183.2,62679,Low
+C219,dmart,-1136.6,5944,Low
+C219,flipkart,-1232.23,17674,Low
+C219,gym membership,-1200.0,24094,Low
+C219,medical store,-980.38,3976,Low
+C219,netflix,-499.0,34504,Low
+C219,petrol pump,-819.53,14127,Low
+C219,reliance smart,-1160.81,6146,Low
+C219,swiggy,-898.37,5052,Low
+C219,zomato,-1222.32,2462,Low
+C22,dmart,-1057.41,17828,Low
+C22,flipkart,-812.1,29418,Low
+C22,gym membership,-1200.0,16628,Low
+C22,netflix,-499.0,41826,Low
+C22,reliance smart,-769.11,14902,Low
+C22,spotify,-199.0,46604,Low
+C220,cafe coffee day,-1310.12,76463,Low
+C220,company,38806.71,103761,Low
+C220,flipkart,-1021.96,78688,Low
+C220,medical store,-1013.88,96298,Low
+C220,netflix,-499.0,75964,Low
+C220,petrol pump,-1123.17,71918,Low
+C220,reliance smart,-833.82,75584,Low
+C220,spotify,-199.0,99981,Low
+C220,swiggy,-1024.04,94965,Low
+C220,uber,-999.45,72147,Low
+C221,cafe coffee day,-992.68,18933,Low
+C221,dmart,-992.13,22835,Low
+C221,electricity bill,-1500.0,1378,Low
+C221,netflix,-499.0,21958,Low
+C221,reliance smart,-1060.83,22457,Low
+C221,swiggy,-1243.0,24081,Low
+C221,uber,-1062.55,20300,Low
+C221,zomato,-892.56,45552,Low
+C222,amazon prime,-999.0,75638,Low
+C222,cafe coffee day,-887.56,53303,Low
+C222,company,36880.0,78480,Low
+C222,dmart,-1125.61,69564,Low
+C222,flipkart,-1234.79,51895,Low
+C222,medical store,-1051.89,48939,Low
+C222,netflix,-499.0,77981,Low
+C222,petrol pump,-1176.52,55045,Low
+C222,uber,-1092.82,50742,Low
+C223,cafe coffee day,-1155.38,51300,Low
+C223,company,36870.33,68402,Low
+C223,electricity bill,-1500.0,65860,Low
+C223,flipkart,-1249.85,60284,Low
+C223,gym membership,-1200.0,55559,Low
+C223,petrol pump,-868.58,45597,Low
+C223,reliance smart,-1057.57,47920,Low
+C223,spotify,-199.0,57801,Low
+C223,swiggy,-1109.79,49947,Low
+C223,uber,-959.42,51778,Low
+C223,zomato,-512.33,48927,Low
+C224,dmart,-1100.96,47692,Low
+C224,electricity bill,-1500.0,46192,Low
+C224,medical store,-1177.25,55925,Low
+C224,petrol pump,-879.16,37326,Low
+C224,reliance smart,-1191.76,42099,Low
+C224,uber,-1132.43,38221,Low
+C224,zomato,-719.83,54477,Low
+C225,dmart,-1128.62,56546,Low
+C225,flipkart,-1002.46,62202,Low
+C225,medical store,-1090.63,60429,Low
+C225,reliance smart,-1120.88,63639,Low
+C225,spotify,-199.0,77986,Low
+C225,uber,-884.7,60732,Low
+C225,zomato,-1064.33,50650,Low
+C226,cafe coffee day,-998.73,95760,Low
+C226,company,41626.57,132083,Low
+C226,dmart,-989.91,94618,Low
+C226,electricity bill,-1500.0,113464,Low
+C226,flipkart,-1049.08,105976,Low
+C226,medical store,-1136.24,99648,Low
+C226,petrol pump,-1120.0,111022,Low
+C226,reliance smart,-1161.68,120315,Low
+C226,uber,-1115.68,97667,Low
+C226,zomato,-885.55,96922,Low
+C227,electricity bill,-1500.0,137085,Low
+C227,netflix,-499.0,140785,Low
+C227,swiggy,-1173.28,117639,Low
+C227,uber,-1149.35,138585,Low
+C227,zomato,-954.6,129386,Low
+C228,cafe coffee day,-1037.11,80869,Low
+C228,medical store,-1198.05,71570,Low
+C228,netflix,-499.0,82026,Low
+C228,petrol pump,-828.89,74105,Low
+C228,reliance smart,-748.53,98616,Low
+C228,spotify,-199.0,87624,Low
+C228,swiggy,-1099.23,72845,Low
+C228,uber,-965.77,90914,Low
+C228,zomato,-1022.81,72485,Low
+C229,amazon prime,-999.0,43522,Low
+C229,company,36266.25,50609,Low
+C229,dmart,-904.2,25882,Low
+C229,flipkart,-1094.39,34322,Low
+C229,gym membership,-1200.0,42322,Low
+C229,medical store,-1036.7,30317,Low
+C229,spotify,-199.0,22232,Low
+C229,swiggy,-869.48,24080,Low
+C23,cafe coffee day,-995.95,107411,Low
+C23,electricity bill,-1500.0,92688,Low
+C23,netflix,-499.0,94188,Low
+C23,petrol pump,-1111.9,103867,Low
+C23,reliance smart,-1326.82,98964,Low
+C23,swiggy,-1040.25,126433,Low
+C23,uber,-1257.06,100481,Low
+C230,cafe coffee day,-1097.68,18537,Low
+C230,dmart,-1137.12,608,Low
+C230,flipkart,-1021.68,455,Low
+C230,gym membership,-1200.0,19335,Low
+C230,medical store,-1222.5,455,Low
+C230,netflix,-499.0,14154,Low
+C230,petrol pump,-1023.74,190,Low
+C230,reliance smart,-1152.43,9549,Low
+C230,swiggy,-1087.76,7556,Low
+C231,cafe coffee day,-937.65,32,Low
+C231,electricity bill,-1500.0,2545,Low
+C231,gym membership,-1200.0,32,Low
+C231,medical store,-1035.95,32,Low
+C231,netflix,-499.0,32,Low
+C231,petrol pump,-1116.19,32,Low
+C231,swiggy,-1085.68,32,Low
+C231,uber,-901.59,32,Low
+C231,zomato,-1152.1,32,Low
+C232,amazon prime,-999.0,147229,Low
+C232,cafe coffee day,-1148.59,123466,Low
+C232,dmart,-1035.95,125616,Low
+C232,flipkart,-1162.39,121541,Low
+C232,medical store,-1143.17,133780,Low
+C232,petrol pump,-987.68,103501,Low
+C232,swiggy,-942.4,128115,Low
+C232,uber,-1075.57,135734,Low
+C233,cafe coffee day,-1091.6,33754,Low
+C233,dmart,-1073.84,39084,Low
+C233,electricity bill,-1500.0,37584,Low
+C233,petrol pump,-1176.05,60087,Low
+C233,swiggy,-1110.55,42906,Low
+C233,uber,-1175.24,41226,Low
+C234,cafe coffee day,-1086.05,51840,Low
+C234,company,32375.43,71318,Low
+C234,flipkart,-922.88,46678,Low
+C234,gym membership,-1200.0,67658,Low
+C234,medical store,-1304.64,60544,Low
+C234,petrol pump,-839.06,50514,Low
+C234,reliance smart,-922.85,67201,Low
+C234,spotify,-199.0,56922,Low
+C234,swiggy,-982.67,45452,Low
+C234,zomato,-1045.43,57187,Low
+C235,cafe coffee day,-850.0,71325,Low
+C235,company,34583.0,76162,Low
+C235,dmart,-902.38,44617,Low
+C235,electricity bill,-1500.0,48746,Low
+C235,flipkart,-1013.05,52293,Low
+C235,netflix,-499.0,70826,Low
+C235,petrol pump,-923.13,54284,Low
+C235,reliance smart,-1000.55,43664,Low
+C235,spotify,-199.0,60526,Low
+C235,swiggy,-1159.15,46163,Low
+C235,zomato,-1023.25,50246,Low
+C236,cafe coffee day,-1206.41,108170,Low
+C236,dmart,-1046.65,87506,Low
+C236,electricity bill,-1500.0,84567,Low
+C236,flipkart,-1062.59,76694,Low
+C236,gym membership,-1200.0,105053,Low
+C236,medical store,-1254.43,83069,Low
+C236,petrol pump,-1186.71,77806,Low
+C236,reliance smart,-1137.88,87886,Low
+C236,spotify,-199.0,92956,Low
+C236,uber,-1104.42,86067,Low
+C237,amazon prime,-999.0,47195,Low
+C237,cafe coffee day,-1124.05,56838,Low
+C237,netflix,-499.0,67703,Low
+C237,petrol pump,-1055.2,46766,Low
+C237,reliance smart,-774.53,14543,Low
+C237,swiggy,-1156.78,50052,Low
+C237,uber,-1101.32,54494,Low
+C237,zomato,-1298.56,50380,Low
+C238,cafe coffee day,-1079.0,164878,Low
+C238,flipkart,-820.11,159836,Low
+C238,medical store,-1100.91,97437,Low
+C238,spotify,-199.0,164679,Low
+C238,swiggy,-1130.06,152377,Low
+C238,uber,-1070.6,160950,Low
+C238,zomato,-1239.26,155798,Low
+C239,cafe coffee day,-1072.88,378,Low
+C239,dmart,-1003.46,1703,Low
+C239,electricity bill,-1500.0,556,Low
+C239,flipkart,-1154.67,10917,Low
+C239,gym membership,-1200.0,9717,Low
+C239,medical store,-868.6,556,Low
+C239,petrol pump,-997.14,556,Low
+C239,swiggy,-828.05,556,Low
+C239,uber,-1152.71,556,Low
+C239,zomato,-1146.52,378,Low
+C24,cafe coffee day,-1134.4,4003,Low
+C24,dmart,-1018.81,10656,Low
+C24,electricity bill,-1500.0,38180,Low
+C24,flipkart,-1038.45,8762,Low
+C24,medical store,-1098.17,5503,Low
+C24,netflix,-499.0,40883,Low
+C24,petrol pump,-1124.04,12994,Low
+C24,reliance smart,-1231.6,386,Low
+C24,spotify,-199.0,19472,Low
+C24,swiggy,-946.89,7686,Low
+C24,zomato,-961.15,386,Low
+C240,amazon prime,-999.0,26166,Low
+C240,cafe coffee day,-1172.8,21327,Low
+C240,dmart,-915.6,22971,Low
+C240,gym membership,-1200.0,46041,Low
+C240,medical store,-1036.95,16142,Low
+C240,petrol pump,-1109.78,47241,Low
+C240,spotify,-199.0,33950,Low
+C240,swiggy,-1011.15,25748,Low
+C240,zomato,-1013.85,21909,Low
+C241,amazon prime,-999.0,27553,Low
+C241,cafe coffee day,-1199.27,44991,Low
+C241,dmart,-992.86,32829,Low
+C241,flipkart,-1252.92,48011,Low
+C241,reliance smart,-1143.91,44206,Low
+C241,uber,-1213.86,52865,Low
+C241,zomato,-966.62,66078,Low
+C242,cafe coffee day,-968.81,73922,Low
+C242,company,30993.86,79063,Low
+C242,electricity bill,-1500.0,71202,Low
+C242,flipkart,-913.0,56526,Low
+C242,medical store,-1114.11,59067,Low
+C242,petrol pump,-989.72,62019,Low
+C243,amazon prime,-999.0,0,Low
+C243,cafe coffee day,-1033.7,0,Low
+C243,dmart,-1021.3,0,Low
+C243,petrol pump,-1390.43,0,Low
+C243,spotify,-199.0,0,Low
+C243,swiggy,-1157.17,0,Low
+C243,zomato,-1161.0,0,Low
+C244,amazon prime,-999.0,935,Low
+C244,dmart,-1121.43,274,Low
+C244,electricity bill,-1500.0,489,Low
+C244,gym membership,-1200.0,2726,Low
+C244,swiggy,-996.83,274,Low
+C244,uber,-1091.75,489,Low
+C244,zomato,-1138.0,274,Low
+C245,dmart,-1102.52,372516,Low
+C245,electricity bill,-1500.0,391098,Low
+C245,medical store,-1029.8,368989,Low
+C245,petrol pump,-890.53,307029,Low
+C245,reliance smart,-1075.26,374579,Low
+C245,swiggy,-997.46,378290,Low
+C245,uber,-1118.95,373029,Low
+C245,zomato,-955.14,371807,Low
+C246,amazon prime,-999.0,94,Low
+C246,cafe coffee day,-948.0,94,Low
+C246,dmart,-1201.7,94,Low
+C246,flipkart,-1029.29,94,Low
+C246,gym membership,-1200.0,94,Low
+C246,reliance smart,-1044.65,94,Low
+C246,spotify,-199.0,94,Low
+C246,swiggy,-1108.84,94,Low
+C246,uber,-880.89,94,Low
+C247,amazon prime,-999.0,96529,Low
+C247,company,35217.14,103169,Low
+C247,electricity bill,-1500.0,75663,Low
+C247,flipkart,-1083.5,79772,Low
+C247,medical store,-875.09,70038,Low
+C247,reliance smart,-877.29,69105,Low
+C247,swiggy,-1112.42,78164,Low
+C247,uber,-1013.73,74876,Low
+C248,company,34979.0,66223,Low
+C248,flipkart,-1153.47,49,Low
+C248,medical store,-1060.58,49,Low
+C248,spotify,-199.0,49,Low
+C248,swiggy,-938.38,49,Low
+C248,zomato,-1155.55,49,Low
+C249,cafe coffee day,-1193.76,188025,Low
+C249,dmart,-1078.8,198626,Low
+C249,electricity bill,-1500.0,194979,Low
+C249,flipkart,-1087.92,191041,Low
+C249,gym membership,-1200.0,214537,Low
+C249,medical store,-1142.29,186333,Low
+C249,netflix,-499.0,194480,Low
+C249,petrol pump,-1082.59,201928,Low
+C249,reliance smart,-1101.91,193882,Low
+C249,swiggy,-1122.5,194207,Low
+C249,uber,-1074.53,200310,Low
+C25,electricity bill,-1500.0,18190,Low
+C25,flipkart,-1310.55,29088,Low
+C25,medical store,-905.65,19690,Low
+C25,spotify,-199.0,29501,Low
+C25,swiggy,-1156.59,27005,Low
+C25,uber,-1039.88,22575,Low
+C25,zomato,-1096.44,25834,Low
+C250,cafe coffee day,-1035.0,107397,Low
+C250,flipkart,-1080.53,125969,Low
+C250,medical store,-1132.0,115617,Low
+C250,petrol pump,-1081.0,106550,Low
+C250,reliance smart,-939.6,118499,Low
+C250,spotify,-199.0,127713,Low
+C250,swiggy,-990.33,106906,Low
+C250,uber,-1013.68,92366,Low
+C250,zomato,-1119.12,107548,Low
+C251,amazon prime,-999.0,14794,Low
+C251,dmart,-1018.82,15793,Low
+C251,medical store,-1084.15,23354,Low
+C251,petrol pump,-1145.0,25498,Low
+C251,reliance smart,-1024.1,6134,Low
+C251,spotify,-199.0,85,Low
+C251,uber,-1168.62,11453,Low
+C252,amazon prime,-999.0,186152,Low
+C252,cafe coffee day,-1247.33,191967,Low
+C252,dmart,-1047.33,197780,Low
+C252,gym membership,-1200.0,194749,Low
+C252,medical store,-860.65,184388,Low
+C252,petrol pump,-1252.55,185801,Low
+C252,reliance smart,-983.32,184705,Low
+C252,spotify,-199.0,185188,Low
+C252,swiggy,-1241.94,197205,Low
+C252,uber,-1035.94,200191,Low
+C253,amazon prime,-999.0,151556,Low
+C253,cafe coffee day,-1026.56,135713,Low
+C253,electricity bill,-1500.0,148211,Low
+C253,flipkart,-909.04,136607,Low
+C253,medical store,-1016.39,123609,Low
+C253,netflix,-499.0,126151,Low
+C253,reliance smart,-1299.55,127289,Low
+C253,swiggy,-1211.09,137238,Low
+C253,uber,-920.48,138971,Low
+C253,zomato,-1118.41,124805,Low
+C254,amazon prime,-999.0,115266,Low
+C254,electricity bill,-1500.0,132617,Low
+C254,medical store,-1069.11,121825,Low
+C254,netflix,-499.0,135814,Low
+C254,petrol pump,-994.95,128143,Low
+C254,reliance smart,-771.5,117088,Low
+C254,swiggy,-1107.86,119912,Low
+C254,uber,-1047.86,113068,Low
+C255,amazon prime,-999.0,68067,Low
+C255,electricity bill,-1500.0,87036,Low
+C255,flipkart,-980.96,57541,Low
+C255,gym membership,-1200.0,79182,Low
+C255,medical store,-1223.21,63415,Low
+C255,reliance smart,-932.96,72787,Low
+C255,swiggy,-1003.56,60110,Low
+C256,amazon prime,-999.0,153,Low
+C256,cafe coffee day,-1061.9,6666,Low
+C256,company,32483.0,66545,Low
+C256,electricity bill,-1500.0,153,Low
+C256,gym membership,-1200.0,8578,Low
+C256,medical store,-1105.26,153,Low
+C256,petrol pump,-1101.4,574,Low
+C256,reliance smart,-1089.73,18732,Low
+C256,swiggy,-1302.48,153,Low
+C257,amazon prime,-999.0,218494,Low
+C257,dmart,-948.89,222344,Low
+C257,gym membership,-1200.0,230124,Low
+C257,medical store,-988.53,224419,Low
+C257,netflix,-499.0,226995,Low
+C257,petrol pump,-977.0,168012,Low
+C257,reliance smart,-980.22,220136,Low
+C257,swiggy,-1060.92,202004,Low
+C257,uber,-1002.32,227494,Low
+C258,cafe coffee day,-874.3,65749,Low
+C258,company,33076.8,86726,Low
+C258,dmart,-1213.84,61136,Low
+C258,medical store,-983.12,67517,Low
+C258,netflix,-499.0,76661,Low
+C258,reliance smart,-1065.64,64014,Low
+C258,spotify,-199.0,84461,Low
+C259,amazon prime,-999.0,23130,Low
+C259,cafe coffee day,-1069.41,28957,Low
+C259,electricity bill,-1500.0,20765,Low
+C259,flipkart,-913.25,10966,Low
+C259,netflix,-499.0,17084,Low
+C259,petrol pump,-922.72,17583,Low
+C259,reliance smart,-962.06,19691,Low
+C259,swiggy,-814.6,12429,Low
+C259,uber,-1187.81,12849,Low
+C259,zomato,-1051.88,30430,Low
+C26,cafe coffee day,-1147.74,42073,Low
+C26,company,37685.5,50121,Low
+C26,dmart,-921.86,24023,Low
+C26,flipkart,-1198.0,25063,Low
+C26,gym membership,-1200.0,46803,Low
+C26,medical store,-1159.0,22593,Low
+C26,swiggy,-1118.88,20977,Low
+C26,uber,-1133.58,23339,Low
+C26,zomato,-981.0,25454,Low
+C260,amazon prime,-999.0,42569,Low
+C260,cafe coffee day,-1100.05,29631,Low
+C260,company,33773.83,58058,Low
+C260,dmart,-1147.61,36069,Low
+C260,medical store,-1080.36,50921,Low
+C260,reliance smart,-989.39,36332,Low
+C260,uber,-799.45,33677,Low
+C261,cafe coffee day,-955.75,532,Low
+C261,company,41450.0,57919,Low
+C261,dmart,-955.19,19736,Low
+C261,electricity bill,-1500.0,12710,Low
+C261,gym membership,-1200.0,18536,Low
+C261,petrol pump,-1367.94,2203,Low
+C261,zomato,-1120.82,1018,Low
+C262,amazon prime,-999.0,13535,Low
+C262,cafe coffee day,-988.45,15100,Low
+C262,dmart,-1002.39,16729,Low
+C262,gym membership,-1200.0,19504,Low
+C262,medical store,-1259.32,18954,Low
+C262,reliance smart,-794.48,9093,Low
+C262,spotify,-199.0,33434,Low
+C262,swiggy,-1064.45,2786,Low
+C262,uber,-938.86,5764,Low
+C262,zomato,-1031.68,12927,Low
+C263,cafe coffee day,-912.35,15502,Low
+C263,company,33825.25,40237,Low
+C263,dmart,-1032.77,23133,Low
+C263,medical store,-1069.1,14504,Low
+C263,petrol pump,-1143.19,12300,Low
+C263,spotify,-199.0,24562,Low
+C263,swiggy,-1178.71,10473,Low
+C263,zomato,-1098.31,18233,Low
+C264,cafe coffee day,-1298.26,186091,Low
+C264,dmart,-1118.2,188379,Low
+C264,flipkart,-1044.56,182225,Low
+C264,medical store,-782.19,190383,Low
+C264,netflix,-499.0,210303,Low
+C264,petrol pump,-1168.1,184551,Low
+C264,reliance smart,-1052.0,187714,Low
+C264,swiggy,-973.42,182789,Low
+C265,amazon prime,-999.0,35868,Low
+C265,cafe coffee day,-1165.5,21353,Low
+C265,dmart,-1040.08,10002,Low
+C265,flipkart,-1361.76,7484,Low
+C265,medical store,-1037.0,11125,Low
+C265,netflix,-499.0,76,Low
+C265,spotify,-199.0,30284,Low
+C265,uber,-1212.5,19521,Low
+C265,zomato,-1092.95,16505,Low
+C266,amazon prime,-999.0,137751,Low
+C266,cafe coffee day,-1210.94,140594,Low
+C266,flipkart,-1012.09,113311,Low
+C266,medical store,-1064.83,117316,Low
+C266,netflix,-499.0,120012,Low
+C266,petrol pump,-1154.75,114076,Low
+C266,reliance smart,-1018.91,127539,Low
+C266,spotify,-199.0,115669,Low
+C266,swiggy,-1140.19,112372,Low
+C266,uber,-912.5,117117,Low
+C266,zomato,-1004.1,119255,Low
+C267,dmart,-1127.06,186049,Low
+C267,electricity bill,-1500.0,178524,Low
+C267,flipkart,-991.58,170008,Low
+C267,medical store,-1021.26,176777,Low
+C267,petrol pump,-1153.84,184606,Low
+C267,reliance smart,-1050.22,182723,Low
+C267,swiggy,-1148.35,163794,Low
+C268,dmart,-1093.35,77613,Low
+C268,gym membership,-1200.0,68373,Low
+C268,medical store,-1168.12,75728,Low
+C268,netflix,-499.0,89165,Low
+C268,petrol pump,-870.3,66366,Low
+C268,reliance smart,-1093.94,89002,Low
+C268,spotify,-199.0,68174,Low
+C268,swiggy,-1061.59,69573,Low
+C268,uber,-1089.4,72288,Low
+C268,zomato,-1229.45,68011,Low
+C269,amazon prime,-999.0,58408,Low
+C269,company,32248.0,88261,Low
+C269,flipkart,-1139.96,66350,Low
+C269,gym membership,-1200.0,79333,Low
+C269,medical store,-991.21,72084,Low
+C269,uber,-1002.07,76180,Low
+C269,zomato,-1056.39,68230,Low
+C27,cafe coffee day,-936.05,105021,Low
+C27,dmart,-1147.3,106971,Low
+C27,flipkart,-1027.74,101405,Low
+C27,medical store,-1151.72,112708,Low
+C27,netflix,-499.0,125048,Low
+C27,reliance smart,-802.37,111733,Low
+C27,spotify,-199.0,106772,Low
+C27,uber,-1201.77,103215,Low
+C27,zomato,-1273.05,109803,Low
+C270,cafe coffee day,-1141.82,17359,Low
+C270,company,33449.2,32424,High
+C270,electricity bill,-1500.0,27154,Low
+C270,flipkart,-912.14,30666,Low
+C270,gym membership,-1200.0,24365,Low
+C270,petrol pump,-1098.96,15843,Low
+C270,reliance smart,-973.62,15285,Low
+C270,swiggy,-1025.52,14651,Low
+C270,uber,-963.25,11981,Low
+C271,cafe coffee day,-1011.32,76767,Low
+C271,dmart,-1110.05,96124,Low
+C271,electricity bill,-1500.0,81492,Low
+C271,flipkart,-1027.36,92240,Low
+C271,petrol pump,-1249.89,77746,Low
+C271,spotify,-199.0,86831,Low
+C271,swiggy,-1098.68,83792,Low
+C271,uber,-1007.86,87598,Low
+C271,zomato,-736.48,79591,Low
+C272,amazon prime,-999.0,75034,Low
+C272,cafe coffee day,-1019.24,60172,Low
+C272,electricity bill,-1500.0,76882,Low
+C272,flipkart,-991.88,55138,Low
+C272,medical store,-1134.95,64502,Low
+C272,petrol pump,-935.05,57477,Low
+C272,reliance smart,-866.42,63893,Low
+C272,swiggy,-1255.4,61235,Low
+C272,uber,-932.17,57277,Low
+C273,cafe coffee day,-990.06,11960,Low
+C273,flipkart,-995.46,12572,Low
+C273,medical store,-744.47,8957,Low
+C273,petrol pump,-1332.24,11063,Low
+C273,spotify,-199.0,20231,Low
+C273,swiggy,-844.94,33703,Low
+C274,electricity bill,-1500.0,117355,Low
+C274,gym membership,-1200.0,101137,Low
+C274,medical store,-1150.0,102616,Low
+C274,reliance smart,-1089.8,94147,Low
+C274,spotify,-199.0,118855,Low
+C274,zomato,-986.73,90639,Low
+C275,amazon prime,-999.0,20328,Low
+C275,cafe coffee day,-1060.33,10523,Low
+C275,flipkart,-1146.22,12764,Low
+C275,gym membership,-1200.0,17820,Low
+C275,petrol pump,-1106.32,14278,Low
+C275,spotify,-199.0,8331,Low
+C275,swiggy,-1072.65,24348,Low
+C275,uber,-900.33,23147,Low
+C275,zomato,-989.0,24623,Low
+C276,amazon prime,-999.0,88389,Low
+C276,cafe coffee day,-908.05,71154,Low
+C276,flipkart,-1053.62,75658,Low
+C276,medical store,-1118.82,82370,Low
+C276,netflix,-499.0,89388,Low
+C276,petrol pump,-745.78,68910,Low
+C276,spotify,-199.0,88190,Low
+C276,swiggy,-1177.5,69638,Low
+C276,uber,-1063.52,69927,Low
+C276,zomato,-881.47,74091,Low
+C277,amazon prime,-999.0,25374,Low
+C277,cafe coffee day,-1025.73,14034,Low
+C277,company,29845.83,42842,Low
+C277,dmart,-1149.05,16114,Low
+C277,electricity bill,-1500.0,22237,Low
+C277,flipkart,-1120.73,24640,Low
+C277,medical store,-943.1,12680,Low
+C277,petrol pump,-1189.43,17712,Low
+C277,reliance smart,-980.9,13891,Low
+C277,swiggy,-1241.61,38916,Low
+C278,amazon prime,-999.0,36506,Low
+C278,cafe coffee day,-1268.63,33664,Low
+C278,dmart,-1063.53,38856,Low
+C278,flipkart,-783.24,20167,Low
+C278,gym membership,-1200.0,30467,Low
+C278,netflix,-499.0,48572,Low
+C278,reliance smart,-1218.32,21595,Low
+C278,swiggy,-1166.18,22862,Low
+C278,zomato,-850.9,20748,Low
+C279,dmart,-851.9,56943,Low
+C279,electricity bill,-1500.0,55443,Low
+C279,gym membership,-1200.0,18397,Low
+C279,medical store,-880.74,18064,Low
+C279,reliance smart,-1011.75,63345,Low
+C279,swiggy,-1224.91,51624,Low
+C279,zomato,-1120.47,53483,Low
+C28,amazon prime,-999.0,360,Low
+C28,cafe coffee day,-936.0,360,Low
+C28,dmart,-793.16,69,Low
+C28,flipkart,-1037.84,69,Low
+C28,medical store,-1061.63,69,Low
+C28,netflix,-499.0,14926,Low
+C28,spotify,-199.0,6741,Low
+C28,swiggy,-1252.67,12962,Low
+C28,uber,-890.48,360,Low
+C28,zomato,-888.57,69,Low
+C280,cafe coffee day,-998.74,121872,Low
+C280,dmart,-1080.63,106344,Low
+C280,flipkart,-957.05,108226,Low
+C280,gym membership,-1200.0,125436,Low
+C280,medical store,-1175.06,119356,Low
+C280,reliance smart,-956.67,113465,Low
+C280,spotify,-199.0,115353,Low
+C280,swiggy,-989.41,109148,Low
+C280,uber,-977.0,110580,Low
+C281,dmart,-1079.96,85988,Low
+C281,electricity bill,-1500.0,84488,Low
+C281,medical store,-1067.15,77091,Low
+C281,netflix,-499.0,94179,Low
+C281,petrol pump,-1056.95,81486,Low
+C281,reliance smart,-1160.95,86944,Low
+C281,uber,-1199.33,84071,Low
+C282,cafe coffee day,-1001.22,57121,Low
+C282,dmart,-997.0,43306,Low
+C282,electricity bill,-1500.0,64412,Low
+C282,flipkart,-962.88,50793,Low
+C282,medical store,-953.87,44815,Low
+C282,petrol pump,-972.58,49504,Low
+C282,spotify,-199.0,60283,Low
+C282,uber,-935.18,49364,Low
+C283,cafe coffee day,-1074.33,145954,Low
+C283,dmart,-984.5,139622,Low
+C283,flipkart,-925.47,142670,Low
+C283,medical store,-859.54,147783,Low
+C283,netflix,-499.0,155212,Low
+C283,reliance smart,-1233.83,101485,Low
+C283,uber,-1093.86,161626,Low
+C283,zomato,-1212.65,141303,Low
+C284,amazon prime,-999.0,176,Low
+C284,cafe coffee day,-912.95,25,Low
+C284,company,38404.25,46153,Low
+C284,dmart,-1221.56,25,Low
+C284,flipkart,-973.82,25,Low
+C284,gym membership,-1200.0,25,Low
+C284,medical store,-1136.0,25,Low
+C284,netflix,-499.0,176,Low
+C284,petrol pump,-1100.95,25,Low
+C284,reliance smart,-1276.47,25,Low
+C284,swiggy,-868.74,25,Low
+C284,uber,-1220.13,25,Low
+C285,cafe coffee day,-1094.5,160616,Low
+C285,dmart,-1136.37,167123,Low
+C285,electricity bill,-1500.0,171867,Low
+C285,medical store,-1138.15,164436,Low
+C285,petrol pump,-1201.89,176156,Low
+C285,reliance smart,-869.44,163194,Low
+C285,swiggy,-1205.58,166089,Low
+C285,uber,-1051.85,178365,Low
+C285,zomato,-1090.1,158691,Low
+C286,cafe coffee day,-1080.0,46734,Low
+C286,company,41152.33,75518,Low
+C286,flipkart,-990.43,45404,Low
+C286,gym membership,-1200.0,67434,Low
+C286,medical store,-1134.33,44803,Low
+C286,reliance smart,-1155.59,50479,Low
+C286,spotify,-199.0,55873,Low
+C286,uber,-1108.93,58167,Low
+C287,cafe coffee day,-912.88,6,Low
+C287,company,33261.5,39825,Low
+C287,dmart,-1005.95,6,Low
+C287,medical store,-1232.94,6,Low
+C287,reliance smart,-1096.65,6,Low
+C287,spotify,-199.0,6,Low
+C287,uber,-956.0,6,Low
+C287,zomato,-1034.2,6,Low
+C288,amazon prime,-999.0,5834,Low
+C288,electricity bill,-1500.0,183,Low
+C288,flipkart,-1094.6,27,Low
+C288,reliance smart,-1023.59,3707,Low
+C288,uber,-1100.45,183,Low
+C288,zomato,-1105.43,183,Low
+C289,amazon prime,-999.0,184568,Low
+C289,dmart,-1099.06,164376,Low
+C289,electricity bill,-1500.0,147986,Low
+C289,netflix,-499.0,170963,Low
+C289,reliance smart,-1019.43,145256,Low
+C289,uber,-1120.0,149486,Low
+C289,zomato,-1164.48,147835,Low
+C29,dmart,-1251.86,37,Low
+C29,electricity bill,-1500.0,148,Low
+C29,flipkart,-1097.2,148,Low
+C29,medical store,-915.56,148,Low
+C29,netflix,-499.0,148,Low
+C29,petrol pump,-1096.65,37,Low
+C29,reliance smart,-1051.2,37,Low
+C29,swiggy,-1033.68,148,Low
+C29,zomato,-1017.76,37,Low
+C290,amazon prime,-999.0,101436,Low
+C290,cafe coffee day,-970.5,98222,Low
+C290,company,37840.29,117191,Low
+C290,dmart,-909.21,89636,Low
+C290,electricity bill,-1500.0,108659,Low
+C290,flipkart,-1013.77,95569,Low
+C290,medical store,-910.24,97515,Low
+C290,reliance smart,-1036.35,87855,Low
+C290,spotify,-199.0,98023,Low
+C291,cafe coffee day,-1122.57,52693,Low
+C291,company,39148.4,75049,Low
+C291,dmart,-1052.65,68369,Low
+C291,flipkart,-1004.2,65500,Low
+C291,gym membership,-1200.0,62644,Low
+C291,netflix,-499.0,52194,Low
+C291,petrol pump,-908.76,51502,Low
+C291,reliance smart,-1151.11,61110,Low
+C291,spotify,-199.0,54382,Low
+C291,swiggy,-1124.84,58354,Low
+C292,amazon prime,-999.0,304430,Low
+C292,dmart,-1073.75,285972,Low
+C292,electricity bill,-1500.0,297951,Low
+C292,flipkart,-884.86,281922,Low
+C292,medical store,-1103.81,302026,Low
+C292,petrol pump,-1081.85,283383,Low
+C292,swiggy,-1034.12,290330,Low
+C292,zomato,-1110.27,307369,Low
+C293,amazon prime,-999.0,51849,Low
+C293,company,30043.0,76956,Low
+C293,dmart,-1128.04,70808,Low
+C293,electricity bill,-1500.0,69308,Low
+C293,flipkart,-1078.72,60120,Low
+C293,medical store,-937.68,52973,Low
+C293,petrol pump,-977.55,65347,Low
+C293,reliance smart,-898.28,51681,Low
+C293,zomato,-694.35,63051,Low
+C294,amazon prime,-999.0,30983,Low
+C294,cafe coffee day,-938.12,35366,Low
+C294,flipkart,-1086.0,38861,Low
+C294,petrol pump,-895.52,37295,Low
+C294,swiggy,-922.58,30284,Low
+C295,amazon prime,-999.0,41338,Low
+C295,cafe coffee day,-1060.6,23809,Low
+C295,dmart,-1025.42,21435,Low
+C295,electricity bill,-1500.0,3263,Low
+C295,flipkart,-933.09,32965,Low
+C295,gym membership,-1200.0,25116,Low
+C295,petrol pump,-985.47,35071,Low
+C295,swiggy,-955.26,26316,Low
+C295,uber,-1080.91,21097,Low
+C295,zomato,-865.43,29733,Low
+C296,amazon prime,-999.0,100,Low
+C296,company,30568.0,29718,High
+C296,dmart,-976.79,100,Low
+C296,electricity bill,-1500.0,100,Low
+C296,medical store,-1061.24,100,Low
+C296,petrol pump,-1026.67,100,Low
+C296,reliance smart,-1117.5,100,Low
+C296,swiggy,-855.05,100,Low
+C296,uber,-888.05,100,Low
+C296,zomato,-1155.67,100,Low
+C297,cafe coffee day,-1054.32,18508,Low
+C297,company,28084.67,54596,Low
+C297,electricity bill,-1500.0,29421,Low
+C297,flipkart,-909.04,36531,Low
+C297,medical store,-1294.53,37127,Low
+C297,netflix,-499.0,36032,Low
+C297,petrol pump,-1086.56,26315,Low
+C297,reliance smart,-1008.84,20651,Low
+C297,uber,-1088.81,24199,Low
+C297,zomato,-1061.71,29848,Low
+C298,cafe coffee day,-917.57,19999,Low
+C298,dmart,-945.08,15324,Low
+C298,medical store,-986.04,14797,Low
+C298,reliance smart,-789.25,29262,Low
+C298,spotify,-199.0,18154,Low
+C298,swiggy,-1243.53,24028,Low
+C298,uber,-1030.76,18020,Low
+C299,cafe coffee day,-905.84,9964,Low
+C299,electricity bill,-1500.0,12923,Low
+C299,flipkart,-1076.27,8871,Low
+C299,gym membership,-1200.0,25943,Low
+C299,medical store,-1135.38,6102,Low
+C299,netflix,-499.0,307,Low
+C299,petrol pump,-1060.8,307,Low
+C299,reliance smart,-933.18,2972,Low
+C299,swiggy,-1162.95,139,Low
+C299,uber,-1236.35,27143,Low
+C299,zomato,-1011.65,307,Low
+C3,amazon prime,-999.0,86441,Low
+C3,cafe coffee day,-853.26,93582,Low
+C3,dmart,-909.14,94960,Low
+C3,flipkart,-1292.7,82193,Low
+C3,medical store,-821.82,87440,Low
+C3,netflix,-499.0,53596,Low
+C3,petrol pump,-1050.08,82030,Low
+C3,reliance smart,-1187.72,111650,Low
+C30,amazon prime,-999.0,94639,Low
+C30,cafe coffee day,-1073.24,94004,Low
+C30,dmart,-1243.18,74713,Low
+C30,gym membership,-1200.0,87835,Low
+C30,medical store,-1090.72,63492,Low
+C30,netflix,-499.0,94140,Low
+C30,petrol pump,-1157.86,75765,Low
+C30,reliance smart,-1361.23,68540,Low
+C30,zomato,-930.45,66570,Low
+C300,amazon prime,-999.0,21002,Low
+C300,cafe coffee day,-1178.2,24438,Low
+C300,company,29065.0,52183,Low
+C300,flipkart,-892.26,33208,Low
+C300,medical store,-1013.62,30640,Low
+C300,petrol pump,-1090.75,19852,Low
+C300,reliance smart,-790.0,26869,Low
+C300,swiggy,-1222.32,20284,Low
+C300,zomato,-1063.73,33648,Low
+C301,cafe coffee day,-992.88,86031,Low
+C301,company,36007.0,93440,Low
+C301,dmart,-1096.77,63038,Low
+C301,flipkart,-1066.35,65163,Low
+C301,netflix,-499.0,73592,Low
+C301,petrol pump,-1161.9,54828,Low
+C301,reliance smart,-1100.65,55463,Low
+C301,spotify,-199.0,77986,Low
+C301,uber,-1082.42,58730,Low
+C301,zomato,-814.62,59332,Low
+C302,cafe coffee day,-1121.44,43338,Low
+C302,dmart,-1226.7,51746,Low
+C302,gym membership,-1200.0,44972,Low
+C302,medical store,-1333.39,46172,Low
+C302,petrol pump,-1197.59,38695,Low
+C302,reliance smart,-978.5,41312,Low
+C302,spotify,-199.0,55212,Low
+C302,swiggy,-907.97,39396,Low
+C302,uber,-1047.05,48451,Low
+C303,dmart,-974.21,81856,Low
+C303,medical store,-822.74,81346,Low
+C303,netflix,-499.0,97870,Low
+C303,petrol pump,-946.68,85001,Low
+C303,reliance smart,-1039.33,81218,Low
+C303,swiggy,-985.86,91696,Low
+C303,uber,-1128.8,98369,Low
+C304,cafe coffee day,-992.53,4764,Low
+C304,electricity bill,-1500.0,9320,Low
+C304,flipkart,-1055.92,15869,Low
+C304,medical store,-1188.31,28133,Low
+C304,reliance smart,-1003.15,5396,Low
+C304,swiggy,-898.72,8048,Low
+C304,uber,-1254.33,11245,Low
+C304,zomato,-1002.64,13195,Low
+C305,cafe coffee day,-924.2,4763,Low
+C305,company,32138.83,46560,Low
+C305,netflix,-499.0,36178,Low
+C305,reliance smart,-1194.0,22718,Low
+C305,swiggy,-1274.41,33772,Low
+C305,uber,-1156.22,24458,Low
+C306,amazon prime,-999.0,187067,Low
+C306,cafe coffee day,-913.0,188066,Low
+C306,flipkart,-962.06,198082,Low
+C306,gym membership,-1200.0,204551,Low
+C306,medical store,-1213.46,190261,Low
+C306,reliance smart,-1125.06,196086,Low
+C306,spotify,-199.0,178718,Low
+C306,uber,-1084.68,174805,Low
+C307,amazon prime,-999.0,63551,Low
+C307,flipkart,-1083.2,54315,Low
+C307,medical store,-997.42,45437,Low
+C307,reliance smart,-1027.0,47224,Low
+C307,swiggy,-1185.0,50886,Low
+C307,uber,-1212.07,69215,Low
+C308,cafe coffee day,-1023.83,112917,Low
+C308,dmart,-937.0,94218,Low
+C308,flipkart,-1041.75,94611,Low
+C308,reliance smart,-1131.36,101616,Low
+C308,spotify,-199.0,96543,Low
+C308,uber,-1019.0,117814,Low
+C308,zomato,-1161.41,98642,Low
+C309,cafe coffee day,-1051.37,131710,Low
+C309,dmart,-806.76,133931,Low
+C309,electricity bill,-1500.0,147586,Low
+C309,flipkart,-1106.88,130401,Low
+C309,medical store,-1013.57,142400,Low
+C309,reliance smart,-1128.64,134460,Low
+C309,uber,-1129.5,134180,Low
+C309,zomato,-1137.91,133273,Low
+C31,cafe coffee day,-946.72,122270,Low
+C31,dmart,-952.72,109806,Low
+C31,electricity bill,-1500.0,116250,Low
+C31,flipkart,-975.35,105052,Low
+C31,gym membership,-1200.0,108606,Low
+C31,medical store,-980.42,99930,Low
+C31,petrol pump,-1064.0,111073,Low
+C31,reliance smart,-1343.12,105733,Low
+C31,swiggy,-1096.61,103059,Low
+C31,uber,-1061.71,113470,Low
+C31,zomato,-990.14,101303,Low
+C310,amazon prime,-999.0,2577,Low
+C310,cafe coffee day,-1014.79,9079,Low
+C310,flipkart,-1189.04,1220,Low
+C310,petrol pump,-1014.04,4306,Low
+C311,dmart,-1024.65,57983,Low
+C311,medical store,-1154.79,66876,Low
+C311,netflix,-499.0,62936,Low
+C311,petrol pump,-1036.25,67826,Low
+C311,reliance smart,-1175.15,63435,Low
+C311,spotify,-199.0,80081,Low
+C311,swiggy,-1213.68,59430,Low
+C311,uber,-889.57,80280,Low
+C312,amazon prime,-999.0,122382,Low
+C312,dmart,-1073.8,116483,Low
+C312,medical store,-1246.81,109354,Low
+C312,netflix,-499.0,133146,Low
+C312,petrol pump,-1264.62,113525,Low
+C312,reliance smart,-1038.76,113018,Low
+C312,uber,-952.86,118629,Low
+C312,zomato,-1232.45,126286,Low
+C313,amazon prime,-999.0,44996,Low
+C313,dmart,-925.92,29275,Low
+C313,flipkart,-1189.06,45995,Low
+C313,medical store,-1164.4,37263,Low
+C313,reliance smart,-904.78,22787,Low
+C313,spotify,-199.0,53787,Low
+C313,uber,-1160.43,30547,Low
+C313,zomato,-1087.16,38835,Low
+C314,amazon prime,-999.0,46369,Low
+C314,company,39407.67,69933,Low
+C314,dmart,-992.61,55254,Low
+C314,flipkart,-1099.94,59,Low
+C314,gym membership,-1200.0,52656,Low
+C314,medical store,-978.55,42807,Low
+C314,petrol pump,-1020.15,56311,Low
+C314,swiggy,-803.3,45627,Low
+C314,uber,-1101.04,40229,Low
+C314,zomato,-1096.5,47368,Low
+C315,cafe coffee day,-1060.42,71988,Low
+C315,dmart,-911.9,91499,Low
+C315,flipkart,-978.54,75641,Low
+C315,gym membership,-1200.0,72025,Low
+C315,medical store,-1106.88,13951,Low
+C315,petrol pump,-1119.58,73747,Low
+C315,reliance smart,-1150.79,22919,Low
+C315,spotify,-199.0,86634,Low
+C315,swiggy,-1141.29,76012,Low
+C315,uber,-1050.31,72494,Low
+C316,cafe coffee day,-1212.29,133,Low
+C316,medical store,-908.55,133,Low
+C316,netflix,-499.0,133,Low
+C316,petrol pump,-916.84,133,Low
+C316,reliance smart,-1001.12,133,Low
+C316,spotify,-199.0,133,Low
+C316,swiggy,-1186.24,133,Low
+C316,uber,-967.94,133,Low
+C316,zomato,-923.26,133,Low
+C317,amazon prime,-999.0,58,Low
+C317,dmart,-1117.91,58,Low
+C317,medical store,-981.24,58,Low
+C317,petrol pump,-727.32,58,Low
+C317,reliance smart,-979.61,58,Low
+C317,spotify,-199.0,58,Low
+C317,swiggy,-1178.9,58,Low
+C317,uber,-1016.53,58,Low
+C317,zomato,-997.25,58,Low
+C318,dmart,-1142.05,114359,Low
+C318,electricity bill,-1500.0,127361,Low
+C318,flipkart,-1032.43,131811,Low
+C318,netflix,-499.0,126862,Low
+C318,spotify,-199.0,139023,Low
+C318,swiggy,-998.64,133667,Low
+C318,uber,-971.68,115886,Low
+C318,zomato,-1001.32,114660,Low
+C319,electricity bill,-1500.0,195486,Low
+C319,flipkart,-1067.75,180965,Low
+C319,medical store,-1089.91,165133,Low
+C319,netflix,-499.0,161135,Low
+C319,reliance smart,-969.5,186234,Low
+C319,spotify,-199.0,189615,Low
+C319,swiggy,-1079.7,163417,Low
+C319,uber,-975.82,170015,Low
+C32,cafe coffee day,-1071.67,19184,Low
+C32,dmart,-1089.9,27862,Low
+C32,netflix,-499.0,46776,Low
+C32,petrol pump,-1102.13,21384,Low
+C32,zomato,-933.78,19520,Low
+C320,cafe coffee day,-1105.17,72895,Low
+C320,flipkart,-867.52,63429,Low
+C320,netflix,-499.0,61237,Low
+C320,petrol pump,-1087.63,58533,Low
+C320,reliance smart,-1051.48,81932,Low
+C320,spotify,-199.0,80556,Low
+C320,swiggy,-1033.15,65414,Low
+C320,uber,-1087.74,70191,Low
+C321,amazon prime,-999.0,105153,Low
+C321,cafe coffee day,-1101.0,82788,Low
+C321,dmart,-1030.86,109504,Low
+C321,electricity bill,-1500.0,107205,Low
+C321,flipkart,-1338.71,79028,Low
+C321,medical store,-1028.15,92239,Low
+C321,reliance smart,-1222.11,95795,Low
+C321,spotify,-199.0,108705,Low
+C321,swiggy,-1299.38,85716,Low
+C321,uber,-1166.83,88518,Low
+C321,zomato,-1083.48,91156,Low
+C322,dmart,-1021.21,124,Low
+C322,electricity bill,-1500.0,833,Low
+C322,flipkart,-1117.64,124,Low
+C322,medical store,-1063.57,124,Low
+C322,reliance smart,-929.26,124,Low
+C322,uber,-1069.47,124,Low
+C322,zomato,-1110.58,124,Low
+C323,electricity bill,-1500.0,136,Low
+C323,gym membership,-1200.0,136,Low
+C323,medical store,-1321.48,136,Low
+C323,swiggy,-1004.0,136,Low
+C323,uber,-1005.0,136,Low
+C323,zomato,-1010.92,136,Low
+C324,cafe coffee day,-1052.32,155688,Low
+C324,dmart,-1111.0,158430,Low
+C324,flipkart,-1019.48,142580,Low
+C324,gym membership,-1200.0,144108,Low
+C324,medical store,-968.63,143001,Low
+C324,petrol pump,-855.04,154077,Low
+C324,zomato,-802.0,141210,Low
+C325,amazon prime,-999.0,62310,Low
+C325,cafe coffee day,-947.81,63309,Low
+C325,electricity bill,-1500.0,76133,Low
+C325,flipkart,-941.0,71208,Low
+C325,medical store,-951.95,69164,Low
+C325,petrol pump,-1100.1,67661,Low
+C325,reliance smart,-942.15,66321,Low
+C325,spotify,-199.0,64145,Low
+C325,uber,-1014.35,60643,Low
+C326,cafe coffee day,-1136.83,21536,Low
+C326,dmart,-898.67,16961,Low
+C326,electricity bill,-1500.0,19338,Low
+C326,flipkart,-1076.95,15008,Low
+C326,medical store,-1117.68,18408,Low
+C326,petrol pump,-1112.29,25708,Low
+C326,uber,-871.9,24491,Low
+C326,zomato,-1136.74,28905,Low
+C327,amazon prime,-999.0,96526,Low
+C327,cafe coffee day,-1039.84,87106,Low
+C327,company,36256.0,102651,Low
+C327,dmart,-1221.29,77759,Low
+C327,flipkart,-848.45,84019,Low
+C327,medical store,-1070.41,76403,Low
+C327,petrol pump,-1213.56,85139,Low
+C327,reliance smart,-1117.39,74760,Low
+C327,swiggy,-908.44,86869,Low
+C327,uber,-1074.25,97525,Low
+C327,zomato,-1008.79,83114,Low
+C328,cafe coffee day,-1078.29,28351,Low
+C328,dmart,-908.63,10859,Low
+C328,flipkart,-946.92,23092,Low
+C328,netflix,-499.0,17188,Low
+C328,petrol pump,-952.2,14962,Low
+C328,reliance smart,-1289.53,32956,Low
+C328,spotify,-199.0,16989,Low
+C328,uber,-1163.26,9595,Low
+C328,zomato,-934.08,19995,Low
+C329,cafe coffee day,-893.06,48863,Low
+C329,dmart,-990.0,27414,Low
+C329,flipkart,-868.89,36279,Low
+C329,gym membership,-1200.0,23223,Low
+C329,netflix,-499.0,37111,Low
+C329,spotify,-199.0,23024,Low
+C329,swiggy,-1159.17,30797,Low
+C329,zomato,-1241.64,17865,Low
+C33,amazon prime,-999.0,53287,Low
+C33,company,43264.0,70674,Low
+C33,dmart,-1218.4,33640,Low
+C33,electricity bill,-1500.0,51787,Low
+C33,flipkart,-982.44,42942,Low
+C33,medical store,-983.7,37460,Low
+C33,petrol pump,-1215.61,38290,Low
+C33,spotify,-199.0,45602,Low
+C33,swiggy,-1120.62,44430,Low
+C33,uber,-966.6,38061,Low
+C330,amazon prime,-999.0,295057,Low
+C330,cafe coffee day,-961.47,287610,Low
+C330,dmart,-983.63,290619,Low
+C330,medical store,-1361.47,313314,Low
+C330,netflix,-499.0,293930,Low
+C330,petrol pump,-1232.27,303114,Low
+C330,reliance smart,-1151.78,294429,Low
+C330,spotify,-199.0,275790,Low
+C330,swiggy,-1067.5,293482,Low
+C330,uber,-1043.52,300873,Low
+C331,flipkart,-845.43,132036,Low
+C331,gym membership,-1200.0,156282,Low
+C331,petrol pump,-1135.54,127300,Low
+C331,reliance smart,-1246.42,141849,Low
+C331,spotify,-199.0,128794,Low
+C331,uber,-1129.41,135040,Low
+C331,zomato,-1068.44,145722,Low
+C332,cafe coffee day,-1095.96,126133,Low
+C332,dmart,-1074.26,120043,Low
+C332,medical store,-1100.87,128297,Low
+C332,netflix,-499.0,136972,Low
+C332,petrol pump,-935.0,145296,Low
+C332,uber,-1026.43,129961,Low
+C332,zomato,-980.95,120915,Low
+C333,cafe coffee day,-880.0,21473,Low
+C333,flipkart,-1004.95,12929,Low
+C333,netflix,-499.0,25492,Low
+C333,petrol pump,-1059.81,11535,Low
+C333,reliance smart,-887.57,9827,Low
+C333,swiggy,-873.57,10487,Low
+C333,uber,-854.75,13316,Low
+C334,cafe coffee day,-942.65,44766,Low
+C334,dmart,-1245.77,45475,Low
+C334,flipkart,-1047.24,44382,Low
+C334,medical store,-879.42,56282,Low
+C334,petrol pump,-939.89,41119,Low
+C334,spotify,-199.0,68361,Low
+C334,swiggy,-1134.62,40197,Low
+C334,uber,-943.83,39680,Low
+C334,zomato,-1008.0,49751,Low
+C335,cafe coffee day,-1105.6,329,Low
+C335,dmart,-895.38,152,Low
+C335,electricity bill,-1500.0,2895,Low
+C335,flipkart,-1140.11,4395,Low
+C335,medical store,-1145.17,36770,Low
+C335,petrol pump,-981.59,6697,Low
+C335,reliance smart,-1115.61,329,Low
+C335,uber,-1126.07,329,Low
+C335,zomato,-815.68,329,Low
+C336,amazon prime,-999.0,54176,Low
+C336,cafe coffee day,-1005.05,45977,Low
+C336,dmart,-1102.15,55175,Low
+C336,flipkart,-1222.8,49768,Low
+C336,medical store,-1254.95,47592,Low
+C336,petrol pump,-1044.95,65189,Low
+C336,reliance smart,-961.25,47117,Low
+C336,spotify,-199.0,74172,Low
+C336,zomato,-1097.88,44508,Low
+C337,cafe coffee day,-1001.84,148419,Low
+C337,medical store,-927.95,149140,Low
+C337,netflix,-499.0,155106,Low
+C337,reliance smart,-1073.96,154895,Low
+C337,swiggy,-984.05,153858,Low
+C337,zomato,-903.96,109142,Low
+C338,cafe coffee day,-1214.53,336,Low
+C338,company,45930.33,85642,Low
+C338,dmart,-1140.1,336,Low
+C338,flipkart,-844.42,40,Low
+C338,medical store,-1084.42,336,Low
+C338,netflix,-499.0,4107,Low
+C338,petrol pump,-1065.09,40,Low
+C338,swiggy,-900.17,2018,Low
+C339,amazon prime,-999.0,132059,Low
+C339,cafe coffee day,-1135.12,111819,Low
+C339,dmart,-1048.23,106427,Low
+C339,gym membership,-1200.0,110619,Low
+C339,netflix,-499.0,105928,Low
+C339,petrol pump,-967.8,125021,Low
+C339,reliance smart,-1264.19,113887,Low
+C339,uber,-894.56,109148,Low
+C339,zomato,-1102.53,105807,Low
+C34,amazon prime,-999.0,19849,Low
+C34,cafe coffee day,-1061.85,36794,Low
+C34,company,34290.67,38774,Low
+C34,dmart,-1017.26,16472,Low
+C34,electricity bill,-1500.0,26340,Low
+C34,flipkart,-1034.88,13218,Low
+C34,reliance smart,-1018.05,11697,Low
+C34,swiggy,-930.3,20848,Low
+C34,uber,-993.29,10379,Low
+C34,zomato,-1076.86,21913,Low
+C340,cafe coffee day,-1006.71,74008,Low
+C340,company,38139.67,91024,Low
+C340,dmart,-955.91,60827,Low
+C340,electricity bill,-1500.0,65640,Low
+C340,flipkart,-1000.88,63601,Low
+C340,medical store,-1162.41,69903,Low
+C340,netflix,-499.0,77857,Low
+C340,petrol pump,-935.3,78983,Low
+C340,reliance smart,-1128.14,61994,Low
+C340,spotify,-199.0,83396,Low
+C340,uber,-1039.48,64303,Low
+C340,zomato,-1061.36,72146,Low
+C341,flipkart,-1137.44,196259,Low
+C341,medical store,-1221.45,193995,Low
+C341,netflix,-499.0,197504,Low
+C341,petrol pump,-1167.0,187752,Low
+C341,spotify,-199.0,147847,Low
+C341,swiggy,-1137.13,186049,Low
+C341,uber,-1069.79,215584,Low
+C341,zomato,-1149.7,189509,Low
+C342,dmart,-1079.17,96028,Low
+C342,electricity bill,-1500.0,98816,Low
+C342,flipkart,-1195.06,115682,Low
+C342,reliance smart,-1302.48,100316,Low
+C342,swiggy,-1080.35,111763,Low
+C342,zomato,-1168.06,108913,Low
+C343,cafe coffee day,-978.58,111102,Low
+C343,flipkart,-1033.64,95770,Low
+C343,medical store,-1123.62,94296,Low
+C343,netflix,-499.0,87332,Low
+C343,spotify,-199.0,104852,Low
+C343,swiggy,-889.17,109458,Low
+C343,uber,-1191.72,109559,Low
+C343,zomato,-1147.11,96814,Low
+C344,cafe coffee day,-1267.14,34842,Low
+C344,dmart,-897.0,38761,Low
+C344,electricity bill,-1500.0,60724,Low
+C344,gym membership,-1200.0,36762,Low
+C344,reliance smart,-947.95,44312,Low
+C344,swiggy,-942.71,64082,Low
+C344,uber,-1116.32,47554,Low
+C344,zomato,-829.24,37962,Low
+C345,dmart,-1172.88,9206,Low
+C345,medical store,-1106.4,21929,Low
+C345,petrol pump,-1080.21,26434,Low
+C345,reliance smart,-939.04,8846,Low
+C345,spotify,-199.0,35811,Low
+C345,swiggy,-1185.21,20782,Low
+C345,uber,-1075.16,15410,Low
+C345,zomato,-1130.57,8393,Low
+C346,amazon prime,-999.0,91949,Low
+C346,cafe coffee day,-1127.96,74469,Low
+C346,dmart,-908.55,64651,Low
+C346,flipkart,-1029.11,72480,Low
+C346,medical store,-1045.91,66622,Low
+C346,petrol pump,-928.26,48,Low
+C346,reliance smart,-984.06,78673,Low
+C347,amazon prime,-999.0,74385,Low
+C347,cafe coffee day,-1030.42,80850,Low
+C347,dmart,-1038.04,74015,Low
+C347,electricity bill,-1500.0,91717,Low
+C347,flipkart,-963.04,77435,Low
+C347,petrol pump,-1167.46,73171,Low
+C347,swiggy,-916.23,76221,Low
+C347,uber,-1272.61,84869,Low
+C347,zomato,-981.88,97316,Low
+C348,dmart,-1317.75,95914,Low
+C348,flipkart,-909.74,92828,Low
+C348,medical store,-1203.1,102805,Low
+C348,netflix,-499.0,33903,Low
+C348,reliance smart,-1147.56,36955,Low
+C348,zomato,-1036.68,87419,Low
+C349,cafe coffee day,-1261.71,92211,Low
+C349,dmart,-987.28,103551,Low
+C349,electricity bill,-1500.0,124500,Low
+C349,flipkart,-1103.38,108070,Low
+C349,medical store,-1121.39,105435,Low
+C349,netflix,-499.0,101807,Low
+C349,petrol pump,-1214.53,90356,Low
+C349,reliance smart,-903.13,90238,Low
+C349,swiggy,-1021.62,98858,Low
+C349,uber,-1009.95,98264,Low
+C349,zomato,-1065.17,108633,Low
+C35,dmart,-912.74,68455,Low
+C35,flipkart,-899.32,54556,Low
+C35,gym membership,-1200.0,56236,Low
+C35,medical store,-1225.0,54976,Low
+C35,swiggy,-1091.89,73067,Low
+C35,uber,-1070.35,59009,Low
+C35,zomato,-1159.79,61155,Low
+C350,amazon prime,-999.0,115692,Low
+C350,dmart,-952.5,106344,Low
+C350,flipkart,-986.35,103347,Low
+C350,medical store,-1212.43,104816,Low
+C350,netflix,-499.0,110276,Low
+C350,reliance smart,-1117.12,114396,Low
+C350,swiggy,-1185.45,119155,Low
+C350,uber,-1141.16,108387,Low
+C351,amazon prime,-999.0,90611,Low
+C351,cafe coffee day,-1103.87,83540,Low
+C351,company,43673.4,107243,Low
+C351,dmart,-771.17,77969,Low
+C351,gym membership,-1200.0,85799,Low
+C351,medical store,-1034.92,74362,Low
+C351,uber,-1121.05,70891,Low
+C352,amazon prime,-999.0,39,Low
+C352,dmart,-1026.17,39,Low
+C352,electricity bill,-1500.0,39,Low
+C352,flipkart,-1038.0,39,Low
+C352,medical store,-960.95,39,Low
+C352,netflix,-499.0,39,Low
+C352,petrol pump,-1034.89,39,Low
+C352,reliance smart,-1137.28,39,Low
+C352,zomato,-983.89,39,Low
+C353,amazon prime,-999.0,21590,Low
+C353,cafe coffee day,-831.65,9381,Low
+C353,flipkart,-974.82,20346,Low
+C353,reliance smart,-918.94,24304,Low
+C353,zomato,-951.84,14085,Low
+C354,amazon prime,-999.0,77,Low
+C354,cafe coffee day,-856.05,77,Low
+C354,company,33292.67,54191,Low
+C354,dmart,-829.24,77,Low
+C354,medical store,-993.21,77,Low
+C354,netflix,-499.0,77,Low
+C354,reliance smart,-954.22,77,Low
+C354,spotify,-199.0,77,Low
+C354,uber,-1127.04,77,Low
+C355,cafe coffee day,-1120.23,50423,Low
+C355,dmart,-1204.83,47649,Low
+C355,electricity bill,-1500.0,52981,Low
+C355,flipkart,-1052.14,59449,Low
+C355,gym membership,-1200.0,51781,Low
+C355,medical store,-1206.7,47984,Low
+C355,petrol pump,-1141.84,50640,Low
+C355,reliance smart,-1300.41,71857,Low
+C355,swiggy,-970.24,67992,Low
+C355,uber,-1012.79,49689,Low
+C355,zomato,-1266.45,56377,Low
+C356,company,43296.83,113843,Low
+C356,dmart,-1118.0,93079,Low
+C356,electricity bill,-1500.0,93864,Low
+C356,medical store,-1003.09,89475,Low
+C356,netflix,-499.0,107182,Low
+C356,petrol pump,-955.82,97095,Low
+C356,reliance smart,-1007.8,99764,Low
+C356,spotify,-199.0,101291,Low
+C356,swiggy,-896.0,92722,Low
+C356,zomato,-908.0,105414,Low
+C357,amazon prime,-999.0,107651,Low
+C357,cafe coffee day,-1172.96,95405,Low
+C357,dmart,-942.72,90754,Low
+C357,flipkart,-1043.87,97205,Low
+C357,netflix,-499.0,107152,Low
+C357,petrol pump,-984.9,101533,Low
+C357,swiggy,-1196.76,117359,Low
+C357,uber,-1121.74,102512,Low
+C357,zomato,-882.63,110487,Low
+C358,dmart,-1288.11,120200,Low
+C358,electricity bill,-1500.0,109356,Low
+C358,flipkart,-1128.93,105944,Low
+C358,medical store,-1119.52,117672,Low
+C358,petrol pump,-1071.58,107486,Low
+C358,reliance smart,-1145.0,105288,Low
+C358,swiggy,-1054.0,116408,Low
+C358,uber,-991.58,110856,Low
+C359,amazon prime,-999.0,60716,Low
+C359,cafe coffee day,-1009.68,27448,Low
+C359,dmart,-1284.11,26216,Low
+C359,electricity bill,-1500.0,37120,Low
+C359,flipkart,-1053.7,38620,Low
+C359,medical store,-1052.95,38929,Low
+C359,reliance smart,-1098.32,32830,Low
+C359,spotify,-199.0,60073,Low
+C359,swiggy,-1218.14,28958,Low
+C359,zomato,-1165.95,39944,Low
+C36,cafe coffee day,-1120.17,33410,Low
+C36,netflix,-499.0,40613,Low
+C36,petrol pump,-941.09,26296,Low
+C36,swiggy,-961.79,19120,Low
+C36,uber,-963.0,35381,Low
+C36,zomato,-1030.9,29882,Low
+C360,cafe coffee day,-1162.19,78,Low
+C360,company,30955.25,86531,Low
+C360,dmart,-1113.36,62494,Low
+C360,electricity bill,-1500.0,73932,Low
+C360,flipkart,-1046.96,59154,Low
+C360,gym membership,-1200.0,85331,Low
+C360,medical store,-995.27,58197,Low
+C360,petrol pump,-976.26,67426,Low
+C360,reliance smart,-1186.55,56671,Low
+C360,spotify,-199.0,76965,Low
+C360,swiggy,-1071.95,76709,Low
+C361,cafe coffee day,-1013.58,69,Low
+C361,company,32654.25,30996,High
+C361,flipkart,-1054.96,69,Low
+C361,gym membership,-1200.0,69,Low
+C361,petrol pump,-1063.96,69,Low
+C361,reliance smart,-996.14,69,Low
+C361,spotify,-199.0,69,Low
+C361,swiggy,-968.48,69,Low
+C361,uber,-1059.61,69,Low
+C362,cafe coffee day,-928.61,61050,Low
+C362,dmart,-946.95,46902,Low
+C362,flipkart,-1111.46,53848,Low
+C362,netflix,-499.0,52479,Low
+C362,reliance smart,-1149.56,42579,Low
+C362,spotify,-199.0,68326,Low
+C362,swiggy,-1114.17,66191,Low
+C362,uber,-966.86,37818,Low
+C362,zomato,-1218.96,36213,Low
+C363,amazon prime,-999.0,60496,Low
+C363,cafe coffee day,-977.26,53251,Low
+C363,company,43062.25,70352,Low
+C363,flipkart,-1082.12,43402,Low
+C363,petrol pump,-992.88,50004,Low
+C363,reliance smart,-1193.75,41121,Low
+C363,swiggy,-1079.93,41582,Low
+C363,uber,-1214.94,43726,Low
+C364,cafe coffee day,-1109.75,30,Low
+C364,dmart,-1165.75,30,Low
+C364,electricity bill,-1500.0,30,Low
+C364,flipkart,-972.25,30,Low
+C364,medical store,-930.5,30,Low
+C364,netflix,-499.0,30,Low
+C364,petrol pump,-1023.37,30,Low
+C364,reliance smart,-794.26,30,Low
+C364,swiggy,-903.62,30,Low
+C364,zomato,-1067.17,30,Low
+C365,cafe coffee day,-970.75,62247,Low
+C365,electricity bill,-1500.0,60747,Low
+C365,flipkart,-1136.86,64786,Low
+C365,netflix,-499.0,80931,Low
+C365,petrol pump,-1122.56,67967,Low
+C365,reliance smart,-985.16,86907,Low
+C365,spotify,-199.0,67768,Low
+C365,swiggy,-1021.86,57153,Low
+C365,zomato,-793.35,101530,Low
+C366,cafe coffee day,-1171.2,85289,Low
+C366,dmart,-1219.52,77782,Low
+C366,electricity bill,-1500.0,80994,Low
+C366,flipkart,-930.24,88881,Low
+C366,gym membership,-1200.0,105956,Low
+C366,medical store,-1026.69,86674,Low
+C366,netflix,-499.0,98518,Low
+C366,petrol pump,-1204.83,100313,Low
+C366,reliance smart,-1245.95,99017,Low
+C366,swiggy,-929.39,95254,Low
+C366,uber,-930.96,84134,Low
+C367,cafe coffee day,-1138.14,188275,Low
+C367,electricity bill,-1500.0,193607,Low
+C367,flipkart,-1232.36,206067,Low
+C367,gym membership,-1200.0,208109,Low
+C367,netflix,-499.0,221161,Low
+C367,reliance smart,-966.58,191633,Low
+C367,swiggy,-1056.95,195107,Low
+C367,uber,-1142.55,187862,Low
+C367,zomato,-1363.65,190159,Low
+C368,amazon prime,-999.0,781,Low
+C368,cafe coffee day,-978.1,306,Low
+C368,company,32250.25,41764,Low
+C368,flipkart,-1228.75,306,Low
+C368,gym membership,-1200.0,306,Low
+C368,netflix,-499.0,306,Low
+C368,reliance smart,-1103.85,306,Low
+C368,swiggy,-1064.16,306,Low
+C368,uber,-848.35,306,Low
+C368,zomato,-1066.88,306,Low
+C369,amazon prime,-999.0,24229,Low
+C369,gym membership,-1200.0,38681,Low
+C369,medical store,-828.12,12313,Low
+C369,netflix,-499.0,19696,Low
+C369,petrol pump,-1277.88,21854,Low
+C369,reliance smart,-1050.35,12541,Low
+C369,swiggy,-1111.04,10825,Low
+C369,uber,-1241.9,25791,Low
+C369,zomato,-1042.59,22818,Low
+C37,amazon prime,-999.0,165901,Low
+C37,dmart,-1080.13,167383,Low
+C37,electricity bill,-1500.0,164401,Low
+C37,medical store,-1052.62,149776,Low
+C37,netflix,-499.0,163902,Low
+C37,swiggy,-1250.7,148086,Low
+C37,uber,-1049.35,168907,Low
+C370,company,30580.8,51232,Low
+C370,dmart,-1069.74,1896,Low
+C370,gym membership,-1200.0,19821,Low
+C370,petrol pump,-975.42,3928,Low
+C370,spotify,-199.0,11194,Low
+C370,swiggy,-1086.5,1027,Low
+C370,uber,-1032.52,7816,Low
+C370,zomato,-1047.1,607,Low
+C371,amazon prime,-999.0,83654,Low
+C371,dmart,-1143.43,155430,Low
+C371,electricity bill,-1500.0,162751,Low
+C371,flipkart,-1126.4,146437,Low
+C371,medical store,-914.25,147127,Low
+C371,petrol pump,-1023.08,153057,Low
+C371,reliance smart,-1127.16,145950,Low
+C371,swiggy,-1156.0,147727,Low
+C371,uber,-961.96,169723,Low
+C372,amazon prime,-999.0,58473,Low
+C372,company,36865.2,64534,Low
+C372,dmart,-973.79,43698,Low
+C372,electricity bill,-1500.0,49385,Low
+C372,medical store,-1076.81,35427,Low
+C372,reliance smart,-1014.6,38360,Low
+C372,spotify,-199.0,43916,Low
+C372,swiggy,-1181.78,53502,Low
+C372,zomato,-1035.0,39202,Low
+C373,cafe coffee day,-1097.3,146291,Low
+C373,flipkart,-833.26,149485,Low
+C373,petrol pump,-870.55,151236,Low
+C373,reliance smart,-1096.0,144295,Low
+C373,spotify,-199.0,156632,Low
+C374,cafe coffee day,-976.0,43352,Low
+C374,dmart,-1051.58,44727,Low
+C374,electricity bill,-1500.0,28476,Low
+C374,flipkart,-1079.38,42981,Low
+C374,reliance smart,-975.56,58592,Low
+C374,swiggy,-1062.56,28094,Low
+C374,uber,-1351.63,51504,Low
+C374,zomato,-1093.84,48618,Low
+C375,amazon prime,-999.0,47182,Low
+C375,dmart,-1031.78,57732,Low
+C375,electricity bill,-1500.0,55133,Low
+C375,flipkart,-856.89,43314,Low
+C375,gym membership,-1200.0,72067,Low
+C375,medical store,-750.18,46227,Low
+C375,petrol pump,-886.0,45335,Low
+C375,swiggy,-1119.0,63929,Low
+C375,zomato,-848.45,68555,Low
+C376,amazon prime,-999.0,273,Low
+C376,cafe coffee day,-923.35,41,Low
+C376,company,34082.2,65908,Low
+C376,flipkart,-1087.75,41,Low
+C376,gym membership,-1200.0,273,Low
+C376,medical store,-1008.95,41,Low
+C376,netflix,-499.0,2594,Low
+C376,swiggy,-1278.0,14625,Low
+C376,zomato,-995.94,20844,Low
+C377,cafe coffee day,-1159.04,101949,Low
+C377,electricity bill,-1500.0,109939,Low
+C377,flipkart,-1085.25,90694,Low
+C377,medical store,-1019.0,88129,Low
+C377,petrol pump,-1100.86,92197,Low
+C377,reliance smart,-1278.05,104566,Low
+C377,spotify,-199.0,102441,Low
+C377,uber,-977.63,93970,Low
+C377,zomato,-1036.75,111541,Low
+C378,cafe coffee day,-1062.0,479,Low
+C378,company,40586.33,49610,Low
+C378,electricity bill,-1500.0,479,Low
+C378,medical store,-1161.86,479,Low
+C378,petrol pump,-951.17,4078,Low
+C378,reliance smart,-1052.67,479,Low
+C378,swiggy,-1185.86,479,Low
+C378,zomato,-912.67,10217,Low
+C379,amazon prime,-999.0,275339,Low
+C379,cafe coffee day,-952.3,254812,Low
+C379,dmart,-1130.43,248417,Low
+C379,electricity bill,-1500.0,253312,Low
+C379,flipkart,-1228.71,249784,Low
+C379,netflix,-499.0,273059,Low
+C379,petrol pump,-1112.48,256449,Low
+C379,reliance smart,-1108.56,271438,Low
+C379,swiggy,-882.0,273558,Low
+C379,zomato,-1096.25,261492,Low
+C38,cafe coffee day,-1097.96,97,Low
+C38,medical store,-1114.16,97,Low
+C38,netflix,-499.0,97,Low
+C38,petrol pump,-1064.71,97,Low
+C38,reliance smart,-1242.56,97,Low
+C38,spotify,-199.0,97,Low
+C38,swiggy,-994.38,97,Low
+C38,uber,-948.71,97,Low
+C38,zomato,-998.0,97,Low
+C380,cafe coffee day,-1124.54,39106,Low
+C380,company,36420.6,62243,Low
+C380,flipkart,-1136.86,37475,Low
+C380,medical store,-941.55,59016,Low
+C380,netflix,-499.0,58517,Low
+C380,spotify,-199.0,62044,Low
+C380,swiggy,-991.94,36400,Low
+C380,uber,-765.83,52993,Low
+C380,zomato,-928.27,39530,Low
+C381,cafe coffee day,-1278.19,135750,Low
+C381,dmart,-1000.95,142026,Low
+C381,flipkart,-1010.25,137054,Low
+C381,gym membership,-1200.0,158448,Low
+C381,petrol pump,-955.23,139450,Low
+C381,uber,-995.56,146826,Low
+C381,zomato,-1143.8,165857,Low
+C382,dmart,-790.0,23555,Low
+C382,medical store,-1110.85,38241,Low
+C382,spotify,-199.0,24561,Low
+C382,swiggy,-1058.46,37643,Low
+C382,uber,-1048.0,28200,Low
+C382,zomato,-1062.05,34982,Low
+C383,cafe coffee day,-1002.62,24676,Low
+C383,dmart,-1123.1,15108,Low
+C383,electricity bill,-1500.0,21133,Low
+C383,flipkart,-1022.12,8750,Low
+C383,gym membership,-1200.0,31762,Low
+C383,medical store,-1037.27,12628,Low
+C383,petrol pump,-1071.42,8292,Low
+C383,uber,-666.0,16842,Low
+C383,zomato,-996.33,8647,Low
+C384,cafe coffee day,-1082.35,73552,Low
+C384,company,46171.25,87580,Low
+C384,dmart,-993.75,64636,Low
+C384,electricity bill,-1500.0,65712,Low
+C384,netflix,-499.0,64137,Low
+C384,petrol pump,-957.05,63647,Low
+C384,swiggy,-1187.83,68067,Low
+C384,zomato,-1026.9,74413,Low
+C385,company,35006.83,69981,Low
+C385,dmart,-1283.47,42059,Low
+C385,flipkart,-921.56,62688,Low
+C385,gym membership,-1200.0,58620,Low
+C385,medical store,-961.9,56535,Low
+C385,netflix,-499.0,41913,Low
+C385,petrol pump,-1000.59,24010,Low
+C385,reliance smart,-1166.07,50231,Low
+C385,swiggy,-945.0,43871,Low
+C385,zomato,-1239.06,53903,Low
+C386,dmart,-1103.85,157973,Low
+C386,medical store,-887.52,154171,Low
+C386,petrol pump,-982.15,157783,Low
+C386,reliance smart,-1064.72,156308,Low
+C386,spotify,-199.0,156109,Low
+C386,swiggy,-1002.89,163628,Low
+C386,uber,-1010.05,152718,Low
+C387,cafe coffee day,-1250.3,23,Low
+C387,dmart,-1226.25,23,Low
+C387,gym membership,-1200.0,23,Low
+C387,medical store,-1176.35,23,Low
+C387,petrol pump,-1032.12,23,Low
+C387,reliance smart,-1143.83,23,Low
+C387,swiggy,-1205.44,23,Low
+C387,uber,-1091.87,23,Low
+C387,zomato,-1086.05,23,Low
+C388,company,38879.14,115733,Low
+C388,dmart,-1051.4,95038,Low
+C388,gym membership,-1200.0,96173,Low
+C388,medical store,-1103.68,99423,Low
+C388,netflix,-499.0,115234,Low
+C388,petrol pump,-785.41,97373,Low
+C388,reliance smart,-804.85,97869,Low
+C388,uber,-1119.87,65070,Low
+C388,zomato,-1142.21,99166,Low
+C389,dmart,-1009.0,133379,Low
+C389,gym membership,-1200.0,138987,Low
+C389,medical store,-922.11,126682,Low
+C389,reliance smart,-1179.18,127642,Low
+C389,swiggy,-1404.2,130881,Low
+C389,uber,-1102.39,125550,Low
+C39,cafe coffee day,-1043.03,269413,Low
+C39,dmart,-869.26,264159,Low
+C39,electricity bill,-1500.0,283014,Low
+C39,gym membership,-1200.0,290221,Low
+C39,medical store,-938.36,275642,Low
+C39,reliance smart,-839.5,273555,Low
+C39,swiggy,-989.85,284514,Low
+C39,uber,-1021.43,266553,Low
+C39,zomato,-1001.53,267513,Low
+C390,amazon prime,-999.0,199,Low
+C390,cafe coffee day,-1060.6,7126,Low
+C390,dmart,-1116.81,199,Low
+C390,electricity bill,-1500.0,18060,Low
+C390,medical store,-996.6,199,Low
+C390,petrol pump,-1090.1,199,Low
+C390,spotify,-199.0,2742,Low
+C390,swiggy,-1010.94,199,Low
+C390,uber,-1028.61,199,Low
+C390,zomato,-1051.71,2941,Low
+C391,amazon prime,-999.0,119335,Low
+C391,cafe coffee day,-905.56,92432,Low
+C391,electricity bill,-1500.0,95773,Low
+C391,flipkart,-1136.23,97273,Low
+C391,gym membership,-1200.0,110466,Low
+C391,medical store,-1063.07,93931,Low
+C391,petrol pump,-1117.68,99044,Low
+C391,reliance smart,-1021.17,102518,Low
+C391,uber,-1474.0,107878,Low
+C391,zomato,-1137.32,112567,Low
+C392,cafe coffee day,-1208.76,203867,Low
+C392,dmart,-987.92,191040,Low
+C392,flipkart,-1299.29,206157,Low
+C392,gym membership,-1200.0,209152,Low
+C392,medical store,-895.72,213376,Low
+C392,petrol pump,-1017.23,198482,Low
+C392,swiggy,-829.53,190718,Low
+C392,uber,-1205.54,206681,Low
+C393,amazon prime,-999.0,113956,Low
+C393,dmart,-1162.48,92560,Low
+C393,flipkart,-1038.89,95227,Low
+C393,medical store,-980.38,91878,Low
+C393,petrol pump,-1154.09,99440,Low
+C393,reliance smart,-1113.71,97532,Low
+C393,swiggy,-938.05,109401,Low
+C393,uber,-927.19,91767,Low
+C393,zomato,-1185.28,101300,Low
+C394,cafe coffee day,-1084.61,97042,Low
+C394,dmart,-1004.41,92857,Low
+C394,flipkart,-1327.85,105288,Low
+C394,petrol pump,-1140.68,102696,Low
+C394,reliance smart,-1088.28,93541,Low
+C394,spotify,-199.0,105089,Low
+C394,uber,-1055.5,106971,Low
+C394,zomato,-879.76,92280,Low
+C395,amazon prime,-999.0,70402,Low
+C395,cafe coffee day,-1279.61,49358,Low
+C395,dmart,-1194.43,59887,Low
+C395,medical store,-1317.78,57891,Low
+C395,petrol pump,-1092.33,56533,Low
+C395,reliance smart,-1161.79,51147,Low
+C395,swiggy,-1123.72,52494,Low
+C395,uber,-1102.05,73862,Low
+C395,zomato,-976.65,65339,Low
+C396,cafe coffee day,-998.56,9490,Low
+C396,company,39085.0,61449,Low
+C396,dmart,-998.77,4700,Low
+C396,gym membership,-1200.0,13794,Low
+C396,netflix,-499.0,7302,Low
+C396,petrol pump,-1009.45,1484,Low
+C396,reliance smart,-975.3,1484,Low
+C396,swiggy,-1100.95,5134,Low
+C396,uber,-1025.94,846,Low
+C396,zomato,-933.38,846,Low
+C397,amazon prime,-999.0,82529,Low
+C397,dmart,-930.19,81520,Low
+C397,electricity bill,-1500.0,86487,Low
+C397,gym membership,-1200.0,76551,Low
+C397,medical store,-938.71,64844,Low
+C397,petrol pump,-1054.72,68312,Low
+C397,reliance smart,-868.84,63237,Low
+C397,swiggy,-1183.21,70048,Low
+C397,uber,-1013.88,61656,Low
+C397,zomato,-887.09,71307,Low
+C398,cafe coffee day,-1084.89,117989,Low
+C398,flipkart,-1015.7,131075,Low
+C398,gym membership,-1200.0,141780,Low
+C398,medical store,-987.46,123609,Low
+C398,reliance smart,-917.0,117035,Low
+C398,uber,-1026.12,119200,Low
+C399,cafe coffee day,-1115.26,168331,Low
+C399,electricity bill,-1500.0,155953,Low
+C399,flipkart,-1142.18,157453,Low
+C399,medical store,-922.22,151361,Low
+C399,spotify,-199.0,116942,Low
+C399,swiggy,-908.9,159203,Low
+C399,uber,-1158.68,129865,Low
+C399,zomato,-1071.1,160925,Low
+C4,amazon prime,-999.0,59155,Low
+C4,company,32078.29,74019,Low
+C4,flipkart,-812.86,46201,Low
+C4,medical store,-1132.3,46389,Low
+C4,netflix,-499.0,52306,Low
+C4,petrol pump,-1171.3,54468,Low
+C4,reliance smart,-930.04,54274,Low
+C4,swiggy,-908.76,57912,Low
+C4,zomato,-1055.83,49611,Low
+C40,amazon prime,-999.0,22482,Low
+C40,company,37156.0,55345,Low
+C40,dmart,-1023.62,78,Low
+C40,electricity bill,-1500.0,78,Low
+C40,flipkart,-940.58,6410,Low
+C40,medical store,-905.67,78,Low
+C40,netflix,-499.0,2005,Low
+C40,petrol pump,-1026.21,13429,Low
+C40,reliance smart,-1226.43,78,Low
+C40,uber,-1125.29,6722,Low
+C40,zomato,-885.7,78,Low
+C400,amazon prime,-999.0,80497,Low
+C400,petrol pump,-833.16,68841,Low
+C400,reliance smart,-993.79,73619,Low
+C400,uber,-1056.47,62549,Low
+C401,cafe coffee day,-1077.48,139467,Low
+C401,dmart,-1383.05,138629,Low
+C401,electricity bill,-1500.0,97933,Low
+C401,medical store,-1008.89,141005,Low
+C401,petrol pump,-1135.85,129848,Low
+C401,swiggy,-957.16,144880,Low
+C401,uber,-1210.41,131773,Low
+C402,amazon prime,-999.0,4181,Low
+C402,cafe coffee day,-955.76,7245,Low
+C402,company,30330.8,48943,Low
+C402,electricity bill,-1500.0,12512,Low
+C402,flipkart,-811.75,3724,Low
+C402,petrol pump,-1123.48,1619,Low
+C402,reliance smart,-1054.71,1403,Low
+C402,swiggy,-1016.74,1619,Low
+C402,uber,-1011.26,421,Low
+C402,zomato,-964.95,2019,Low
+C403,amazon prime,-999.0,16589,Low
+C403,cafe coffee day,-1118.22,32,Low
+C403,dmart,-1238.48,531,Low
+C403,electricity bill,-1500.0,5123,Low
+C403,flipkart,-1288.5,2779,Low
+C403,netflix,-499.0,32,Low
+C403,swiggy,-1187.29,32,Low
+C403,uber,-769.9,32,Low
+C403,zomato,-813.94,32,Low
+C404,amazon prime,-999.0,65337,Low
+C404,cafe coffee day,-1228.7,49788,Low
+C404,dmart,-1226.33,46801,Low
+C404,electricity bill,-1500.0,20029,Low
+C404,netflix,-499.0,59595,Low
+C404,petrol pump,-1209.0,44656,Low
+C404,reliance smart,-1069.42,45246,Low
+C404,uber,-1162.96,48333,Low
+C405,amazon prime,-999.0,50964,Low
+C405,cafe coffee day,-1064.26,65005,Low
+C405,electricity bill,-1500.0,53709,Low
+C405,flipkart,-1128.29,72505,Low
+C405,gym membership,-1200.0,74620,Low
+C405,medical store,-1209.95,66377,Low
+C405,petrol pump,-859.5,64686,Low
+C405,reliance smart,-1053.47,62749,Low
+C405,swiggy,-1010.57,61628,Low
+C405,uber,-1007.33,73265,Low
+C406,cafe coffee day,-958.73,39424,Low
+C406,company,37912.4,88006,Low
+C406,electricity bill,-1500.0,45346,Low
+C406,gym membership,-1200.0,40727,Low
+C406,medical store,-1100.96,41927,Low
+C406,netflix,-499.0,42846,Low
+C406,reliance smart,-1019.69,61257,Low
+C406,swiggy,-926.59,54968,Low
+C407,cafe coffee day,-1036.62,18771,Low
+C407,dmart,-1057.62,20910,Low
+C407,flipkart,-1412.43,17011,Low
+C407,medical store,-1161.79,19958,Low
+C407,netflix,-499.0,31623,Low
+C407,petrol pump,-1093.17,47128,Low
+C407,reliance smart,-1077.96,23765,Low
+C407,spotify,-199.0,28230,Low
+C407,uber,-1159.95,49891,Low
+C408,amazon prime,-999.0,147,Low
+C408,cafe coffee day,-1290.25,147,Low
+C408,dmart,-1103.7,147,Low
+C408,flipkart,-1071.1,147,Low
+C408,medical store,-930.89,2599,Low
+C408,petrol pump,-973.16,147,Low
+C408,swiggy,-1142.32,147,Low
+C408,uber,-1008.29,147,Low
+C409,company,32623.83,64043,Low
+C409,dmart,-1063.17,45251,Low
+C409,electricity bill,-1500.0,29875,Low
+C409,petrol pump,-980.09,42088,Low
+C409,reliance smart,-979.48,36657,Low
+C409,swiggy,-1298.3,31180,Low
+C409,zomato,-1019.81,34918,Low
+C41,cafe coffee day,-912.95,111797,Low
+C41,flipkart,-1042.85,92069,Low
+C41,medical store,-799.57,100644,Low
+C41,netflix,-499.0,100145,Low
+C41,reliance smart,-1194.0,94044,Low
+C41,spotify,-199.0,104885,Low
+C41,swiggy,-1180.81,106292,Low
+C41,zomato,-1067.76,95386,Low
+C410,amazon prime,-999.0,139,Low
+C410,company,30333.0,37916,Low
+C410,dmart,-917.67,139,Low
+C410,flipkart,-894.68,139,Low
+C410,medical store,-1094.05,139,Low
+C410,netflix,-499.0,4153,Low
+C410,petrol pump,-986.32,139,Low
+C410,reliance smart,-789.81,139,Low
+C410,spotify,-199.0,139,Low
+C410,swiggy,-981.21,1580,Low
+C410,uber,-935.97,139,Low
+C410,zomato,-950.89,139,Low
+C411,cafe coffee day,-1110.04,143259,Low
+C411,dmart,-983.17,144399,Low
+C411,electricity bill,-1500.0,148986,Low
+C411,flipkart,-1100.5,138363,Low
+C411,petrol pump,-1260.14,141776,Low
+C411,reliance smart,-916.78,155668,Low
+C411,swiggy,-772.42,143107,Low
+C411,uber,-997.91,140240,Low
+C412,flipkart,-1106.88,62,Low
+C412,gym membership,-1200.0,62,Low
+C412,medical store,-1288.26,62,Low
+C412,reliance smart,-876.62,62,Low
+C412,uber,-1201.05,62,Low
+C413,amazon prime,-999.0,185,Low
+C413,cafe coffee day,-833.78,43,Low
+C413,company,29949.67,28430,High
+C413,flipkart,-982.35,43,Low
+C413,gym membership,-1200.0,43,Low
+C413,spotify,-199.0,43,Low
+C413,swiggy,-1101.1,43,Low
+C413,uber,-1026.62,43,Low
+C413,zomato,-989.6,43,Low
+C414,company,40922.14,113709,Low
+C414,dmart,-962.53,108731,Low
+C414,electricity bill,-1500.0,83774,Low
+C414,flipkart,-1157.0,98599,Low
+C414,netflix,-499.0,84156,Low
+C414,petrol pump,-1179.78,85274,Low
+C414,spotify,-199.0,100816,Low
+C414,swiggy,-1148.85,86845,Low
+C414,uber,-1342.55,90726,Low
+C414,zomato,-1013.14,88437,Low
+C415,amazon prime,-999.0,28504,Low
+C415,cafe coffee day,-1084.14,20915,Low
+C415,electricity bill,-1500.0,40016,Low
+C415,flipkart,-1013.22,26446,Low
+C415,medical store,-978.9,32439,Low
+C415,petrol pump,-1069.43,42941,Low
+C415,swiggy,-917.94,26875,Low
+C415,zomato,-959.58,23356,Low
+C416,amazon prime,-999.0,177809,Low
+C416,dmart,-965.57,161841,Low
+C416,electricity bill,-1500.0,180144,Low
+C416,flipkart,-1202.65,168867,Low
+C416,medical store,-1067.8,161212,Low
+C416,spotify,-199.0,173392,Low
+C416,swiggy,-1084.89,167768,Low
+C416,uber,-1090.9,168582,Low
+C416,zomato,-1214.89,165980,Low
+C417,amazon prime,-999.0,37056,Low
+C417,cafe coffee day,-860.0,17308,Low
+C417,company,31136.33,38055,Low
+C417,gym membership,-1200.0,31482,Low
+C417,medical store,-1148.38,16690,Low
+C417,netflix,-499.0,298,Low
+C417,petrol pump,-1231.05,20563,Low
+C417,reliance smart,-975.6,18591,Low
+C417,swiggy,-994.2,298,Low
+C417,uber,-1053.19,25329,Low
+C417,zomato,-1051.17,21177,Low
+C418,cafe coffee day,-815.45,29787,Low
+C418,company,31320.17,33149,Low
+C418,electricity bill,-1500.0,15031,Low
+C418,gym membership,-1200.0,11583,Low
+C418,medical store,-908.28,11640,Low
+C418,reliance smart,-1087.76,17818,Low
+C418,spotify,-199.0,17090,Low
+C418,swiggy,-862.18,11751,Low
+C418,uber,-1060.68,26639,Low
+C419,amazon prime,-999.0,14468,Low
+C419,cafe coffee day,-866.67,1985,Low
+C419,company,26879.57,30374,Low
+C419,dmart,-1002.15,19656,Low
+C419,flipkart,-984.33,13538,Low
+C419,gym membership,-1200.0,15467,Low
+C419,medical store,-1088.71,617,Low
+C419,petrol pump,-1009.76,3914,Low
+C419,spotify,-199.0,29634,Low
+C419,swiggy,-1038.88,7281,Low
+C42,amazon prime,-999.0,17603,Low
+C42,company,32422.75,69325,Low
+C42,dmart,-993.7,9198,Low
+C42,flipkart,-915.79,14658,Low
+C42,medical store,-863.38,12148,Low
+C42,petrol pump,-1089.33,21474,Low
+C42,reliance smart,-1116.15,7026,Low
+C42,swiggy,-1088.4,11092,Low
+C42,uber,-1340.67,15749,Low
+C42,zomato,-1064.95,36995,Low
+C420,cafe coffee day,-1051.0,46593,Low
+C420,dmart,-947.45,57855,Low
+C420,electricity bill,-1500.0,69453,Low
+C420,gym membership,-1200.0,83965,Low
+C420,medical store,-899.65,59533,Low
+C420,petrol pump,-1164.9,47021,Low
+C420,reliance smart,-1222.35,60865,Low
+C420,spotify,-199.0,70953,Low
+C420,uber,-1119.0,58732,Low
+C420,zomato,-1077.36,75687,Low
+C421,amazon prime,-999.0,109923,Low
+C421,dmart,-887.55,89756,Low
+C421,flipkart,-1167.68,94241,Low
+C421,medical store,-914.72,95250,Low
+C421,petrol pump,-1059.0,88643,Low
+C421,spotify,-199.0,101044,Low
+C421,swiggy,-1148.05,99143,Low
+C421,uber,-949.0,109448,Low
+C421,zomato,-1304.7,92007,Low
+C422,amazon prime,-999.0,37,Low
+C422,cafe coffee day,-1081.09,37,Low
+C422,company,31410.67,23060,High
+C422,dmart,-1094.29,37,Low
+C422,electricity bill,-1500.0,37,Low
+C422,flipkart,-1086.9,37,Low
+C422,medical store,-1149.59,37,Low
+C422,netflix,-499.0,37,Low
+C422,reliance smart,-1168.15,37,Low
+C422,uber,-936.58,37,Low
+C422,zomato,-889.1,37,Low
+C423,amazon prime,-999.0,69109,Low
+C423,cafe coffee day,-1270.79,67724,Low
+C423,flipkart,-1055.38,74004,Low
+C423,petrol pump,-960.85,66011,Low
+C423,reliance smart,-841.33,91527,Low
+C423,spotify,-199.0,71844,Low
+C423,swiggy,-1210.85,74945,Low
+C424,company,31703.57,93998,Low
+C424,dmart,-1226.96,69649,Low
+C424,electricity bill,-1500.0,76699,Low
+C424,petrol pump,-934.7,72436,Low
+C424,reliance smart,-1011.79,63603,Low
+C424,uber,-990.22,66415,Low
+C424,zomato,-1079.61,61982,Low
+C425,amazon prime,-999.0,18397,Low
+C425,cafe coffee day,-1221.95,13935,Low
+C425,netflix,-499.0,7511,Low
+C425,reliance smart,-1042.72,19580,Low
+C425,uber,-959.41,6653,Low
+C426,cafe coffee day,-1020.76,18895,Low
+C426,dmart,-1044.17,14939,Low
+C426,electricity bill,-1500.0,22078,Low
+C426,medical store,-1167.22,33679,Low
+C426,netflix,-499.0,25604,Low
+C426,petrol pump,-1146.57,13076,Low
+C426,reliance smart,-890.29,25373,Low
+C426,spotify,-199.0,42433,Low
+C426,zomato,-962.71,29117,Low
+C427,cafe coffee day,-1113.5,104323,Low
+C427,electricity bill,-1500.0,110400,Low
+C427,flipkart,-991.45,98449,Low
+C427,netflix,-499.0,120297,Low
+C427,reliance smart,-1128.42,104128,Low
+C427,spotify,-199.0,103929,Low
+C427,uber,-923.48,99002,Low
+C427,zomato,-972.42,105449,Low
+C428,cafe coffee day,-1035.55,35768,Low
+C428,company,30796.29,66774,Low
+C428,dmart,-908.64,34190,Low
+C428,electricity bill,-1500.0,47527,Low
+C428,gym membership,-1200.0,54656,Low
+C428,medical store,-1062.21,45623,Low
+C428,netflix,-499.0,51379,Low
+C428,petrol pump,-1158.09,30697,Low
+C428,reliance smart,-1036.22,37061,Low
+C429,cafe coffee day,-1070.29,10173,Low
+C429,dmart,-861.65,15399,Low
+C429,flipkart,-991.42,11966,Low
+C429,medical store,-1069.8,21212,Low
+C429,petrol pump,-964.95,13634,Low
+C429,spotify,-199.0,37857,Low
+C429,swiggy,-1214.67,15129,Low
+C43,cafe coffee day,-957.43,102394,Low
+C43,flipkart,-1046.9,100888,Low
+C43,gym membership,-1200.0,123546,Low
+C43,petrol pump,-1006.37,110112,Low
+C43,reliance smart,-1008.08,102109,Low
+C43,swiggy,-1051.93,99084,Low
+C430,amazon prime,-999.0,67977,Low
+C430,dmart,-1137.53,56197,Low
+C430,flipkart,-996.5,47527,Low
+C430,gym membership,-1200.0,49541,Low
+C430,medical store,-1041.55,59316,Low
+C430,netflix,-499.0,50741,Low
+C430,petrol pump,-1197.3,43093,Low
+C430,reliance smart,-1209.28,44415,Low
+C430,swiggy,-1034.62,59946,Low
+C430,uber,-943.7,42381,Low
+C430,zomato,-1004.95,70610,Low
+C431,amazon prime,-999.0,129177,Low
+C431,dmart,-1063.85,115708,Low
+C431,flipkart,-1109.8,113216,Low
+C431,netflix,-499.0,116753,Low
+C431,petrol pump,-939.52,117257,Low
+C431,reliance smart,-669.93,138787,Low
+C431,spotify,-199.0,144650,Low
+C431,swiggy,-1152.53,117363,Low
+C431,uber,-975.55,112213,Low
+C431,zomato,-821.5,121577,Low
+C432,amazon prime,-999.0,17499,Low
+C432,cafe coffee day,-948.78,24542,Low
+C432,dmart,-945.33,36761,Low
+C432,flipkart,-1051.11,10623,Low
+C432,petrol pump,-911.83,30401,Low
+C432,reliance smart,-1173.04,20901,Low
+C432,swiggy,-1143.18,18498,Low
+C432,zomato,-983.68,11615,Low
+C433,cafe coffee day,-1104.58,86939,Low
+C433,company,34890.57,105931,Low
+C433,netflix,-499.0,84286,Low
+C433,uber,-998.62,86179,Low
+C433,zomato,-1317.75,91554,Low
+C434,amazon prime,-999.0,45363,Low
+C434,cafe coffee day,-1206.22,46362,Low
+C434,flipkart,-1229.05,29828,Low
+C434,petrol pump,-941.17,38836,Low
+C434,reliance smart,-1048.18,28273,Low
+C434,spotify,-199.0,41798,Low
+C434,swiggy,-797.41,34136,Low
+C434,uber,-1105.76,30639,Low
+C435,amazon prime,-999.0,85911,Low
+C435,cafe coffee day,-996.15,69232,Low
+C435,company,31823.33,93427,Low
+C435,medical store,-1239.76,79368,Low
+C435,petrol pump,-951.68,67958,Low
+C435,spotify,-199.0,81751,Low
+C435,swiggy,-1238.74,64257,Low
+C435,uber,-1231.28,70032,Low
+C435,zomato,-1300.67,63088,Low
+C436,amazon prime,-999.0,12427,Low
+C436,cafe coffee day,-1090.7,8460,Low
+C436,company,36162.8,64647,Low
+C436,dmart,-871.68,11053,Low
+C436,electricity bill,-1500.0,15108,Low
+C436,medical store,-1030.7,31646,Low
+C436,petrol pump,-1082.65,9078,Low
+C436,swiggy,-1039.14,16608,Low
+C436,zomato,-1370.28,10462,Low
+C437,cafe coffee day,-1078.67,24,Low
+C437,dmart,-1184.0,24,Low
+C437,electricity bill,-1500.0,145,Low
+C437,flipkart,-1226.06,24,Low
+C437,petrol pump,-1023.04,24,Low
+C437,reliance smart,-926.9,24,Low
+C437,swiggy,-1003.96,24,Low
+C437,uber,-1090.28,24,Low
+C437,zomato,-901.82,24,Low
+C438,amazon prime,-999.0,87885,Low
+C438,cafe coffee day,-1085.14,60951,Low
+C438,company,35464.4,94664,Low
+C438,dmart,-1035.57,64689,Low
+C438,flipkart,-983.68,61785,Low
+C438,medical store,-827.29,60570,Low
+C438,reliance smart,-837.62,59814,Low
+C438,spotify,-199.0,77352,Low
+C438,swiggy,-1069.65,63087,Low
+C438,uber,-861.54,77551,Low
+C439,amazon prime,-999.0,66588,Low
+C439,company,32449.57,81403,Low
+C439,dmart,-942.42,58946,Low
+C439,gym membership,-1200.0,72866,Low
+C439,medical store,-1184.71,55759,Low
+C439,reliance smart,-973.57,52851,Low
+C439,spotify,-199.0,68729,Low
+C439,swiggy,-1068.85,63407,Low
+C439,uber,-819.05,53600,Low
+C439,zomato,-936.0,70407,Low
+C44,dmart,-1082.9,81888,Low
+C44,electricity bill,-1500.0,81909,Low
+C44,flipkart,-1072.68,77591,Low
+C44,medical store,-890.74,84580,Low
+C44,petrol pump,-1037.88,87995,Low
+C44,reliance smart,-1004.95,79406,Low
+C44,zomato,-1035.89,75800,Low
+C440,cafe coffee day,-979.87,87865,Low
+C440,dmart,-1285.85,86116,Low
+C440,flipkart,-1113.12,88611,Low
+C440,petrol pump,-1109.16,84020,Low
+C440,spotify,-199.0,104191,Low
+C440,swiggy,-991.68,103473,Low
+C440,uber,-925.0,93111,Low
+C441,cafe coffee day,-896.05,51495,Low
+C441,dmart,-839.64,59530,Low
+C441,gym membership,-1200.0,76560,Low
+C441,medical store,-1063.13,53287,Low
+C441,petrol pump,-1219.96,34990,Low
+C441,reliance smart,-1227.85,59996,Low
+C441,uber,-1027.52,55130,Low
+C441,zomato,-1010.74,61121,Low
+C442,dmart,-1139.33,157077,Low
+C442,medical store,-972.95,153381,Low
+C442,netflix,-499.0,156416,Low
+C442,petrol pump,-929.26,159480,Low
+C442,reliance smart,-1002.14,156915,Low
+C442,swiggy,-1110.71,153854,Low
+C442,uber,-1130.8,168693,Low
+C442,zomato,-1180.45,152546,Low
+C443,amazon prime,-999.0,11178,Low
+C443,cafe coffee day,-1206.26,287,Low
+C443,dmart,-1084.05,88,Low
+C443,flipkart,-851.26,88,Low
+C443,medical store,-1019.9,287,Low
+C443,spotify,-199.0,88,Low
+C443,swiggy,-1153.33,287,Low
+C443,uber,-929.75,88,Low
+C443,zomato,-917.08,88,Low
+C444,cafe coffee day,-1173.9,164899,Low
+C444,dmart,-1332.07,149718,Low
+C444,flipkart,-1175.9,139741,Low
+C444,gym membership,-1200.0,145575,Low
+C444,medical store,-956.44,156765,Low
+C444,netflix,-499.0,155749,Low
+C444,petrol pump,-1012.83,155254,Low
+C444,swiggy,-833.71,146775,Low
+C444,uber,-857.5,141580,Low
+C445,amazon prime,-999.0,139165,Low
+C445,cafe coffee day,-937.52,129696,Low
+C445,company,37899.0,146873,Low
+C445,dmart,-889.36,122923,Low
+C445,flipkart,-1015.86,120169,Low
+C445,gym membership,-1200.0,126272,Low
+C445,medical store,-906.64,119914,Low
+C445,netflix,-499.0,129197,Low
+C445,petrol pump,-1063.55,56640,Low
+C445,swiggy,-1059.29,143463,Low
+C445,zomato,-1042.12,67173,Low
+C446,cafe coffee day,-1090.91,42734,Low
+C446,dmart,-1134.33,34138,Low
+C446,flipkart,-1163.11,46283,Low
+C446,gym membership,-1200.0,40514,Low
+C446,medical store,-1017.18,35018,Low
+C446,reliance smart,-1105.67,38148,Low
+C446,uber,-1131.89,37134,Low
+C447,amazon prime,-999.0,41990,Low
+C447,cafe coffee day,-996.91,17180,Low
+C447,dmart,-1003.95,26538,Low
+C447,flipkart,-1073.57,20274,Low
+C447,medical store,-1030.13,17870,Low
+C447,netflix,-499.0,24103,Low
+C447,petrol pump,-1110.65,22494,Low
+C447,reliance smart,-1247.25,28382,Low
+C447,spotify,-199.0,18346,Low
+C448,cafe coffee day,-1054.63,145104,Low
+C448,dmart,-1082.59,166893,Low
+C448,electricity bill,-1500.0,154673,Low
+C448,flipkart,-1035.94,156173,Low
+C448,petrol pump,-889.76,139634,Low
+C448,reliance smart,-1071.59,89887,Low
+C448,swiggy,-806.09,140167,Low
+C448,uber,-1013.58,142678,Low
+C448,zomato,-1112.59,141291,Low
+C449,amazon prime,-999.0,75007,Low
+C449,company,40072.8,112111,Low
+C449,dmart,-755.22,47283,Low
+C449,electricity bill,-1500.0,71502,Low
+C449,medical store,-1251.32,52814,Low
+C449,petrol pump,-1101.11,49905,Low
+C449,reliance smart,-951.79,57633,Low
+C449,spotify,-199.0,76006,Low
+C449,swiggy,-1139.0,61500,Low
+C45,dmart,-958.29,131114,Low
+C45,electricity bill,-1500.0,132590,Low
+C45,flipkart,-846.57,123879,Low
+C45,gym membership,-1200.0,138085,Low
+C45,netflix,-499.0,145103,Low
+C45,petrol pump,-1070.74,124002,Low
+C45,uber,-846.17,137348,Low
+C45,zomato,-925.89,126385,Low
+C450,cafe coffee day,-977.9,8604,Low
+C450,company,30452.0,61624,Low
+C450,flipkart,-1340.42,46,Low
+C450,gym membership,-1200.0,4336,Low
+C450,medical store,-1238.73,582,Low
+C450,netflix,-499.0,16320,Low
+C450,petrol pump,-949.05,46,Low
+C450,reliance smart,-987.36,1779,Low
+C450,swiggy,-895.1,9296,Low
+C451,amazon prime,-999.0,56471,Low
+C451,company,38876.17,78008,Low
+C451,dmart,-1098.42,49260,Low
+C451,electricity bill,-1500.0,57470,Low
+C451,flipkart,-1102.35,50986,Low
+C451,medical store,-984.42,56299,Low
+C451,petrol pump,-1171.24,53195,Low
+C451,reliance smart,-898.75,47015,Low
+C451,spotify,-199.0,67002,Low
+C451,zomato,-1240.92,45468,Low
+C452,amazon prime,-999.0,26638,Low
+C452,cafe coffee day,-1049.84,16578,Low
+C452,flipkart,-870.3,585,Low
+C452,netflix,-499.0,1568,Low
+C452,petrol pump,-1075.57,585,Low
+C452,reliance smart,-1121.59,3775,Low
+C452,spotify,-199.0,13463,Low
+C452,swiggy,-1108.0,585,Low
+C452,uber,-944.76,11554,Low
+C452,zomato,-1174.06,5451,Low
+C453,amazon prime,-999.0,78847,Low
+C453,cafe coffee day,-1148.0,52796,Low
+C453,dmart,-963.28,55865,Low
+C453,flipkart,-1003.91,51407,Low
+C453,petrol pump,-1110.35,55303,Low
+C453,reliance smart,-903.82,63457,Low
+C453,spotify,-199.0,69705,Low
+C453,uber,-1002.24,56282,Low
+C454,dmart,-930.75,51867,Low
+C454,electricity bill,-1500.0,55781,Low
+C454,netflix,-499.0,62997,Low
+C454,reliance smart,-838.73,51481,Low
+C454,uber,-1097.53,60908,Low
+C454,zomato,-1069.95,58087,Low
+C455,cafe coffee day,-861.75,51935,Low
+C455,dmart,-965.64,34330,Low
+C455,flipkart,-1137.05,39230,Low
+C455,netflix,-499.0,44898,Low
+C455,reliance smart,-937.0,40136,Low
+C455,spotify,-199.0,35783,Low
+C455,swiggy,-1224.19,42547,Low
+C455,uber,-1166.6,35982,Low
+C456,amazon prime,-999.0,118156,Low
+C456,cafe coffee day,-986.39,115448,Low
+C456,electricity bill,-1500.0,113948,Low
+C456,flipkart,-1143.56,111545,Low
+C456,medical store,-1120.26,105861,Low
+C456,petrol pump,-1111.87,106521,Low
+C456,swiggy,-748.05,103521,Low
+C456,uber,-967.0,132448,Low
+C456,zomato,-1126.75,102231,Low
+C457,amazon prime,-999.0,39758,Low
+C457,company,33590.5,57386,Low
+C457,dmart,-992.04,23928,Low
+C457,flipkart,-989.32,29166,Low
+C457,medical store,-976.58,32432,Low
+C457,petrol pump,-1043.48,25596,Low
+C457,spotify,-199.0,32233,Low
+C457,swiggy,-1141.9,30075,Low
+C457,uber,-1144.68,27569,Low
+C457,zomato,-1039.13,23323,Low
+C458,cafe coffee day,-991.64,11794,Low
+C458,electricity bill,-1500.0,24115,Low
+C458,flipkart,-1174.67,14445,Low
+C458,medical store,-1030.24,16303,Low
+C458,netflix,-499.0,25615,Low
+C458,petrol pump,-1115.21,13272,Low
+C458,reliance smart,-1022.62,26114,Low
+C458,spotify,-199.0,13,Low
+C458,swiggy,-981.69,12912,Low
+C458,uber,-887.95,13381,Low
+C458,zomato,-1073.5,22715,Low
+C459,cafe coffee day,-858.64,52,Low
+C459,company,28410.0,27009,High
+C459,dmart,-845.76,153,Low
+C459,flipkart,-1014.85,52,Low
+C459,medical store,-1024.9,153,Low
+C459,netflix,-499.0,153,Low
+C459,swiggy,-1195.04,52,Low
+C459,uber,-1243.95,153,Low
+C459,zomato,-1021.86,153,Low
+C46,dmart,-1024.5,215432,Low
+C46,flipkart,-903.38,218664,Low
+C46,medical store,-875.89,213979,Low
+C46,petrol pump,-968.4,214122,Low
+C46,reliance smart,-972.1,216653,Low
+C46,spotify,-199.0,234800,Low
+C46,swiggy,-1079.05,221542,Low
+C46,uber,-1165.1,219827,Low
+C46,zomato,-1322.65,217024,Low
+C460,amazon prime,-999.0,31797,Low
+C460,company,46992.0,88376,Low
+C460,electricity bill,-1500.0,50459,Low
+C460,flipkart,-1260.72,35773,Low
+C460,reliance smart,-1006.69,70760,Low
+C460,swiggy,-877.07,30546,Low
+C460,uber,-1053.55,33434,Low
+C460,zomato,-1001.64,43872,Low
+C461,cafe coffee day,-1219.76,33526,Low
+C461,company,38613.43,147838,Low
+C461,dmart,-1128.5,128764,Low
+C461,electricity bill,-1500.0,144242,Low
+C461,flipkart,-1101.39,137638,Low
+C461,medical store,-993.6,146285,Low
+C461,netflix,-499.0,142223,Low
+C461,swiggy,-970.26,32091,Low
+C461,uber,-1065.0,129615,Low
+C461,zomato,-1002.68,145742,Low
+C462,cafe coffee day,-1191.04,40792,Low
+C462,electricity bill,-1500.0,42564,Low
+C462,medical store,-1057.4,54190,Low
+C462,reliance smart,-842.96,46043,Low
+C462,spotify,-199.0,56467,Low
+C462,uber,-1089.2,44064,Low
+C462,zomato,-877.17,56666,Low
+C463,cafe coffee day,-941.24,35165,Low
+C463,company,29813.83,50843,Low
+C463,electricity bill,-1500.0,49343,Low
+C463,netflix,-499.0,40043,Low
+C463,spotify,-199.0,36856,Low
+C463,uber,-1049.33,25086,Low
+C463,zomato,-1015.81,38077,Low
+C464,cafe coffee day,-1050.94,41808,Low
+C464,company,38900.6,87414,Low
+C464,flipkart,-930.32,32925,Low
+C464,medical store,-921.64,26795,Low
+C464,netflix,-499.0,48171,Low
+C464,petrol pump,-835.09,30316,Low
+C464,reliance smart,-913.95,20085,Low
+C464,swiggy,-890.88,21576,Low
+C464,uber,-1042.0,22747,Low
+C464,zomato,-932.67,29674,Low
+C465,amazon prime,-999.0,37453,Low
+C465,cafe coffee day,-1016.41,13732,Low
+C465,company,34086.67,45704,Low
+C465,dmart,-817.83,17988,Low
+C465,flipkart,-919.22,25540,Low
+C465,medical store,-932.12,19546,Low
+C465,netflix,-499.0,19047,Low
+C465,petrol pump,-982.3,27024,Low
+C465,spotify,-199.0,22012,Low
+C465,swiggy,-1041.57,15720,Low
+C465,uber,-905.8,18394,Low
+C465,zomato,-1003.6,16622,Low
+C466,amazon prime,-999.0,99,Low
+C466,cafe coffee day,-907.84,99,Low
+C466,company,35817.33,65627,Low
+C466,dmart,-1219.48,99,Low
+C466,electricity bill,-1500.0,99,Low
+C466,flipkart,-1102.62,99,Low
+C466,medical store,-1063.42,99,Low
+C466,reliance smart,-1130.74,99,Low
+C466,spotify,-199.0,99,Low
+C466,uber,-1108.79,99,Low
+C467,dmart,-993.12,20133,Low
+C467,gym membership,-1200.0,17799,Low
+C467,medical store,-909.11,28654,Low
+C467,reliance smart,-681.47,28970,Low
+C468,company,29015.6,38994,Low
+C468,dmart,-1283.5,14303,Low
+C468,flipkart,-904.88,34669,Low
+C468,netflix,-499.0,1863,Low
+C468,petrol pump,-883.0,13037,Low
+C468,spotify,-199.0,1664,Low
+C468,swiggy,-924.24,13953,Low
+C468,uber,-898.5,24271,Low
+C469,cafe coffee day,-918.56,24422,Low
+C469,dmart,-1026.38,40824,Low
+C469,flipkart,-1235.82,33683,Low
+C469,gym membership,-1200.0,35571,Low
+C469,medical store,-1153.5,29135,Low
+C469,petrol pump,-952.42,28048,Low
+C469,reliance smart,-1232.89,38207,Low
+C469,spotify,-199.0,28936,Low
+C469,uber,-963.62,49348,Low
+C469,zomato,-943.82,26027,Low
+C47,amazon prime,-999.0,104837,Low
+C47,cafe coffee day,-1245.84,78697,Low
+C47,flipkart,-1086.32,82072,Low
+C47,medical store,-1218.61,83710,Low
+C47,netflix,-499.0,98250,Low
+C47,petrol pump,-1057.8,92732,Low
+C47,reliance smart,-1145.39,81214,Low
+C47,zomato,-1049.15,100100,Low
+C470,amazon prime,-999.0,17111,Low
+C470,cafe coffee day,-1124.59,24864,Low
+C470,dmart,-1025.65,16887,Low
+C470,medical store,-895.45,23651,Low
+C470,netflix,-499.0,28102,Low
+C470,petrol pump,-1181.05,46981,Low
+C470,reliance smart,-1149.26,14248,Low
+C470,spotify,-199.0,24665,Low
+C470,swiggy,-1107.08,15474,Low
+C470,zomato,-987.37,11644,Low
+C471,amazon prime,-999.0,6966,Low
+C471,cafe coffee day,-1005.22,23,Low
+C471,flipkart,-912.2,23,Low
+C471,medical store,-999.26,262,Low
+C471,reliance smart,-1097.76,23,Low
+C471,spotify,-199.0,23,Low
+C471,swiggy,-1226.24,23,Low
+C472,amazon prime,-999.0,132801,Low
+C472,cafe coffee day,-814.89,137297,Low
+C472,dmart,-1045.91,133800,Low
+C472,gym membership,-1200.0,154024,Low
+C472,petrol pump,-881.48,127839,Low
+C472,spotify,-199.0,140228,Low
+C472,swiggy,-1042.19,128881,Low
+C472,uber,-1117.2,139158,Low
+C472,zomato,-970.91,129427,Low
+C473,amazon prime,-999.0,114976,Low
+C473,cafe coffee day,-1107.79,122558,Low
+C473,dmart,-915.94,110903,Low
+C473,electricity bill,-1500.0,113476,Low
+C473,flipkart,-1027.0,115975,Low
+C473,netflix,-499.0,104450,Low
+C473,petrol pump,-1061.68,111069,Low
+C473,reliance smart,-1031.28,129840,Low
+C473,uber,-1034.33,129503,Low
+C474,amazon prime,-999.0,133462,Low
+C474,cafe coffee day,-1083.11,117061,Low
+C474,flipkart,-970.45,125020,Low
+C474,medical store,-909.06,123065,Low
+C474,petrol pump,-995.88,130719,Low
+C474,reliance smart,-1111.47,120026,Low
+C474,swiggy,-927.76,122177,Low
+C474,zomato,-996.48,125341,Low
+C475,cafe coffee day,-1128.05,17792,Low
+C475,company,35308.0,43461,Low
+C475,dmart,-952.78,17642,Low
+C475,flipkart,-1059.85,34474,Low
+C475,gym membership,-1200.0,23201,Low
+C475,petrol pump,-1263.27,360,Low
+C475,reliance smart,-1036.95,30819,Low
+C475,swiggy,-984.11,22816,Low
+C475,uber,-908.15,28481,Low
+C476,amazon prime,-999.0,89400,Low
+C476,cafe coffee day,-1068.61,95870,Low
+C476,company,34602.0,102359,Low
+C476,netflix,-499.0,95371,Low
+C476,spotify,-199.0,95172,Low
+C476,swiggy,-1115.05,78699,Low
+C476,uber,-964.75,77038,Low
+C476,zomato,-1108.48,78401,Low
+C477,cafe coffee day,-1002.35,40541,Low
+C477,gym membership,-1200.0,55390,Low
+C477,netflix,-499.0,69893,Low
+C477,reliance smart,-1107.74,38614,Low
+C477,spotify,-199.0,47386,Low
+C477,swiggy,-1078.05,49731,Low
+C477,zomato,-1160.18,48597,Low
+C478,cafe coffee day,-1009.52,217042,Low
+C478,dmart,-903.21,212676,Low
+C478,electricity bill,-1500.0,228912,Low
+C478,flipkart,-974.43,214754,Low
+C478,medical store,-1117.14,209245,Low
+C478,petrol pump,-1128.0,211309,Low
+C478,swiggy,-1015.72,235327,Low
+C478,uber,-1062.15,213079,Low
+C478,zomato,-1020.46,219633,Low
+C479,amazon prime,-999.0,130804,Low
+C479,dmart,-931.07,112133,Low
+C479,flipkart,-974.5,112405,Low
+C479,medical store,-935.89,118163,Low
+C479,petrol pump,-1063.41,130229,Low
+C479,swiggy,-1081.95,115734,Low
+C479,uber,-1091.67,117509,Low
+C48,cafe coffee day,-790.71,46749,Low
+C48,flipkart,-915.57,54254,Low
+C48,netflix,-499.0,59752,Low
+C48,petrol pump,-1060.5,47168,Low
+C48,swiggy,-1006.42,53092,Low
+C48,uber,-1091.9,46537,Low
+C48,zomato,-1045.75,50800,Low
+C480,cafe coffee day,-1104.7,49196,Low
+C480,dmart,-1038.41,51958,Low
+C480,medical store,-1094.19,50644,Low
+C480,petrol pump,-1017.72,65657,Low
+C480,reliance smart,-1047.89,56676,Low
+C480,spotify,-199.0,56837,Low
+C480,zomato,-1269.92,47601,Low
+C481,electricity bill,-1500.0,97851,Low
+C481,medical store,-1171.28,100489,Low
+C481,petrol pump,-965.1,91419,Low
+C481,swiggy,-1151.62,84409,Low
+C481,uber,-963.21,85985,Low
+C481,zomato,-1098.35,89511,Low
+C482,cafe coffee day,-943.24,116917,Low
+C482,electricity bill,-1500.0,122621,Low
+C482,gym membership,-1200.0,121421,Low
+C482,reliance smart,-951.67,111263,Low
+C482,spotify,-199.0,112848,Low
+C482,swiggy,-790.06,111025,Low
+C482,uber,-1020.89,106100,Low
+C482,zomato,-1099.36,109214,Low
+C483,cafe coffee day,-1051.89,27226,Low
+C483,company,40211.6,88762,Low
+C483,dmart,-1152.87,24090,Low
+C483,flipkart,-1264.16,22936,Low
+C483,medical store,-917.68,21802,Low
+C483,petrol pump,-1019.14,29867,Low
+C483,spotify,-199.0,37123,Low
+C483,swiggy,-1340.08,70623,Low
+C483,uber,-1092.15,27973,Low
+C483,zomato,-1107.25,27603,Low
+C484,amazon prime,-999.0,29114,Low
+C484,cafe coffee day,-950.0,30113,Low
+C484,medical store,-1163.72,27257,Low
+C484,petrol pump,-894.16,22995,Low
+C484,swiggy,-1062.74,23987,Low
+C484,uber,-938.15,24289,Low
+C484,zomato,-1129.2,26828,Low
+C485,amazon prime,-999.0,97543,Low
+C485,cafe coffee day,-931.1,80534,Low
+C485,dmart,-996.35,82873,Low
+C485,gym membership,-1200.0,98542,Low
+C485,medical store,-1157.38,91154,Low
+C485,petrol pump,-1169.95,78114,Low
+C485,reliance smart,-1165.5,84439,Low
+C485,spotify,-199.0,77915,Low
+C485,uber,-1129.76,77125,Low
+C485,zomato,-957.82,87495,Low
+C486,amazon prime,-999.0,61860,Low
+C486,cafe coffee day,-1051.4,42875,Low
+C486,dmart,-979.88,43869,Low
+C486,electricity bill,-1500.0,66536,Low
+C486,gym membership,-1200.0,52976,Low
+C486,swiggy,-988.18,50067,Low
+C486,zomato,-1133.0,46150,Low
+C487,company,34736.14,108284,Low
+C487,dmart,-1104.77,87525,Low
+C487,flipkart,-925.6,94001,Low
+C487,netflix,-499.0,74191,Low
+C487,petrol pump,-764.22,102772,Low
+C487,swiggy,-896.83,93131,Low
+C487,uber,-909.5,89304,Low
+C487,zomato,-1031.24,70764,Low
+C488,cafe coffee day,-916.93,107863,Low
+C488,dmart,-932.09,106186,Low
+C488,flipkart,-932.11,115940,Low
+C488,medical store,-986.1,113562,Low
+C488,netflix,-499.0,107364,Low
+C488,uber,-1147.91,105424,Low
+C489,amazon prime,-999.0,131364,Low
+C489,cafe coffee day,-1164.5,116891,Low
+C489,electricity bill,-1500.0,129864,Low
+C489,flipkart,-821.52,119393,Low
+C489,gym membership,-1200.0,132480,Low
+C489,petrol pump,-1328.39,115965,Low
+C489,swiggy,-1031.75,113735,Low
+C49,cafe coffee day,-1029.12,140125,Low
+C49,dmart,-1023.4,128600,Low
+C49,flipkart,-883.77,134347,Low
+C49,medical store,-1088.8,124036,Low
+C49,netflix,-499.0,143014,Low
+C49,petrol pump,-1020.77,121093,Low
+C49,reliance smart,-1048.09,125093,Low
+C49,swiggy,-1062.26,132680,Low
+C49,zomato,-1124.74,118707,Low
+C490,amazon prime,-999.0,49529,Low
+C490,company,31950.43,70439,Low
+C490,gym membership,-1200.0,64650,Low
+C490,petrol pump,-1068.74,46455,Low
+C490,reliance smart,-973.46,55690,Low
+C490,spotify,-199.0,53733,Low
+C490,swiggy,-773.56,5024,Low
+C490,uber,-1090.48,47556,Low
+C491,cafe coffee day,-800.55,32266,Low
+C491,electricity bill,-1500.0,35474,Low
+C491,gym membership,-1200.0,17934,Low
+C491,medical store,-1079.43,37414,Low
+C491,netflix,-499.0,46509,Low
+C491,uber,-991.44,27454,Low
+C492,cafe coffee day,-846.18,5908,Low
+C492,dmart,-1137.33,7578,Low
+C492,medical store,-1009.19,22612,Low
+C492,petrol pump,-928.58,9472,Low
+C492,reliance smart,-966.19,15968,Low
+C492,spotify,-199.0,14150,Low
+C493,cafe coffee day,-1061.94,41243,Low
+C493,company,32795.57,68714,Low
+C493,dmart,-985.83,46061,Low
+C493,medical store,-1014.28,42237,Low
+C493,netflix,-499.0,45562,Low
+C493,petrol pump,-1060.57,35705,Low
+C493,reliance smart,-1094.53,43954,Low
+C493,swiggy,-1154.88,52971,Low
+C493,uber,-1272.14,39990,Low
+C493,zomato,-1094.95,36920,Low
+C494,amazon prime,-999.0,39534,Low
+C494,flipkart,-1151.15,35257,Low
+C494,gym membership,-1200.0,40533,Low
+C494,reliance smart,-871.54,36787,Low
+C494,swiggy,-1346.04,32495,Low
+C494,uber,-1224.89,30670,Low
+C495,cafe coffee day,-973.67,32632,Low
+C495,company,30554.67,56554,Low
+C495,electricity bill,-1500.0,27317,Low
+C495,flipkart,-1151.74,31593,Low
+C495,gym membership,-1200.0,50381,Low
+C495,medical store,-1226.55,28817,Low
+C495,petrol pump,-1084.57,43513,Low
+C495,spotify,-199.0,45732,Low
+C495,uber,-1110.85,25410,Low
+C495,zomato,-777.93,35169,Low
+C496,cafe coffee day,-868.67,145805,Low
+C496,medical store,-1014.25,144528,Low
+C496,reliance smart,-979.35,155639,Low
+C496,spotify,-199.0,155440,Low
+C496,swiggy,-952.09,142556,Low
+C496,uber,-931.09,142820,Low
+C497,flipkart,-1181.17,16465,Low
+C497,gym membership,-1200.0,27268,Low
+C497,medical store,-786.52,15878,Low
+C497,netflix,-499.0,35678,Low
+C497,reliance smart,-1017.33,13875,Low
+C497,swiggy,-826.42,18284,Low
+C497,uber,-1092.22,14169,Low
+C497,zomato,-891.32,10188,Low
+C498,cafe coffee day,-922.89,113601,Low
+C498,dmart,-1169.71,122872,Low
+C498,electricity bill,-1500.0,117794,Low
+C498,flipkart,-1007.07,117340,Low
+C498,medical store,-1002.96,115719,Low
+C498,petrol pump,-1074.47,120613,Low
+C498,reliance smart,-880.68,115155,Low
+C498,uber,-984.29,119294,Low
+C498,zomato,-925.12,114438,Low
+C499,company,33401.8,47711,Low
+C499,electricity bill,-1500.0,19936,Low
+C499,flipkart,-873.42,2,Low
+C499,gym membership,-1200.0,11199,Low
+C499,medical store,-888.5,1464,Low
+C499,petrol pump,-1021.23,15919,Low
+C499,spotify,-199.0,2,Low
+C499,swiggy,-1348.87,6886,Low
+C499,zomato,-1162.5,2689,Low
+C5,company,38280.0,57055,Low
+C5,dmart,-1249.41,61,Low
+C5,electricity bill,-1500.0,61,Low
+C5,flipkart,-1336.39,61,Low
+C5,netflix,-499.0,61,Low
+C5,petrol pump,-1185.67,61,Low
+C5,reliance smart,-1031.21,61,Low
+C5,swiggy,-1057.2,61,Low
+C5,uber,-1080.78,61,Low
+C5,zomato,-1000.43,61,Low
+C50,electricity bill,-1500.0,78127,Low
+C50,gym membership,-1200.0,63562,Low
+C50,medical store,-1132.79,56757,Low
+C50,netflix,-499.0,61428,Low
+C50,petrol pump,-969.21,59605,Low
+C50,reliance smart,-1089.67,68046,Low
+C50,swiggy,-1008.33,55176,Low
+C50,uber,-838.84,61927,Low
+C50,zomato,-968.0,58241,Low
+C500,cafe coffee day,-1028.62,106395,Low
+C500,dmart,-1031.0,112626,Low
+C500,electricity bill,-1500.0,113844,Low
+C500,flipkart,-889.46,120399,Low
+C500,gym membership,-1200.0,128312,Low
+C500,medical store,-1187.4,118519,Low
+C500,petrol pump,-1114.09,107455,Low
+C500,spotify,-199.0,64316,Low
+C500,swiggy,-1005.9,109526,Low
+C500,uber,-1173.95,105891,Low
+C51,company,37915.6,65840,Low
+C51,dmart,-1030.4,22111,Low
+C51,flipkart,-1081.17,8708,Low
+C51,medical store,-1217.2,25526,Low
+C51,netflix,-499.0,14689,Low
+C51,petrol pump,-885.33,15370,Low
+C51,reliance smart,-828.84,20685,Low
+C51,swiggy,-1029.14,15188,Low
+C51,uber,-1122.39,11311,Low
+C52,amazon prime,-999.0,280034,Low
+C52,dmart,-868.19,265667,Low
+C52,electricity bill,-1500.0,282799,Low
+C52,flipkart,-1179.94,266821,Low
+C52,petrol pump,-1053.15,269322,Low
+C52,reliance smart,-976.52,258017,Low
+C52,spotify,-199.0,270041,Low
+C52,swiggy,-1230.68,265083,Low
+C52,uber,-854.2,263510,Low
+C52,zomato,-1013.82,259291,Low
+C53,amazon prime,-999.0,57255,Low
+C53,cafe coffee day,-964.55,43938,Low
+C53,flipkart,-765.75,39836,Low
+C53,medical store,-1000.22,47162,Low
+C53,petrol pump,-1011.61,45666,Low
+C53,spotify,-199.0,28934,Low
+C53,uber,-964.6,46447,Low
+C53,zomato,-1105.41,49006,Low
+C54,amazon prime,-999.0,232,Low
+C54,cafe coffee day,-858.3,24,Low
+C54,dmart,-1225.68,24,Low
+C54,flipkart,-1077.93,24,Low
+C54,medical store,-1203.55,24,Low
+C54,petrol pump,-763.68,24,Low
+C54,reliance smart,-978.88,232,Low
+C54,uber,-1004.76,131,Low
+C54,zomato,-1071.67,24,Low
+C55,amazon prime,-999.0,150809,Low
+C55,cafe coffee day,-1033.28,140757,Low
+C55,dmart,-1013.83,126860,Low
+C55,electricity bill,-1500.0,127869,Low
+C55,gym membership,-1200.0,149609,Low
+C55,petrol pump,-1128.09,129827,Low
+C55,swiggy,-1228.4,126998,Low
+C55,uber,-835.9,129639,Low
+C55,zomato,-803.61,134797,Low
+C56,cafe coffee day,-1132.82,95387,Low
+C56,dmart,-883.32,99093,Low
+C56,electricity bill,-1500.0,117501,Low
+C56,medical store,-852.76,107657,Low
+C56,petrol pump,-1190.63,96569,Low
+C56,reliance smart,-1117.85,100006,Low
+C56,spotify,-199.0,124293,Low
+C56,uber,-884.5,98260,Low
+C56,zomato,-916.3,109475,Low
+C57,cafe coffee day,-1031.0,79231,Low
+C57,electricity bill,-1500.0,83408,Low
+C57,medical store,-1004.67,85739,Low
+C57,petrol pump,-929.83,96967,Low
+C57,reliance smart,-1053.5,95020,Low
+C57,uber,-1019.65,80426,Low
+C57,zomato,-853.9,86818,Low
+C58,amazon prime,-999.0,45,Low
+C58,company,34894.25,37145,Low
+C58,flipkart,-1132.45,45,Low
+C58,medical store,-985.87,45,Low
+C58,netflix,-499.0,45,Low
+C58,petrol pump,-1117.24,45,Low
+C58,reliance smart,-992.44,45,Low
+C58,swiggy,-1140.25,45,Low
+C58,uber,-1129.61,45,Low
+C58,zomato,-1071.86,45,Low
+C59,dmart,-1151.32,38554,Low
+C59,flipkart,-1166.13,46244,Low
+C59,netflix,-499.0,57583,Low
+C59,reliance smart,-921.82,43508,Low
+C59,swiggy,-1139.76,59087,Low
+C59,uber,-992.29,45657,Low
+C59,zomato,-1069.09,39961,Low
+C6,cafe coffee day,-914.61,58489,Low
+C6,company,28266.0,66498,Low
+C6,medical store,-1201.39,14,Low
+C6,petrol pump,-1406.0,60290,Low
+C6,reliance smart,-912.35,47913,Low
+C6,spotify,-199.0,66299,Low
+C6,swiggy,-1218.08,49403,Low
+C6,zomato,-1064.29,47166,Low
+C60,amazon prime,-999.0,57999,Low
+C60,company,30010.33,75378,Low
+C60,dmart,-986.0,71680,Low
+C60,gym membership,-1200.0,50689,Low
+C60,medical store,-946.63,48744,Low
+C60,petrol pump,-1133.35,43400,Low
+C60,reliance smart,-1153.15,47818,Low
+C60,swiggy,-1149.32,44482,Low
+C60,uber,-1077.88,45830,Low
+C61,amazon prime,-999.0,21944,Low
+C61,cafe coffee day,-1091.68,7028,Low
+C61,company,36444.2,70541,Low
+C61,dmart,-1090.48,7861,Low
+C61,medical store,-1045.68,14241,Low
+C61,petrol pump,-1073.89,9607,Low
+C61,spotify,-199.0,34527,Low
+C61,swiggy,-1189.56,10728,Low
+C61,zomato,-1169.62,32762,Low
+C62,cafe coffee day,-973.05,83292,Low
+C62,flipkart,-1211.87,88617,Low
+C62,gym membership,-1200.0,98388,Low
+C62,netflix,-499.0,92369,Low
+C62,petrol pump,-945.84,95824,Low
+C62,reliance smart,-1023.96,101658,Low
+C62,spotify,-199.0,98189,Low
+C62,swiggy,-1002.5,90768,Low
+C62,uber,-947.5,81320,Low
+C62,zomato,-1116.91,81689,Low
+C63,amazon prime,-999.0,41249,Low
+C63,cafe coffee day,-976.22,36562,Low
+C63,dmart,-989.05,15269,Low
+C63,electricity bill,-1500.0,17734,Low
+C63,medical store,-1112.9,20682,Low
+C63,petrol pump,-1125.26,13507,Low
+C63,spotify,-199.0,26062,Low
+C63,swiggy,-1060.8,16457,Low
+C63,zomato,-862.95,19234,Low
+C64,dmart,-1091.59,81026,Low
+C64,flipkart,-1014.65,77618,Low
+C64,medical store,-860.81,94878,Low
+C64,petrol pump,-1095.11,85702,Low
+C64,reliance smart,-1078.44,101753,Low
+C64,spotify,-199.0,100532,Low
+C64,swiggy,-1047.89,80415,Low
+C64,uber,-1020.38,88625,Low
+C65,cafe coffee day,-987.2,26022,Low
+C65,dmart,-1039.0,48383,Low
+C65,flipkart,-911.86,51108,Low
+C65,gym membership,-1200.0,51859,Low
+C65,petrol pump,-877.9,59712,Low
+C65,reliance smart,-1213.4,53222,Low
+C65,swiggy,-949.45,45318,Low
+C65,uber,-1055.48,47534,Low
+C66,amazon prime,-999.0,78858,Low
+C66,electricity bill,-1500.0,74314,Low
+C66,medical store,-1084.65,63783,Low
+C66,netflix,-499.0,72212,Low
+C66,petrol pump,-1087.81,68480,Low
+C66,reliance smart,-979.79,62289,Low
+C66,uber,-940.92,58591,Low
+C66,zomato,-984.53,64737,Low
+C67,amazon prime,-999.0,110129,Low
+C67,cafe coffee day,-1152.52,89345,Low
+C67,dmart,-1072.05,90971,Low
+C67,flipkart,-873.45,96653,Low
+C67,gym membership,-1200.0,104723,Low
+C67,medical store,-1287.67,87853,Low
+C67,petrol pump,-759.53,100938,Low
+C67,reliance smart,-1043.94,102200,Low
+C67,spotify,-199.0,107901,Low
+C67,swiggy,-987.64,99257,Low
+C67,zomato,-976.14,86870,Low
+C68,cafe coffee day,-866.06,4319,Low
+C68,dmart,-1032.75,10530,Low
+C68,flipkart,-1036.05,2903,Low
+C68,medical store,-989.83,15544,Low
+C68,netflix,-499.0,80,Low
+C68,petrol pump,-990.48,1645,Low
+C68,spotify,-199.0,15345,Low
+C68,swiggy,-980.28,14344,Low
+C68,uber,-862.29,28582,Low
+C69,amazon prime,-999.0,108510,Low
+C69,cafe coffee day,-1194.12,105651,Low
+C69,flipkart,-1149.89,112285,Low
+C69,petrol pump,-1129.04,107190,Low
+C69,reliance smart,-1079.96,103224,Low
+C69,swiggy,-1190.52,105049,Low
+C69,uber,-976.79,124903,Low
+C69,zomato,-1114.18,123720,Low
+C7,amazon prime,-999.0,28616,Low
+C7,cafe coffee day,-1036.9,15171,Low
+C7,company,33134.5,41811,Low
+C7,dmart,-832.64,13171,Low
+C7,flipkart,-1019.17,33595,Low
+C7,gym membership,-1200.0,17856,Low
+C7,petrol pump,-1198.86,29615,Low
+C7,reliance smart,-908.25,22987,Low
+C70,amazon prime,-999.0,444,Low
+C70,cafe coffee day,-1043.59,66,Low
+C70,dmart,-1408.64,66,Low
+C70,flipkart,-858.4,273,Low
+C70,medical store,-1181.38,9218,Low
+C70,petrol pump,-1274.0,444,Low
+C70,swiggy,-835.38,66,Low
+C70,zomato,-1153.14,66,Low
+C71,amazon prime,-999.0,98451,Low
+C71,cafe coffee day,-956.26,91433,Low
+C71,dmart,-922.52,88344,Low
+C71,electricity bill,-1500.0,95530,Low
+C71,flipkart,-1122.84,101755,Low
+C71,petrol pump,-1108.05,90177,Low
+C71,reliance smart,-1000.13,74617,Low
+C71,swiggy,-1012.15,107046,Low
+C71,uber,-1004.0,82226,Low
+C71,zomato,-1144.83,105349,Low
+C72,amazon prime,-999.0,35199,Low
+C72,cafe coffee day,-1024.88,12642,Low
+C72,electricity bill,-1500.0,33699,Low
+C72,flipkart,-892.0,8619,Low
+C72,medical store,-968.7,17191,Low
+C72,netflix,-499.0,13137,Low
+C72,petrol pump,-1154.95,21132,Low
+C72,reliance smart,-1186.64,10039,Low
+C72,uber,-1079.47,13967,Low
+C72,zomato,-1159.44,8465,Low
+C73,cafe coffee day,-1039.83,20507,Low
+C73,electricity bill,-1500.0,22101,Low
+C73,gym membership,-1200.0,26356,Low
+C73,medical store,-936.61,29039,Low
+C73,petrol pump,-876.95,33797,Low
+C73,swiggy,-1114.54,29208,Low
+C73,uber,-1133.73,30336,Low
+C74,cafe coffee day,-1047.05,17745,Low
+C74,electricity bill,-1500.0,20,Low
+C74,gym membership,-1200.0,29422,Low
+C74,medical store,-1153.1,15497,Low
+C74,spotify,-199.0,20,Low
+C74,zomato,-1088.42,10429,Low
+C75,amazon prime,-999.0,49733,Low
+C75,company,44656.0,83608,Low
+C75,dmart,-1099.95,35780,Low
+C75,flipkart,-1138.68,34906,Low
+C75,petrol pump,-1080.23,45120,Low
+C75,swiggy,-1011.78,41024,Low
+C75,uber,-1093.38,61342,Low
+C75,zomato,-753.17,50732,Low
+C76,amazon prime,-999.0,92220,Low
+C76,cafe coffee day,-977.08,77331,Low
+C76,company,39904.0,112026,Low
+C76,dmart,-1127.14,87779,Low
+C76,electricity bill,-1500.0,80748,Low
+C76,flipkart,-1011.55,84097,Low
+C76,medical store,-1192.09,83923,Low
+C76,netflix,-499.0,106137,Low
+C76,petrol pump,-858.53,85945,Low
+C76,swiggy,-1044.76,80092,Low
+C76,uber,-1103.74,91027,Low
+C76,zomato,-1185.2,96267,Low
+C77,cafe coffee day,-1022.37,40826,Low
+C77,dmart,-846.44,54356,Low
+C77,electricity bill,-1500.0,46837,Low
+C77,netflix,-499.0,45429,Low
+C77,petrol pump,-931.88,49448,Low
+C77,reliance smart,-991.29,52558,Low
+C77,swiggy,-1101.47,53645,Low
+C77,uber,-1130.95,38863,Low
+C77,zomato,-1074.79,36931,Low
+C78,cafe coffee day,-882.45,397,Low
+C78,flipkart,-907.79,128,Low
+C78,gym membership,-1200.0,397,Low
+C78,medical store,-1179.67,252,Low
+C78,petrol pump,-1117.68,252,Low
+C78,swiggy,-1157.14,252,Low
+C78,uber,-979.17,4608,Low
+C79,amazon prime,-999.0,13694,Low
+C79,company,31412.5,29948,High
+C79,dmart,-1182.19,4593,Low
+C79,electricity bill,-1500.0,6263,Low
+C79,flipkart,-970.56,8709,Low
+C79,gym membership,-1200.0,9624,Low
+C79,petrol pump,-973.35,21567,Low
+C79,uber,-1060.45,10824,Low
+C79,zomato,-1025.9,1120,Low
+C8,cafe coffee day,-1331.73,4888,Low
+C8,dmart,-1153.17,12,Low
+C8,flipkart,-1003.71,540,Low
+C8,gym membership,-1200.0,12,Low
+C8,medical store,-998.9,12,Low
+C8,petrol pump,-970.75,193,Low
+C8,reliance smart,-1002.19,12,Low
+C8,swiggy,-959.29,12,Low
+C8,uber,-985.07,12,Low
+C80,amazon prime,-999.0,168,Low
+C80,electricity bill,-1500.0,168,Low
+C80,flipkart,-1089.88,168,Low
+C80,medical store,-830.11,168,Low
+C80,petrol pump,-1123.81,168,Low
+C80,reliance smart,-1089.39,168,Low
+C80,spotify,-199.0,168,Low
+C80,swiggy,-1025.09,168,Low
+C80,zomato,-1091.9,168,Low
+C81,dmart,-944.0,40177,Low
+C81,electricity bill,-1500.0,42983,Low
+C81,medical store,-935.85,40765,Low
+C81,netflix,-499.0,41201,Low
+C81,petrol pump,-1054.89,35521,Low
+C81,reliance smart,-1044.38,41700,Low
+C81,spotify,-199.0,53857,Low
+C82,cafe coffee day,-1191.77,38911,Low
+C82,dmart,-1047.23,24711,Low
+C82,electricity bill,-1500.0,42132,Low
+C82,flipkart,-1058.27,23726,Low
+C82,medical store,-1101.68,48476,Low
+C82,netflix,-499.0,38412,Low
+C82,reliance smart,-1105.85,27958,Low
+C82,swiggy,-825.43,44798,Low
+C82,uber,-1031.64,29495,Low
+C82,zomato,-1074.8,35813,Low
+C83,amazon prime,-999.0,110476,Low
+C83,dmart,-1043.0,93614,Low
+C83,electricity bill,-1500.0,107802,Low
+C83,flipkart,-1078.61,107414,Low
+C83,medical store,-931.38,103060,Low
+C83,netflix,-499.0,102008,Low
+C83,petrol pump,-985.33,111475,Low
+C83,reliance smart,-880.74,96561,Low
+C83,swiggy,-1126.21,126593,Low
+C83,zomato,-1064.89,91738,Low
+C84,cafe coffee day,-1134.0,63002,Low
+C84,dmart,-1103.5,57520,Low
+C84,electricity bill,-1500.0,68933,Low
+C84,flipkart,-1241.05,61009,Low
+C84,medical store,-1075.25,59109,Low
+C84,netflix,-499.0,93148,Low
+C84,petrol pump,-1070.21,70433,Low
+C84,reliance smart,-1246.08,67345,Low
+C84,spotify,-199.0,76682,Low
+C84,swiggy,-848.57,61958,Low
+C84,uber,-1133.77,72219,Low
+C84,zomato,-928.94,58545,Low
+C85,cafe coffee day,-1107.0,178,Low
+C85,dmart,-1091.62,178,Low
+C85,electricity bill,-1500.0,178,Low
+C85,medical store,-1085.33,30156,Low
+C85,petrol pump,-1180.09,178,Low
+C85,reliance smart,-1051.33,178,Low
+C85,spotify,-199.0,178,Low
+C85,swiggy,-1030.9,178,Low
+C85,uber,-1180.38,178,Low
+C85,zomato,-905.48,178,Low
+C86,amazon prime,-999.0,59726,Low
+C86,cafe coffee day,-1047.14,48677,Low
+C86,company,37367.67,74879,Low
+C86,dmart,-1023.95,58292,Low
+C86,flipkart,-984.76,51091,Low
+C86,medical store,-806.35,50280,Low
+C86,netflix,-499.0,63032,Low
+C86,petrol pump,-1004.5,37631,Low
+C86,uber,-1065.14,54949,Low
+C86,zomato,-1082.57,48234,Low
+C87,amazon prime,-999.0,64831,Low
+C87,cafe coffee day,-1137.16,64180,Low
+C87,dmart,-762.05,50409,Low
+C87,electricity bill,-1500.0,53242,Low
+C87,netflix,-499.0,69295,Low
+C87,reliance smart,-1071.91,55089,Low
+C87,uber,-1025.52,57763,Low
+C87,zomato,-1106.37,62239,Low
+C88,amazon prime,-999.0,80776,Low
+C88,cafe coffee day,-1141.73,59239,Low
+C88,flipkart,-1155.36,72312,Low
+C88,petrol pump,-819.74,57400,Low
+C88,spotify,-199.0,68488,Low
+C88,zomato,-992.05,62534,Low
+C89,amazon prime,-999.0,39944,Low
+C89,cafe coffee day,-1151.05,33727,Low
+C89,flipkart,-958.23,34533,Low
+C89,medical store,-1294.16,36599,Low
+C89,petrol pump,-999.15,33055,Low
+C89,reliance smart,-1014.33,46937,Low
+C89,swiggy,-1153.95,36278,Low
+C89,uber,-1161.68,42106,Low
+C89,zomato,-1109.75,36,Low
+C9,dmart,-942.39,87662,Low
+C9,electricity bill,-1500.0,96271,Low
+C9,flipkart,-1053.65,86301,Low
+C9,medical store,-1005.23,83766,Low
+C9,netflix,-499.0,106203,Low
+C9,petrol pump,-946.0,91917,Low
+C9,reliance smart,-970.42,88471,Low
+C9,spotify,-199.0,100786,Low
+C9,uber,-954.12,110859,Low
+C9,zomato,-1088.78,105917,Low
+C90,cafe coffee day,-1086.7,124818,Low
+C90,dmart,-1118.6,120284,Low
+C90,electricity bill,-1500.0,132292,Low
+C90,flipkart,-968.73,123946,Low
+C90,medical store,-982.91,125365,Low
+C90,netflix,-499.0,151642,Low
+C90,petrol pump,-1045.09,126940,Low
+C90,reliance smart,-829.63,131234,Low
+C90,spotify,-199.0,133792,Low
+C90,swiggy,-1130.11,128489,Low
+C90,uber,-816.44,142428,Low
+C91,cafe coffee day,-1089.05,273,Low
+C91,company,41778.25,60214,Low
+C91,electricity bill,-1500.0,273,Low
+C91,flipkart,-1130.55,273,Low
+C91,gym membership,-1200.0,13223,Low
+C91,medical store,-1033.25,273,Low
+C91,netflix,-499.0,18102,Low
+C91,reliance smart,-1032.59,30034,Low
+C91,swiggy,-1215.91,273,Low
+C91,uber,-1223.8,273,Low
+C91,zomato,-1118.0,273,Low
+C92,company,33992.5,72431,Low
+C92,flipkart,-958.68,41101,Low
+C92,gym membership,-1200.0,59182,Low
+C92,medical store,-973.2,38053,Low
+C92,netflix,-499.0,63045,Low
+C92,reliance smart,-1037.32,49072,Low
+C92,spotify,-199.0,48873,Low
+C92,uber,-1024.43,38879,Low
+C93,cafe coffee day,-1096.05,111424,Low
+C93,company,35043.43,127320,Low
+C93,gym membership,-1200.0,117295,Low
+C93,medical store,-956.47,117038,Low
+C93,petrol pump,-1157.67,112193,Low
+C93,reliance smart,-1037.1,103213,Low
+C93,spotify,-199.0,82852,Low
+C93,uber,-937.6,104379,Low
+C93,zomato,-853.53,87452,Low
+C94,amazon prime,-999.0,214,Low
+C94,dmart,-1219.38,214,Low
+C94,electricity bill,-1500.0,214,Low
+C94,flipkart,-916.89,111,Low
+C94,medical store,-872.41,111,Low
+C94,petrol pump,-950.33,596,Low
+C94,reliance smart,-1241.3,214,Low
+C94,swiggy,-961.35,111,Low
+C94,uber,-955.62,111,Low
+C94,zomato,-1157.74,111,Low
+C95,cafe coffee day,-1263.6,36,Low
+C95,company,28765.0,35804,Low
+C95,electricity bill,-1500.0,36,Low
+C95,medical store,-961.17,36,Low
+C95,petrol pump,-1195.23,36,Low
+C95,swiggy,-1143.0,515,Low
+C95,uber,-920.64,36,Low
+C96,dmart,-928.7,954,Low
+C96,flipkart,-1233.33,492,Low
+C96,gym membership,-1200.0,492,Low
+C96,medical store,-845.0,134,Low
+C96,netflix,-499.0,492,Low
+C96,reliance smart,-936.15,134,Low
+C96,spotify,-199.0,3749,Low
+C96,swiggy,-1132.82,134,Low
+C96,zomato,-1068.1,3318,Low
+C97,amazon prime,-999.0,99357,Low
+C97,cafe coffee day,-1238.6,74292,Low
+C97,medical store,-882.21,74813,Low
+C97,reliance smart,-904.57,74058,Low
+C97,spotify,-199.0,102989,Low
+C97,swiggy,-1065.11,88274,Low
+C97,uber,-969.15,72471,Low
+C97,zomato,-1036.16,86011,Low
+C98,cafe coffee day,-876.71,64793,Low
+C98,dmart,-1350.94,81424,Low
+C98,flipkart,-816.91,63950,Low
+C98,gym membership,-1200.0,66660,Low
+C98,netflix,-499.0,89631,Low
+C98,petrol pump,-1094.07,72057,Low
+C98,reliance smart,-768.11,70368,Low
+C98,swiggy,-1170.5,65190,Low
+C98,zomato,-1175.38,82448,Low
+C99,amazon prime,-999.0,11003,Low
+C99,cafe coffee day,-873.0,5457,Low
+C99,flipkart,-864.27,6884,Low
+C99,petrol pump,-1256.15,3102,Low
+C99,reliance smart,-1059.84,21791,Low
+C99,spotify,-199.0,2903,Low
+C99,swiggy,-961.63,17081,Low

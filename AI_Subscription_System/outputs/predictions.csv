@@ -1,0 +1,4241 @@
+CustomerID,Merchant,Frequency,Next_Debit_Date,Predicted_Amount
+C1,company,Monthly,2025-07-05,39600.0
+C1,dmart,Weekly,2025-07-02,-701.52
+C1,flipkart,Weekly,2025-06-29,-1074.86
+C1,gym membership,Monthly,2025-07-04,-1200.0
+C1,netflix,Monthly,2025-07-04,-499.0
+C1,spotify,Monthly,2025-07-13,-199.0
+C1,swiggy,Weekly,2025-06-28,-1066.28
+C1,uber,Weekly,2025-07-03,-1163.22
+C1,zomato,Weekly,2025-06-30,-811.95
+C10,amazon prime,Monthly,2025-07-06,-999.0
+C10,dmart,Weekly,2025-06-30,-977.62
+C10,electricity bill,Monthly,2025-07-25,-1500.0
+C10,medical store,Weekly,2025-07-03,-1134.5
+C10,petrol pump,Weekly,2025-06-30,-921.52
+C10,reliance smart,Weekly,2025-06-29,-1053.17
+C10,spotify,Monthly,2025-07-08,-199.0
+C10,swiggy,Weekly,2025-06-29,-1024.87
+C10,uber,Weekly,2025-07-01,-1281.36
+C100,amazon prime,Monthly,2025-07-11,-999.0
+C100,dmart,Weekly,2025-06-29,-1019.54
+C100,electricity bill,Monthly,2025-07-14,-1500.0
+C100,flipkart,Weekly,2025-07-01,-935.26
+C100,medical store,Weekly,2025-06-01,-958.61
+C100,netflix,Monthly,2025-07-28,-499.0
+C100,petrol pump,Weekly,2025-06-26,-951.22
+C100,reliance smart,Weekly,2025-06-30,-961.21
+C100,swiggy,Weekly,2025-07-05,-890.2
+C100,zomato,Weekly,2025-07-03,-1034.45
+C101,cafe coffee day,Weekly,2025-06-20,-853.94
+C101,company,Monthly,2025-07-03,35833.0
+C101,dmart,Weekly,2025-06-28,-907.47
+C101,electricity bill,Monthly,2025-07-24,-1500.0
+C101,gym membership,Monthly,2025-07-23,-1200.0
+C101,medical store,Weekly,2025-07-01,-1038.85
+C101,reliance smart,Weekly,2025-06-17,-993.53
+C101,uber,Weekly,2025-05-25,-1269.25
+C101,zomato,Weekly,2025-07-03,-965.0
+C102,cafe coffee day,Weekly,2025-07-01,-915.04
+C102,flipkart,Weekly,2025-07-03,-914.43
+C102,medical store,Weekly,2025-06-28,-1085.81
+C102,netflix,Monthly,2025-07-04,-499.0
+C102,petrol pump,Weekly,2025-06-07,-1115.86
+C102,uber,Weekly,2025-06-24,-1193.56
+C102,zomato,Weekly,2025-07-03,-992.77
+C103,amazon prime,Monthly,2025-07-03,-999.0
+C103,cafe coffee day,Weekly,2025-06-13,-1105.05
+C103,company,Monthly,2025-07-05,36321.14
+C103,electricity bill,Monthly,2025-07-08,-1500.0
+C103,flipkart,Weekly,2025-07-04,-1024.94
+C103,medical store,Weekly,2025-06-07,-1098.79
+C103,petrol pump,Weekly,2025-07-06,-1091.91
+C103,reliance smart,Weekly,2025-06-15,-1021.41
+C103,spotify,Monthly,2025-07-14,-199.0
+C103,swiggy,Weekly,2025-07-02,-985.46
+C103,uber,Weekly,2025-07-01,-830.12
+C104,company,Monthly,2025-05-04,36350.33
+C104,medical store,Weekly,2025-06-24,-1060.65
+C104,netflix,Monthly,2025-07-26,-499.0
+C104,petrol pump,Weekly,2025-07-02,-884.38
+C104,reliance smart,Weekly,2025-07-02,-1062.5
+C104,uber,Weekly,2025-06-16,-961.65
+C105,electricity bill,Monthly,2025-07-18,-1500.0
+C105,gym membership,Monthly,2025-07-20,-1200.0
+C105,medical store,Weekly,2025-07-04,-1121.86
+C105,petrol pump,Weekly,2025-07-05,-968.1
+C105,swiggy,Weekly,2025-07-06,-1012.82
+C105,zomato,Weekly,2025-06-28,-1224.35
+C106,cafe coffee day,Weekly,2025-07-05,-1143.0
+C106,dmart,Weekly,2025-07-06,-993.26
+C106,electricity bill,Monthly,2025-07-14,-1500.0
+C106,flipkart,Weekly,2025-06-16,-909.85
+C106,gym membership,Monthly,2025-07-25,-1200.0
+C106,medical store,Weekly,2025-06-30,-1105.15
+C106,petrol pump,Weekly,2025-06-30,-1186.22
+C106,reliance smart,Weekly,2025-06-24,-1068.42
+C106,spotify,Monthly,2025-07-18,-199.0
+C106,swiggy,Weekly,2025-06-20,-1036.53
+C106,uber,Weekly,2025-07-02,-1095.09
+C107,cafe coffee day,Weekly,2025-07-03,-1149.37
+C107,dmart,Weekly,2025-07-05,-1145.8
+C107,electricity bill,Monthly,2025-07-24,-1500.0
+C107,medical store,Weekly,2025-06-19,-1057.45
+C107,petrol pump,Weekly,2025-07-03,-950.32
+C107,reliance smart,Weekly,2025-06-12,-1140.26
+C107,uber,Weekly,2025-07-06,-1249.27
+C108,amazon prime,Monthly,2025-07-12,-999.0
+C108,dmart,Weekly,2025-07-04,-868.25
+C108,flipkart,Weekly,2025-07-05,-853.41
+C108,gym membership,Monthly,2025-07-05,-1200.0
+C108,petrol pump,Weekly,2025-06-26,-1055.67
+C108,swiggy,Weekly,2025-06-25,-920.48
+C108,uber,Weekly,2025-06-21,-1103.04
+C108,zomato,Weekly,2025-06-27,-938.83
+C109,cafe coffee day,Weekly,2025-06-01,-1150.25
+C109,netflix,Monthly,2025-07-01,-499.0
+C109,reliance smart,Weekly,2025-07-05,-1019.79
+C109,spotify,Monthly,2025-07-11,-199.0
+C109,swiggy,Weekly,2025-05-25,-1142.71
+C109,uber,Weekly,2025-07-05,-985.12
+C11,cafe coffee day,Weekly,2025-06-29,-902.39
+C11,dmart,Weekly,2025-07-04,-1288.38
+C11,flipkart,Weekly,2025-07-06,-1256.74
+C11,medical store,Weekly,2025-07-01,-772.82
+C11,netflix,Monthly,2025-07-18,-499.0
+C11,swiggy,Weekly,2025-07-01,-1039.26
+C11,uber,Weekly,2025-06-22,-955.81
+C11,zomato,Weekly,2025-06-28,-1116.11
+C110,amazon prime,Monthly,2025-07-09,-999.0
+C110,cafe coffee day,Weekly,2025-07-06,-1050.78
+C110,dmart,Weekly,2025-06-28,-1055.89
+C110,flipkart,Weekly,2025-07-02,-1069.64
+C110,petrol pump,Weekly,2025-06-24,-863.83
+C110,reliance smart,Weekly,2025-06-24,-1057.19
+C110,uber,Weekly,2025-06-11,-1009.53
+C110,zomato,Weekly,2025-07-01,-1105.86
+C111,amazon prime,Monthly,2025-07-02,-999.0
+C111,cafe coffee day,Weekly,2025-06-18,-1028.14
+C111,company,Monthly,2025-07-05,36866.67
+C111,dmart,Weekly,2025-06-28,-1001.36
+C111,flipkart,Weekly,2025-06-25,-1090.83
+C111,netflix,Monthly,2025-07-02,-499.0
+C111,petrol pump,Weekly,2025-06-25,-982.12
+C111,swiggy,Weekly,2025-06-01,-910.96
+C111,uber,Weekly,2025-07-05,-1028.35
+C112,amazon prime,Monthly,2025-07-16,-999.0
+C112,cafe coffee day,Weekly,2025-06-29,-1054.39
+C112,electricity bill,Monthly,2025-07-27,-1500.0
+C112,medical store,Weekly,2025-07-06,-1097.75
+C112,netflix,Monthly,2025-07-23,-499.0
+C112,petrol pump,Weekly,2025-07-01,-1014.61
+C112,swiggy,Weekly,2025-07-01,-999.13
+C112,uber,Weekly,2025-07-05,-1100.57
+C112,zomato,Weekly,2025-07-05,-1057.37
+C113,amazon prime,Monthly,2025-07-23,-999.0
+C113,cafe coffee day,Weekly,2025-07-03,-1019.7
+C113,dmart,Weekly,2025-07-06,-982.89
+C113,gym membership,Monthly,2025-07-07,-1200.0
+C113,medical store,Weekly,2025-06-24,-888.11
+C113,petrol pump,Weekly,2025-07-05,-1030.43
+C113,reliance smart,Weekly,2025-06-25,-1067.8
+C113,spotify,Monthly,2025-07-17,-199.0
+C113,swiggy,Weekly,2025-06-25,-929.1
+C114,amazon prime,Monthly,2025-07-13,-999.0
+C114,cafe coffee day,Weekly,2025-07-06,-920.93
+C114,flipkart,Weekly,2025-07-02,-933.2
+C114,swiggy,Weekly,2025-07-04,-1023.41
+C114,uber,Weekly,2025-07-05,-1119.68
+C115,cafe coffee day,Weekly,2025-06-30,-1055.96
+C115,flipkart,Weekly,2025-07-03,-1004.04
+C115,gym membership,Monthly,2025-07-03,-1200.0
+C115,netflix,Monthly,2025-07-25,-499.0
+C115,petrol pump,Weekly,2025-06-19,-1119.94
+C115,reliance smart,Weekly,2025-07-04,-1173.86
+C115,uber,Weekly,2025-07-04,-1022.73
+C115,zomato,Weekly,2025-07-03,-1280.5
+C116,amazon prime,Monthly,2025-07-18,-999.0
+C116,company,Monthly,2025-07-03,36335.17
+C116,dmart,Weekly,2025-07-03,-1146.95
+C116,electricity bill,Monthly,2025-07-15,-1500.0
+C116,flipkart,Weekly,2025-06-27,-851.1
+C116,petrol pump,Weekly,2025-07-01,-1163.79
+C116,reliance smart,Weekly,2025-07-06,-908.11
+C116,spotify,Monthly,2025-07-09,-199.0
+C116,uber,Weekly,2025-07-03,-939.79
+C117,dmart,Weekly,2025-06-13,-973.62
+C117,flipkart,Weekly,2025-07-01,-1167.19
+C117,petrol pump,Weekly,2025-06-19,-1185.74
+C117,reliance smart,Weekly,2025-07-05,-1256.05
+C117,spotify,Monthly,2025-07-17,-199.0
+C117,uber,Weekly,2025-06-17,-984.22
+C117,zomato,Weekly,2025-06-22,-1002.95
+C118,amazon prime,Monthly,2025-07-23,-999.0
+C118,cafe coffee day,Weekly,2025-06-30,-1248.0
+C118,dmart,Weekly,2025-07-03,-870.79
+C118,medical store,Weekly,2025-07-06,-1028.0
+C118,petrol pump,Weekly,2025-06-29,-967.52
+C118,spotify,Monthly,2025-07-04,-199.0
+C119,cafe coffee day,Weekly,2025-06-19,-985.79
+C119,company,Monthly,2025-07-01,37492.17
+C119,electricity bill,Monthly,2025-07-24,-1500.0
+C119,flipkart,Weekly,2025-07-06,-997.67
+C119,medical store,Weekly,2025-06-19,-1024.81
+C119,petrol pump,Weekly,2025-07-06,-997.83
+C119,spotify,Monthly,2025-07-02,-199.0
+C119,swiggy,Weekly,2025-06-16,-1044.12
+C119,uber,Weekly,2025-06-27,-961.6
+C12,amazon prime,Monthly,2025-07-08,-999.0
+C12,cafe coffee day,Weekly,2025-06-24,-1141.0
+C12,dmart,Weekly,2025-07-06,-1050.25
+C12,flipkart,Weekly,2025-07-03,-1036.58
+C12,gym membership,Monthly,2025-07-18,-1200.0
+C12,reliance smart,Weekly,2025-06-24,-1144.05
+C12,spotify,Monthly,2025-07-21,-199.0
+C12,swiggy,Weekly,2025-06-25,-998.23
+C12,uber,Weekly,2025-07-05,-1166.19
+C12,zomato,Weekly,2025-07-05,-1064.65
+C120,cafe coffee day,Weekly,2025-06-19,-980.53
+C120,company,Monthly,2025-07-04,36372.0
+C120,dmart,Weekly,2025-06-29,-888.43
+C120,gym membership,Monthly,2025-07-18,-1200.0
+C120,medical store,Weekly,2025-06-23,-1184.1
+C120,netflix,Monthly,2025-07-22,-499.0
+C120,petrol pump,Weekly,2025-06-21,-1106.67
+C120,reliance smart,Weekly,2025-07-03,-1019.86
+C120,spotify,Monthly,2025-07-12,-199.0
+C120,uber,Weekly,2025-07-05,-1208.67
+C120,zomato,Weekly,2025-07-05,-1102.95
+C121,cafe coffee day,Weekly,2025-06-23,-1050.88
+C121,dmart,Weekly,2025-06-30,-1131.91
+C121,electricity bill,Monthly,2025-07-07,-1500.0
+C121,flipkart,Weekly,2025-07-03,-1308.68
+C121,medical store,Weekly,2025-06-28,-953.41
+C121,petrol pump,Weekly,2025-06-24,-918.3
+C121,reliance smart,Weekly,2025-07-05,-1050.54
+C121,swiggy,Weekly,2025-07-06,-1084.17
+C121,uber,Weekly,2025-07-04,-1013.33
+C121,zomato,Weekly,2025-06-30,-905.26
+C122,cafe coffee day,Weekly,2025-06-30,-963.82
+C122,dmart,Weekly,2025-07-03,-1177.53
+C122,electricity bill,Monthly,2025-07-11,-1500.0
+C122,medical store,Weekly,2025-06-23,-938.67
+C122,petrol pump,Weekly,2025-07-05,-1035.83
+C122,reliance smart,Weekly,2025-06-29,-1042.72
+C122,swiggy,Weekly,2025-07-05,-1127.0
+C122,uber,Weekly,2025-06-24,-913.85
+C122,zomato,Weekly,2025-06-30,-877.11
+C123,amazon prime,Monthly,2025-07-08,-999.0
+C123,flipkart,Weekly,2025-06-11,-932.64
+C123,gym membership,Monthly,2025-07-04,-1200.0
+C123,medical store,Weekly,2025-07-06,-840.24
+C123,petrol pump,Weekly,2025-07-03,-994.37
+C123,reliance smart,Weekly,2025-07-06,-998.68
+C123,swiggy,Weekly,2025-06-30,-1129.5
+C123,uber,Weekly,2025-06-30,-1173.56
+C124,amazon prime,Monthly,2025-07-07,-999.0
+C124,cafe coffee day,Weekly,2025-07-05,-1270.35
+C124,company,Monthly,2025-07-04,36248.71
+C124,electricity bill,Monthly,2025-07-18,-1500.0
+C124,flipkart,Weekly,2025-07-05,-1194.22
+C124,medical store,Weekly,2025-07-01,-994.21
+C124,petrol pump,Weekly,2025-07-04,-1081.63
+C124,reliance smart,Weekly,2025-06-09,-1034.94
+C124,spotify,Monthly,2025-07-18,-199.0
+C124,zomato,Weekly,2025-07-06,-1093.28
+C125,amazon prime,Monthly,2025-07-22,-999.0
+C125,cafe coffee day,Weekly,2025-06-19,-1013.15
+C125,company,Monthly,2025-05-03,33039.75
+C125,electricity bill,Monthly,2025-07-24,-1500.0
+C125,medical store,Weekly,2025-07-04,-1145.26
+C125,petrol pump,Weekly,2025-07-03,-756.75
+C125,reliance smart,Weekly,2025-07-04,-1068.54
+C125,spotify,Monthly,2025-07-15,-199.0
+C125,swiggy,Weekly,2025-06-29,-1070.29
+C125,uber,Weekly,2025-07-05,-1058.19
+C125,zomato,Weekly,2025-07-02,-948.76
+C126,amazon prime,Monthly,2025-07-13,-999.0
+C126,cafe coffee day,Weekly,2025-06-22,-965.67
+C126,dmart,Weekly,2025-06-30,-1074.78
+C126,flipkart,Weekly,2025-07-01,-1234.73
+C126,medical store,Weekly,2025-07-05,-1157.16
+C126,petrol pump,Weekly,2025-06-19,-1201.78
+C126,reliance smart,Weekly,2025-07-04,-928.58
+C126,swiggy,Weekly,2025-06-14,-1330.87
+C127,cafe coffee day,Weekly,2025-06-23,-978.23
+C127,company,Monthly,2025-07-02,32866.8
+C127,dmart,Weekly,2025-06-09,-812.4
+C127,flipkart,Weekly,2025-07-01,-1094.35
+C127,gym membership,Monthly,2025-07-07,-1200.0
+C127,medical store,Weekly,2025-06-28,-1206.95
+C127,netflix,Monthly,2025-07-13,-499.0
+C127,petrol pump,Weekly,2025-07-04,-972.68
+C127,reliance smart,Weekly,2025-07-01,-1153.33
+C127,spotify,Monthly,2025-07-09,-199.0
+C127,swiggy,Weekly,2025-07-02,-1280.3
+C127,uber,Weekly,2025-06-16,-1142.19
+C128,cafe coffee day,Weekly,2025-07-04,-1059.09
+C128,dmart,Weekly,2025-06-14,-1122.85
+C128,gym membership,Monthly,2025-07-27,-1200.0
+C128,medical store,Weekly,2025-06-18,-925.68
+C128,netflix,Monthly,2025-07-05,-499.0
+C128,petrol pump,Weekly,2025-07-01,-963.0
+C128,reliance smart,Weekly,2025-06-01,-1047.28
+C128,spotify,Monthly,2025-07-19,-199.0
+C128,swiggy,Weekly,2025-07-04,-1123.78
+C128,uber,Weekly,2025-07-06,-1150.86
+C128,zomato,Weekly,2025-07-05,-1144.94
+C129,dmart,Weekly,2025-06-14,-945.18
+C129,electricity bill,Monthly,2025-07-24,-1500.0
+C129,flipkart,Weekly,2025-07-05,-949.35
+C129,medical store,Weekly,2025-06-26,-1337.52
+C129,reliance smart,Weekly,2025-06-29,-1216.47
+C129,uber,Weekly,2025-06-15,-776.86
+C129,zomato,Weekly,2025-06-30,-839.81
+C13,amazon prime,Monthly,2025-07-04,-999.0
+C13,cafe coffee day,Weekly,2025-06-27,-899.59
+C13,company,Monthly,2025-07-05,37231.17
+C13,dmart,Weekly,2025-07-01,-958.19
+C13,electricity bill,Monthly,2025-07-02,-1500.0
+C13,flipkart,Weekly,2025-07-02,-1117.14
+C13,medical store,Weekly,2025-06-30,-1255.68
+C13,petrol pump,Weekly,2025-07-03,-1035.35
+C13,reliance smart,Weekly,2025-07-04,-1066.9
+C13,spotify,Monthly,2025-07-13,-199.0
+C13,swiggy,Weekly,2025-06-17,-1032.14
+C13,uber,Weekly,2025-06-27,-971.85
+C13,zomato,Weekly,2025-07-02,-1054.79
+C130,amazon prime,Monthly,2025-07-07,-999.0
+C130,cafe coffee day,Weekly,2025-06-23,-1062.45
+C130,electricity bill,Monthly,2025-07-05,-1500.0
+C130,gym membership,Monthly,2025-07-23,-1200.0
+C130,medical store,Weekly,2025-07-01,-990.63
+C130,petrol pump,Weekly,2025-06-18,-942.17
+C130,reliance smart,Weekly,2025-07-02,-1141.68
+C130,swiggy,Weekly,2025-07-05,-1237.21
+C130,uber,Weekly,2025-07-05,-1094.86
+C130,zomato,Weekly,2025-07-03,-826.62
+C131,cafe coffee day,Weekly,2025-07-03,-1150.36
+C131,gym membership,Monthly,2025-07-07,-1200.0
+C131,medical store,Weekly,2025-06-09,-1194.07
+C131,reliance smart,Weekly,2025-07-02,-1410.39
+C131,swiggy,Weekly,2025-06-23,-1171.82
+C131,uber,Weekly,2025-07-06,-972.15
+C132,cafe coffee day,Weekly,2025-06-25,-1173.96
+C132,dmart,Weekly,2025-06-24,-964.56
+C132,gym membership,Monthly,2025-07-04,-1200.0
+C132,netflix,Monthly,2025-07-16,-499.0
+C132,spotify,Monthly,2025-07-24,-199.0
+C132,swiggy,Weekly,2025-07-02,-1025.85
+C132,uber,Weekly,2025-06-26,-1037.82
+C132,zomato,Weekly,2025-07-04,-961.67
+C133,cafe coffee day,Weekly,2025-06-23,-1027.9
+C133,company,Monthly,2025-07-05,37805.29
+C133,dmart,Weekly,2025-06-22,-933.37
+C133,electricity bill,Monthly,2025-07-23,-1500.0
+C133,flipkart,Weekly,2025-06-29,-1151.67
+C133,medical store,Weekly,2025-07-06,-923.52
+C133,netflix,Monthly,2025-07-05,-499.0
+C133,petrol pump,Weekly,2025-06-30,-1077.5
+C133,reliance smart,Weekly,2025-06-18,-1116.18
+C133,swiggy,Weekly,2025-06-28,-1069.09
+C133,uber,Weekly,2025-07-01,-1220.79
+C133,zomato,Weekly,2025-06-19,-1038.47
+C134,amazon prime,Monthly,2025-07-27,-999.0
+C134,dmart,Weekly,2025-07-04,-951.12
+C134,flipkart,Weekly,2025-07-05,-1105.2
+C134,medical store,Weekly,2025-07-01,-950.8
+C134,netflix,Monthly,2025-07-16,-499.0
+C134,petrol pump,Weekly,2025-07-03,-973.5
+C134,reliance smart,Weekly,2025-06-29,-916.77
+C134,spotify,Monthly,2025-07-14,-199.0
+C134,uber,Weekly,2025-07-05,-945.05
+C135,company,Monthly,2025-07-04,35662.17
+C135,electricity bill,Monthly,2025-07-11,-1500.0
+C135,flipkart,Weekly,2025-07-05,-1068.42
+C135,gym membership,Monthly,2025-07-27,-1200.0
+C135,medical store,Weekly,2025-07-04,-916.47
+C135,netflix,Monthly,2025-07-09,-499.0
+C135,petrol pump,Weekly,2025-06-30,-849.74
+C135,reliance smart,Weekly,2025-07-02,-877.62
+C135,swiggy,Weekly,2025-06-28,-979.18
+C135,zomato,Weekly,2025-07-02,-866.5
+C136,dmart,Weekly,2025-06-30,-1042.7
+C136,electricity bill,Monthly,2025-07-08,-1500.0
+C136,flipkart,Weekly,2025-06-02,-1112.32
+C136,gym membership,Monthly,2025-07-06,-1200.0
+C136,medical store,Weekly,2025-06-25,-1082.27
+C136,netflix,Monthly,2025-07-02,-499.0
+C136,petrol pump,Weekly,2025-06-29,-1213.28
+C136,reliance smart,Weekly,2025-07-06,-1248.3
+C136,uber,Weekly,2025-07-03,-1182.6
+C136,zomato,Weekly,2025-06-30,-983.77
+C137,amazon prime,Monthly,2025-07-05,-999.0
+C137,cafe coffee day,Weekly,2025-07-05,-951.07
+C137,company,Monthly,2025-07-05,36511.5
+C137,dmart,Weekly,2025-06-23,-1143.94
+C137,flipkart,Weekly,2025-07-05,-1033.21
+C137,gym membership,Monthly,2025-07-04,-1200.0
+C137,medical store,Weekly,2025-05-23,-731.94
+C137,petrol pump,Weekly,2025-07-06,-1232.88
+C137,reliance smart,Weekly,2025-06-16,-988.82
+C137,spotify,Monthly,2025-07-17,-199.0
+C137,uber,Weekly,2025-06-30,-1012.19
+C137,zomato,Weekly,2025-06-27,-1460.44
+C138,amazon prime,Monthly,2025-07-21,-999.0
+C138,dmart,Weekly,2025-07-06,-1082.15
+C138,electricity bill,Monthly,2025-07-09,-1500.0
+C138,flipkart,Weekly,2025-06-19,-1094.76
+C138,medical store,Weekly,2025-07-04,-937.41
+C138,petrol pump,Weekly,2025-07-04,-1183.3
+C138,reliance smart,Weekly,2025-06-29,-1166.46
+C138,swiggy,Weekly,2025-07-05,-1007.39
+C139,cafe coffee day,Weekly,2025-07-06,-994.0
+C139,company,Monthly,2025-07-03,33387.71
+C139,dmart,Weekly,2025-07-05,-1005.33
+C139,electricity bill,Monthly,2025-07-11,-1500.0
+C139,flipkart,Weekly,2025-07-02,-1076.65
+C139,petrol pump,Weekly,2025-06-18,-1145.12
+C139,reliance smart,Weekly,2025-06-25,-949.46
+C139,uber,Weekly,2025-06-30,-986.15
+C139,zomato,Weekly,2025-06-15,-1067.55
+C14,cafe coffee day,Weekly,2025-06-22,-922.85
+C14,dmart,Weekly,2025-07-01,-970.76
+C14,electricity bill,Monthly,2025-07-16,-1500.0
+C14,flipkart,Weekly,2025-07-03,-1076.55
+C14,medical store,Weekly,2025-07-06,-1169.87
+C14,netflix,Monthly,2025-07-17,-499.0
+C14,reliance smart,Weekly,2025-06-28,-918.57
+C14,zomato,Weekly,2025-06-07,-1307.81
+C140,amazon prime,Monthly,2025-07-17,-999.0
+C140,dmart,Weekly,2025-07-06,-1043.85
+C140,flipkart,Weekly,2025-06-29,-931.43
+C140,petrol pump,Weekly,2025-06-23,-1207.35
+C140,reliance smart,Weekly,2025-07-01,-934.0
+C140,spotify,Monthly,2025-07-12,-199.0
+C140,uber,Weekly,2025-07-03,-924.81
+C140,zomato,Weekly,2025-07-04,-1233.0
+C141,amazon prime,Monthly,2025-07-20,-999.0
+C141,cafe coffee day,Weekly,2025-06-29,-1121.63
+C141,dmart,Weekly,2025-06-30,-1000.61
+C141,flipkart,Weekly,2025-07-04,-987.7
+C141,netflix,Monthly,2025-07-12,-499.0
+C141,petrol pump,Weekly,2025-06-26,-1098.5
+C141,reliance smart,Weekly,2025-06-28,-958.05
+C141,spotify,Monthly,2025-07-16,-199.0
+C141,swiggy,Weekly,2025-06-23,-1170.56
+C141,uber,Weekly,2025-07-05,-1147.17
+C141,zomato,Weekly,2025-06-28,-786.65
+C142,cafe coffee day,Weekly,2025-07-02,-1175.85
+C142,dmart,Weekly,2025-06-29,-1252.42
+C142,electricity bill,Monthly,2025-07-20,-1500.0
+C142,reliance smart,Weekly,2025-06-12,-965.0
+C142,swiggy,Weekly,2025-07-06,-1077.86
+C142,uber,Weekly,2025-06-17,-822.12
+C143,cafe coffee day,Weekly,2025-06-22,-1056.33
+C143,dmart,Weekly,2025-06-30,-1103.47
+C143,flipkart,Weekly,2025-07-04,-1181.96
+C143,gym membership,Monthly,2025-07-01,-1200.0
+C143,medical store,Weekly,2025-06-26,-1215.84
+C143,reliance smart,Weekly,2025-07-05,-1172.5
+C143,swiggy,Weekly,2025-07-03,-1112.1
+C143,uber,Weekly,2025-06-14,-1112.2
+C143,zomato,Weekly,2025-07-06,-1039.06
+C144,flipkart,Weekly,2025-07-01,-1193.71
+C144,medical store,Weekly,2025-06-26,-926.58
+C144,netflix,Monthly,2025-07-02,-499.0
+C144,petrol pump,Weekly,2025-06-30,-1128.5
+C144,reliance smart,Weekly,2025-07-03,-1075.56
+C144,spotify,Monthly,2025-07-01,-199.0
+C144,swiggy,Weekly,2025-07-02,-895.59
+C144,uber,Weekly,2025-06-13,-1029.5
+C145,electricity bill,Monthly,2025-07-01,-1500.0
+C145,gym membership,Monthly,2025-07-10,-1200.0
+C145,medical store,Weekly,2025-06-30,-1158.62
+C145,petrol pump,Weekly,2025-06-24,-945.59
+C145,reliance smart,Weekly,2025-07-04,-1047.72
+C145,swiggy,Weekly,2025-06-23,-925.05
+C145,zomato,Weekly,2025-06-22,-1017.46
+C146,amazon prime,Monthly,2025-07-03,-999.0
+C146,cafe coffee day,Weekly,2025-07-06,-1005.35
+C146,electricity bill,Monthly,2025-07-01,-1500.0
+C146,flipkart,Weekly,2025-06-30,-1128.47
+C146,medical store,Weekly,2025-06-27,-984.13
+C146,petrol pump,Weekly,2025-06-30,-1162.74
+C146,swiggy,Weekly,2025-06-23,-1041.75
+C146,uber,Weekly,2025-07-02,-1111.3
+C147,cafe coffee day,Weekly,2025-06-16,-1210.29
+C147,dmart,Weekly,2025-06-21,-932.0
+C147,flipkart,Weekly,2025-07-06,-859.7
+C147,netflix,Monthly,2025-07-18,-499.0
+C147,petrol pump,Weekly,2025-06-20,-901.83
+C147,spotify,Monthly,2025-07-02,-199.0
+C147,swiggy,Weekly,2025-06-30,-920.3
+C147,uber,Weekly,2025-06-17,-997.54
+C148,cafe coffee day,Weekly,2025-07-06,-1368.55
+C148,electricity bill,Monthly,2025-07-12,-1500.0
+C148,flipkart,Weekly,2025-06-26,-966.28
+C148,gym membership,Monthly,2025-07-19,-1200.0
+C148,spotify,Monthly,2025-07-19,-199.0
+C149,amazon prime,Monthly,2025-07-25,-999.0
+C149,company,Monthly,2025-05-01,39412.5
+C149,dmart,Weekly,2025-07-03,-1054.61
+C149,flipkart,Weekly,2025-07-03,-926.81
+C149,gym membership,Monthly,2025-07-25,-1200.0
+C149,medical store,Weekly,2025-06-25,-1082.9
+C149,reliance smart,Weekly,2025-06-29,-1154.21
+C149,spotify,Monthly,2025-07-13,-199.0
+C149,swiggy,Weekly,2025-06-23,-1128.3
+C149,uber,Weekly,2025-07-06,-1084.5
+C149,zomato,Weekly,2025-06-29,-1071.27
+C15,dmart,Weekly,2025-06-29,-1315.12
+C15,electricity bill,Monthly,2025-07-03,-1500.0
+C15,flipkart,Weekly,2025-07-03,-921.73
+C15,medical store,Weekly,2025-06-21,-1024.94
+C15,petrol pump,Weekly,2025-07-03,-1191.88
+C15,reliance smart,Weekly,2025-06-30,-942.6
+C15,swiggy,Weekly,2025-07-01,-825.05
+C15,zomato,Weekly,2025-07-04,-1132.23
+C150,amazon prime,Monthly,2025-07-07,-999.0
+C150,cafe coffee day,Weekly,2025-06-28,-1116.66
+C150,company,Monthly,2025-07-04,28377.2
+C150,dmart,Weekly,2025-07-03,-904.45
+C150,flipkart,Weekly,2025-06-29,-935.81
+C150,medical store,Weekly,2025-07-05,-1348.25
+C150,swiggy,Weekly,2025-06-26,-999.53
+C150,zomato,Weekly,2025-06-24,-1170.86
+C151,dmart,Weekly,2025-06-20,-879.9
+C151,electricity bill,Monthly,2025-07-07,-1500.0
+C151,gym membership,Monthly,2025-07-23,-1200.0
+C151,medical store,Weekly,2025-07-05,-863.94
+C151,netflix,Monthly,2025-07-04,-499.0
+C151,petrol pump,Weekly,2025-06-05,-959.2
+C151,reliance smart,Weekly,2025-07-06,-1138.84
+C151,swiggy,Weekly,2025-06-24,-896.21
+C151,uber,Weekly,2025-06-21,-1019.11
+C151,zomato,Weekly,2025-07-05,-927.96
+C152,amazon prime,Monthly,2025-07-17,-999.0
+C152,cafe coffee day,Weekly,2025-07-01,-1037.7
+C152,dmart,Weekly,2025-07-05,-882.73
+C152,flipkart,Weekly,2025-07-04,-1159.21
+C152,medical store,Weekly,2025-06-19,-907.5
+C152,netflix,Monthly,2025-07-26,-499.0
+C152,petrol pump,Weekly,2025-06-27,-1226.22
+C152,reliance smart,Weekly,2025-07-02,-1023.0
+C152,spotify,Monthly,2025-07-21,-199.0
+C152,swiggy,Weekly,2025-06-30,-1219.44
+C152,uber,Weekly,2025-06-29,-973.62
+C153,cafe coffee day,Weekly,2025-06-20,-892.77
+C153,dmart,Weekly,2025-07-05,-1089.05
+C153,flipkart,Weekly,2025-06-08,-1088.78
+C153,gym membership,Monthly,2025-07-06,-1200.0
+C153,medical store,Weekly,2025-07-06,-960.53
+C153,netflix,Monthly,2025-07-01,-499.0
+C153,petrol pump,Weekly,2025-06-27,-834.35
+C153,reliance smart,Weekly,2025-07-04,-1141.05
+C153,zomato,Weekly,2025-06-30,-815.58
+C154,cafe coffee day,Weekly,2025-06-21,-1160.43
+C154,company,Monthly,2025-07-03,31601.0
+C154,electricity bill,Monthly,2025-07-22,-1500.0
+C154,flipkart,Weekly,2025-07-02,-1153.63
+C154,netflix,Monthly,2025-07-07,-499.0
+C154,petrol pump,Weekly,2025-06-05,-1078.62
+C154,zomato,Weekly,2025-07-04,-990.46
+C155,cafe coffee day,Weekly,2025-07-01,-960.15
+C155,flipkart,Weekly,2025-07-05,-932.92
+C155,medical store,Weekly,2025-06-13,-1107.76
+C155,netflix,Monthly,2025-07-03,-499.0
+C155,petrol pump,Weekly,2025-07-03,-927.0
+C155,swiggy,Weekly,2025-06-26,-1123.9
+C155,zomato,Weekly,2025-06-30,-1050.68
+C156,dmart,Weekly,2025-06-30,-1144.2
+C156,flipkart,Weekly,2025-07-02,-1193.22
+C156,gym membership,Monthly,2025-07-09,-1200.0
+C156,medical store,Weekly,2025-06-26,-999.71
+C156,reliance smart,Weekly,2025-07-01,-1229.35
+C156,zomato,Weekly,2025-06-29,-1230.52
+C157,cafe coffee day,Weekly,2025-06-20,-1238.39
+C157,dmart,Weekly,2025-07-03,-991.55
+C157,electricity bill,Monthly,2025-07-22,-1500.0
+C157,flipkart,Weekly,2025-06-14,-955.11
+C157,gym membership,Monthly,2025-07-17,-1200.0
+C157,medical store,Weekly,2025-06-14,-1102.35
+C157,netflix,Monthly,2025-07-10,-499.0
+C157,petrol pump,Weekly,2025-07-05,-1275.91
+C157,uber,Weekly,2025-06-22,-1275.48
+C158,amazon prime,Monthly,2025-07-19,-999.0
+C158,cafe coffee day,Weekly,2025-07-03,-1067.5
+C158,company,Monthly,2025-07-05,31253.57
+C158,electricity bill,Monthly,2025-07-18,-1500.0
+C158,flipkart,Weekly,2025-07-02,-1001.12
+C158,gym membership,Monthly,2025-07-17,-1200.0
+C158,medical store,Weekly,2025-07-01,-893.45
+C158,petrol pump,Weekly,2025-06-28,-1077.22
+C158,swiggy,Weekly,2025-06-30,-996.63
+C158,zomato,Weekly,2025-07-06,-859.82
+C159,amazon prime,Monthly,2025-07-24,-999.0
+C159,cafe coffee day,Weekly,2025-06-24,-1077.17
+C159,dmart,Weekly,2025-06-14,-1149.65
+C159,electricity bill,Monthly,2025-07-10,-1500.0
+C159,medical store,Weekly,2025-07-04,-837.74
+C159,petrol pump,Weekly,2025-06-30,-1067.35
+C159,reliance smart,Weekly,2025-06-26,-1011.1
+C159,spotify,Monthly,2025-07-21,-199.0
+C159,uber,Weekly,2025-06-15,-1086.52
+C159,zomato,Weekly,2025-06-26,-1259.95
+C16,amazon prime,Monthly,2025-07-14,-999.0
+C16,cafe coffee day,Weekly,2025-07-02,-1077.67
+C16,flipkart,Weekly,2025-06-25,-1133.59
+C16,medical store,Weekly,2025-06-14,-1240.59
+C16,petrol pump,Weekly,2025-06-22,-853.05
+C16,reliance smart,Weekly,2025-06-10,-1015.92
+C16,swiggy,Weekly,2025-06-29,-1000.68
+C16,uber,Weekly,2025-07-02,-1059.22
+C16,zomato,Weekly,2025-06-21,-1260.35
+C160,cafe coffee day,Weekly,2025-07-06,-929.42
+C160,dmart,Weekly,2025-07-03,-1017.33
+C160,gym membership,Monthly,2025-07-09,-1200.0
+C160,medical store,Weekly,2025-07-04,-1088.65
+C160,netflix,Monthly,2025-07-21,-499.0
+C160,reliance smart,Weekly,2025-06-30,-1190.29
+C160,swiggy,Weekly,2025-07-04,-1108.74
+C160,zomato,Weekly,2025-07-02,-1074.14
+C161,amazon prime,Monthly,2025-07-14,-999.0
+C161,cafe coffee day,Weekly,2025-06-28,-1147.06
+C161,dmart,Weekly,2025-07-05,-1015.83
+C161,medical store,Weekly,2025-07-02,-1050.09
+C161,reliance smart,Weekly,2025-06-25,-1233.47
+C161,spotify,Monthly,2025-07-12,-199.0
+C161,zomato,Weekly,2025-06-07,-1175.72
+C162,amazon prime,Monthly,2025-07-24,-999.0
+C162,company,Monthly,2025-07-03,38132.17
+C162,flipkart,Weekly,2025-06-15,-1228.53
+C162,medical store,Weekly,2025-06-27,-1255.75
+C162,petrol pump,Weekly,2025-06-30,-1003.68
+C162,swiggy,Weekly,2025-06-21,-1066.04
+C162,uber,Weekly,2025-07-03,-1114.29
+C162,zomato,Weekly,2025-07-06,-997.09
+C163,cafe coffee day,Weekly,2025-07-05,-960.36
+C163,company,Monthly,2025-07-04,34021.67
+C163,dmart,Weekly,2025-07-05,-963.5
+C163,electricity bill,Monthly,2025-07-08,-1500.0
+C163,flipkart,Weekly,2025-06-24,-927.95
+C163,gym membership,Monthly,2025-07-23,-1200.0
+C163,petrol pump,Weekly,2025-07-02,-1153.04
+C163,reliance smart,Weekly,2025-06-30,-1081.9
+C163,spotify,Monthly,2025-07-09,-199.0
+C163,swiggy,Weekly,2025-06-27,-1002.0
+C164,gym membership,Monthly,2025-07-14,-1200.0
+C164,medical store,Weekly,2025-06-16,-977.89
+C164,reliance smart,Weekly,2025-06-30,-1145.32
+C164,swiggy,Weekly,2025-07-04,-949.62
+C164,zomato,Weekly,2025-07-03,-1073.08
+C165,amazon prime,Monthly,2025-07-16,-999.0
+C165,cafe coffee day,Weekly,2025-07-04,-1070.58
+C165,dmart,Weekly,2025-06-27,-888.79
+C165,medical store,Weekly,2025-06-14,-1001.84
+C165,netflix,Monthly,2025-07-09,-499.0
+C165,petrol pump,Weekly,2025-07-03,-748.0
+C165,reliance smart,Weekly,2025-07-01,-886.72
+C165,spotify,Monthly,2025-07-18,-199.0
+C165,swiggy,Weekly,2025-06-30,-1120.09
+C165,uber,Weekly,2025-06-19,-958.0
+C165,zomato,Weekly,2025-06-22,-1060.86
+C166,cafe coffee day,Weekly,2025-07-02,-1025.0
+C166,dmart,Weekly,2025-06-23,-947.37
+C166,flipkart,Weekly,2025-07-05,-1128.19
+C166,gym membership,Monthly,2025-07-10,-1200.0
+C166,medical store,Weekly,2025-06-24,-1019.38
+C166,reliance smart,Weekly,2025-06-23,-824.61
+C166,spotify,Monthly,2025-07-09,-199.0
+C166,swiggy,Weekly,2025-07-05,-1065.03
+C166,uber,Weekly,2025-06-02,-1109.05
+C166,zomato,Weekly,2025-06-30,-1144.43
+C167,amazon prime,Monthly,2025-07-10,-999.0
+C167,cafe coffee day,Weekly,2025-07-02,-1050.5
+C167,flipkart,Weekly,2025-06-16,-963.76
+C167,gym membership,Monthly,2025-07-03,-1200.0
+C167,reliance smart,Weekly,2025-06-26,-1035.62
+C167,swiggy,Weekly,2025-06-15,-961.36
+C167,zomato,Monthly,2025-07-29,-1405.62
+C168,amazon prime,Monthly,2025-07-23,-999.0
+C168,cafe coffee day,Weekly,2025-07-06,-996.79
+C168,dmart,Weekly,2025-07-04,-990.89
+C168,flipkart,Weekly,2025-06-28,-1034.4
+C168,gym membership,Monthly,2025-07-04,-1200.0
+C168,medical store,Weekly,2025-06-03,-1038.62
+C168,reliance smart,Weekly,2025-07-05,-1088.0
+C168,uber,Weekly,2025-07-06,-1020.95
+C168,zomato,Weekly,2025-07-03,-1022.35
+C169,amazon prime,Monthly,2025-07-25,-999.0
+C169,cafe coffee day,Weekly,2025-06-28,-930.87
+C169,electricity bill,Monthly,2025-07-26,-1500.0
+C169,flipkart,Weekly,2025-07-02,-999.94
+C169,medical store,Weekly,2025-07-03,-1020.52
+C169,petrol pump,Weekly,2025-06-13,-1061.12
+C169,reliance smart,Weekly,2025-06-28,-1143.83
+C169,uber,Weekly,2025-07-06,-1105.6
+C17,company,Monthly,2025-07-05,31441.71
+C17,dmart,Weekly,2025-07-02,-1104.79
+C17,electricity bill,Monthly,2025-07-23,-1500.0
+C17,medical store,Weekly,2025-06-23,-1166.62
+C17,netflix,Monthly,2025-07-12,-499.0
+C17,petrol pump,Weekly,2025-07-03,-902.62
+C17,reliance smart,Weekly,2025-06-29,-730.29
+C17,spotify,Monthly,2025-07-19,-199.0
+C17,swiggy,Weekly,2025-06-28,-906.63
+C170,dmart,Weekly,2025-07-04,-900.77
+C170,flipkart,Weekly,2025-06-26,-1133.76
+C170,medical store,Weekly,2025-07-03,-1014.86
+C170,netflix,Monthly,2025-07-20,-499.0
+C170,petrol pump,Weekly,2025-07-06,-966.48
+C170,reliance smart,Weekly,2025-06-20,-1179.89
+C170,spotify,Monthly,2025-07-02,-199.0
+C170,swiggy,Weekly,2025-05-26,-1142.0
+C170,uber,Weekly,2025-07-06,-1169.91
+C170,zomato,Weekly,2025-07-01,-1204.86
+C171,dmart,Weekly,2025-07-02,-1161.52
+C171,flipkart,Weekly,2025-06-21,-1210.23
+C171,medical store,Weekly,2025-06-30,-1004.24
+C171,netflix,Monthly,2025-07-11,-499.0
+C171,petrol pump,Weekly,2025-06-23,-1195.95
+C171,reliance smart,Weekly,2025-07-05,-1027.79
+C171,uber,Weekly,2025-06-20,-1197.95
+C172,dmart,Weekly,2025-06-29,-1145.43
+C172,electricity bill,Monthly,2025-07-05,-1500.0
+C172,flipkart,Weekly,2025-07-05,-941.26
+C172,gym membership,Monthly,2025-07-26,-1200.0
+C172,medical store,Weekly,2025-06-29,-1240.16
+C172,petrol pump,Weekly,2025-07-03,-743.5
+C172,reliance smart,Weekly,2025-07-06,-1064.71
+C172,swiggy,Weekly,2025-06-27,-1053.04
+C172,uber,Weekly,2025-06-11,-1055.22
+C173,dmart,Weekly,2025-06-27,-1076.31
+C173,electricity bill,Monthly,2025-07-19,-1500.0
+C173,flipkart,Weekly,2025-07-06,-1122.0
+C173,netflix,Monthly,2025-07-19,-499.0
+C173,petrol pump,Weekly,2025-07-01,-952.25
+C173,swiggy,Weekly,2025-06-29,-1142.21
+C173,uber,Weekly,2025-06-22,-954.71
+C173,zomato,Weekly,2025-07-05,-965.43
+C174,cafe coffee day,Weekly,2025-07-03,-1046.14
+C174,flipkart,Weekly,2025-07-02,-1329.36
+C174,petrol pump,Weekly,2025-06-18,-1096.84
+C174,reliance smart,Weekly,2025-06-18,-1096.29
+C174,spotify,Monthly,2025-07-01,-199.0
+C174,uber,Weekly,2025-06-28,-1084.24
+C175,cafe coffee day,Weekly,2025-06-12,-1018.0
+C175,company,Monthly,2025-07-03,33575.83
+C175,dmart,Weekly,2025-06-25,-1091.56
+C175,flipkart,Weekly,2025-07-05,-1072.31
+C175,netflix,Monthly,2025-07-06,-499.0
+C175,petrol pump,Weekly,2025-06-26,-925.96
+C175,reliance smart,Weekly,2025-07-04,-1082.62
+C175,swiggy,Weekly,2025-06-27,-918.88
+C175,zomato,Weekly,2025-06-09,-1131.14
+C176,dmart,Weekly,2025-07-05,-954.38
+C176,flipkart,Weekly,2025-07-06,-1064.61
+C176,gym membership,Monthly,2025-07-21,-1200.0
+C176,medical store,Weekly,2025-06-23,-1165.45
+C176,petrol pump,Weekly,2025-06-23,-862.06
+C176,reliance smart,Weekly,2025-06-29,-1000.74
+C176,spotify,Monthly,2025-07-16,-199.0
+C176,uber,Weekly,2025-07-04,-1085.16
+C176,zomato,Weekly,2025-06-09,-1283.13
+C177,flipkart,Weekly,2025-06-30,-892.06
+C177,gym membership,Monthly,2025-07-24,-1200.0
+C177,medical store,Weekly,2025-06-27,-1017.5
+C177,netflix,Monthly,2025-07-09,-499.0
+C177,petrol pump,Weekly,2025-06-18,-877.4
+C177,reliance smart,Weekly,2025-06-23,-902.04
+C177,uber,Weekly,2025-06-23,-906.05
+C177,zomato,Weekly,2025-07-05,-1048.53
+C178,amazon prime,Monthly,2025-07-02,-999.0
+C178,cafe coffee day,Weekly,2025-06-16,-912.94
+C178,dmart,Weekly,2025-07-04,-920.36
+C178,electricity bill,Monthly,2025-07-09,-1500.0
+C178,flipkart,Weekly,2025-07-03,-1140.4
+C178,medical store,Weekly,2025-06-07,-752.07
+C178,uber,Weekly,2025-06-28,-954.32
+C178,zomato,Weekly,2025-06-14,-916.43
+C179,cafe coffee day,Weekly,2025-06-30,-1295.17
+C179,dmart,Weekly,2025-06-19,-1027.67
+C179,electricity bill,Monthly,2025-07-03,-1500.0
+C179,gym membership,Monthly,2025-07-13,-1200.0
+C179,medical store,Weekly,2025-06-03,-956.44
+C179,petrol pump,Weekly,2025-06-27,-968.92
+C179,reliance smart,Weekly,2025-06-30,-1144.44
+C179,swiggy,Weekly,2025-07-03,-919.15
+C179,uber,Weekly,2025-06-27,-945.17
+C179,zomato,Weekly,2025-07-05,-1023.48
+C18,dmart,Weekly,2025-07-06,-1047.12
+C18,flipkart,Weekly,2025-07-05,-1142.09
+C18,medical store,Weekly,2025-07-06,-984.25
+C18,petrol pump,Weekly,2025-06-27,-1119.15
+C18,reliance smart,Weekly,2025-06-20,-1272.2
+C18,spotify,Monthly,2025-07-01,-199.0
+C18,swiggy,Weekly,2025-07-01,-1222.45
+C18,zomato,Weekly,2025-07-01,-1320.14
+C180,cafe coffee day,Weekly,2025-07-01,-763.42
+C180,dmart,Weekly,2025-06-24,-1086.88
+C180,flipkart,Weekly,2025-07-06,-991.72
+C180,medical store,Weekly,2025-06-28,-1264.0
+C180,petrol pump,Weekly,2025-07-05,-969.48
+C180,reliance smart,Weekly,2025-06-29,-1139.04
+C180,spotify,Monthly,2025-07-03,-199.0
+C180,uber,Weekly,2025-07-04,-907.1
+C181,amazon prime,Monthly,2025-07-04,-999.0
+C181,flipkart,Weekly,2025-07-01,-1031.55
+C181,medical store,Weekly,2025-06-21,-1044.47
+C181,netflix,Monthly,2025-07-10,-499.0
+C181,petrol pump,Weekly,2025-06-27,-983.58
+C181,reliance smart,Weekly,2025-07-05,-1103.45
+C181,swiggy,Weekly,2025-07-04,-1235.74
+C181,uber,Weekly,2025-07-05,-1051.04
+C182,amazon prime,Monthly,2025-07-14,-999.0
+C182,company,Monthly,2025-07-03,37928.4
+C182,dmart,Weekly,2025-07-03,-984.53
+C182,gym membership,Monthly,2025-07-14,-1200.0
+C182,petrol pump,Weekly,2025-07-05,-960.48
+C182,swiggy,Weekly,2025-07-04,-931.68
+C182,uber,Weekly,2025-06-02,-1125.88
+C182,zomato,Weekly,2025-05-21,-1081.87
+C183,amazon prime,Monthly,2025-07-27,-999.0
+C183,cafe coffee day,Weekly,2025-07-05,-1187.27
+C183,dmart,Weekly,2025-06-27,-1005.32
+C183,electricity bill,Monthly,2025-07-26,-1500.0
+C183,medical store,Weekly,2025-07-06,-963.8
+C183,petrol pump,Weekly,2025-06-27,-1092.14
+C183,swiggy,Weekly,2025-07-03,-1079.84
+C184,company,Monthly,2025-07-04,34648.43
+C184,dmart,Weekly,2025-06-20,-945.56
+C184,medical store,Weekly,2025-07-05,-1169.05
+C184,reliance smart,Weekly,2025-06-26,-1040.54
+C184,spotify,Monthly,2025-07-11,-199.0
+C184,swiggy,Weekly,2025-07-06,-1162.14
+C184,uber,Weekly,2025-07-03,-1260.24
+C184,zomato,Weekly,2025-07-05,-1129.4
+C185,cafe coffee day,Weekly,2025-06-29,-1184.43
+C185,dmart,Weekly,2025-07-05,-914.96
+C185,flipkart,Weekly,2025-06-29,-1018.45
+C185,petrol pump,Weekly,2025-06-20,-1035.83
+C185,reliance smart,Weekly,2025-07-05,-990.11
+C185,spotify,Monthly,2025-07-13,-199.0
+C185,swiggy,Weekly,2025-06-09,-1090.9
+C185,zomato,Weekly,2025-07-04,-1005.06
+C186,electricity bill,Monthly,2025-07-20,-1500.0
+C186,flipkart,Weekly,2025-07-05,-1276.7
+C186,petrol pump,Weekly,2025-06-30,-952.33
+C186,reliance smart,Weekly,2025-06-01,-1081.73
+C186,swiggy,Weekly,2025-06-23,-946.58
+C186,zomato,Weekly,2025-06-28,-1274.28
+C187,cafe coffee day,Weekly,2025-07-02,-1003.58
+C187,dmart,Weekly,2025-07-03,-1140.25
+C187,electricity bill,Monthly,2025-07-26,-1500.0
+C187,flipkart,Weekly,2025-07-03,-1008.24
+C187,gym membership,Monthly,2025-07-19,-1200.0
+C187,medical store,Weekly,2025-07-06,-1031.24
+C187,spotify,Monthly,2025-07-08,-199.0
+C187,swiggy,Weekly,2025-07-06,-1194.7
+C187,uber,Weekly,2025-07-02,-1085.21
+C188,cafe coffee day,Weekly,2025-06-25,-1042.39
+C188,company,Monthly,2025-07-02,32017.0
+C188,dmart,Weekly,2025-06-26,-1011.39
+C188,flipkart,Weekly,2025-06-24,-1107.5
+C188,medical store,Weekly,2025-06-01,-1184.46
+C188,netflix,Monthly,2025-07-03,-499.0
+C188,petrol pump,Weekly,2025-06-21,-1021.59
+C188,reliance smart,Weekly,2025-06-28,-1033.0
+C188,swiggy,Weekly,2025-07-03,-1057.08
+C188,zomato,Weekly,2025-07-06,-869.32
+C189,cafe coffee day,Weekly,2025-07-03,-1044.81
+C189,company,Monthly,2025-06-03,31710.6
+C189,dmart,Weekly,2025-07-04,-1054.16
+C189,flipkart,Weekly,2025-07-05,-918.05
+C189,medical store,Weekly,2025-06-24,-983.41
+C189,petrol pump,Weekly,2025-06-27,-1190.48
+C189,reliance smart,Weekly,2025-07-04,-930.05
+C189,spotify,Monthly,2025-07-01,-199.0
+C19,cafe coffee day,Weekly,2025-07-05,-919.89
+C19,company,Monthly,2025-07-02,37271.8
+C19,flipkart,Weekly,2025-07-06,-1005.26
+C19,medical store,Weekly,2025-07-04,-886.67
+C19,netflix,Monthly,2025-07-26,-499.0
+C19,reliance smart,Weekly,2025-06-22,-1219.75
+C19,spotify,Monthly,2025-07-02,-199.0
+C19,swiggy,Weekly,2025-07-05,-1061.05
+C19,uber,Weekly,2025-06-12,-1318.06
+C19,zomato,Weekly,2025-06-28,-1024.9
+C190,amazon prime,Monthly,2025-07-15,-999.0
+C190,cafe coffee day,Weekly,2025-07-03,-883.67
+C190,dmart,Weekly,2025-07-06,-1058.77
+C190,flipkart,Weekly,2025-06-23,-1298.0
+C190,medical store,Weekly,2025-06-27,-1042.33
+C190,petrol pump,Weekly,2025-07-06,-1077.32
+C190,reliance smart,Weekly,2025-07-01,-1201.48
+C190,uber,Weekly,2025-06-09,-1065.72
+C190,zomato,Weekly,2025-07-03,-1095.61
+C191,amazon prime,Monthly,2025-07-14,-999.0
+C191,cafe coffee day,Weekly,2025-06-22,-1225.76
+C191,dmart,Weekly,2025-06-24,-1185.21
+C191,electricity bill,Monthly,2025-07-21,-1500.0
+C191,medical store,Weekly,2025-06-27,-956.11
+C191,netflix,Monthly,2025-07-06,-499.0
+C191,petrol pump,Weekly,2025-06-13,-1069.5
+C191,reliance smart,Weekly,2025-07-02,-937.57
+C191,uber,Weekly,2025-07-02,-1092.33
+C191,zomato,Weekly,2025-06-28,-1131.28
+C192,cafe coffee day,Weekly,2025-06-27,-1106.16
+C192,flipkart,Weekly,2025-07-04,-921.52
+C192,gym membership,Monthly,2025-07-17,-1200.0
+C192,petrol pump,Weekly,2025-07-04,-1003.73
+C192,reliance smart,Weekly,2025-06-25,-829.63
+C192,spotify,Monthly,2025-07-17,-199.0
+C192,uber,Weekly,2025-06-24,-1153.6
+C192,zomato,Weekly,2025-06-15,-997.61
+C193,cafe coffee day,Weekly,2025-07-05,-867.28
+C193,dmart,Weekly,2025-07-06,-970.33
+C193,electricity bill,Monthly,2025-07-01,-1500.0
+C193,flipkart,Weekly,2025-06-12,-860.42
+C193,netflix,Monthly,2025-07-15,-499.0
+C193,swiggy,Weekly,2025-06-25,-995.16
+C193,uber,Weekly,2025-07-01,-895.29
+C193,zomato,Weekly,2025-06-25,-1178.75
+C194,amazon prime,Monthly,2025-07-16,-999.0
+C194,cafe coffee day,Weekly,2025-06-19,-1002.15
+C194,company,Monthly,2025-07-05,33703.71
+C194,dmart,Weekly,2025-06-22,-853.7
+C194,flipkart,Weekly,2025-06-25,-1194.5
+C194,netflix,Monthly,2025-07-07,-499.0
+C194,petrol pump,Weekly,2025-06-26,-1007.8
+C194,spotify,Monthly,2025-07-11,-199.0
+C194,swiggy,Weekly,2025-06-28,-887.71
+C194,zomato,Weekly,2025-07-04,-1461.19
+C195,electricity bill,Monthly,2025-07-18,-1500.0
+C195,flipkart,Weekly,2025-07-03,-1185.13
+C195,medical store,Weekly,2025-07-06,-986.87
+C195,petrol pump,Weekly,2025-07-03,-1168.22
+C195,swiggy,Weekly,2025-06-23,-1112.67
+C195,uber,Weekly,2025-06-22,-897.11
+C195,zomato,Weekly,2025-06-28,-934.79
+C196,cafe coffee day,Weekly,2025-07-06,-1012.43
+C196,dmart,Weekly,2025-06-29,-897.0
+C196,electricity bill,Monthly,2025-07-26,-1500.0
+C196,flipkart,Weekly,2025-06-22,-978.82
+C196,medical store,Weekly,2025-06-25,-1195.12
+C196,netflix,Monthly,2025-07-16,-499.0
+C196,petrol pump,Weekly,2025-07-03,-1237.25
+C196,swiggy,Weekly,2025-06-28,-974.79
+C196,uber,Weekly,2025-06-16,-1316.23
+C196,zomato,Weekly,2025-07-06,-1093.13
+C197,cafe coffee day,Weekly,2025-06-19,-1193.48
+C197,dmart,Weekly,2025-07-01,-1084.12
+C197,flipkart,Weekly,2025-07-06,-1198.41
+C197,medical store,Weekly,2025-07-04,-1076.45
+C197,netflix,Monthly,2025-07-08,-499.0
+C197,petrol pump,Weekly,2025-06-20,-1247.5
+C197,reliance smart,Weekly,2025-06-30,-889.33
+C197,swiggy,Weekly,2025-06-28,-852.95
+C197,zomato,Weekly,2025-07-06,-1171.52
+C198,netflix,Monthly,2025-07-06,-499.0
+C198,reliance smart,Weekly,2025-06-29,-1160.0
+C198,swiggy,Weekly,2025-06-23,-957.68
+C198,uber,Weekly,2025-07-06,-988.5
+C198,zomato,Weekly,2025-06-28,-1077.05
+C199,amazon prime,Monthly,2025-07-23,-999.0
+C199,cafe coffee day,Weekly,2025-07-02,-994.55
+C199,dmart,Weekly,2025-07-05,-1174.91
+C199,flipkart,Weekly,2025-07-04,-790.06
+C199,gym membership,Monthly,2025-07-23,-1200.0
+C199,medical store,Weekly,2025-07-06,-1191.61
+C199,netflix,Monthly,2025-07-18,-499.0
+C199,petrol pump,Weekly,2025-07-06,-1134.8
+C199,reliance smart,Weekly,2025-06-14,-1072.1
+C199,swiggy,Weekly,2025-06-21,-1068.76
+C2,cafe coffee day,Weekly,2025-07-05,-1124.68
+C2,dmart,Weekly,2025-07-02,-1321.85
+C2,flipkart,Weekly,2025-06-19,-1086.18
+C2,medical store,Weekly,2025-07-02,-1270.39
+C2,netflix,Monthly,2025-07-24,-499.0
+C2,reliance smart,Weekly,2025-06-30,-974.75
+C2,spotify,Monthly,2025-07-13,-199.0
+C2,swiggy,Weekly,2025-06-28,-1089.0
+C20,cafe coffee day,Weekly,2025-06-24,-1051.95
+C20,company,Monthly,2025-07-04,30943.0
+C20,flipkart,Weekly,2025-07-03,-1182.32
+C20,netflix,Monthly,2025-07-11,-499.0
+C20,swiggy,Weekly,2025-07-04,-938.33
+C20,zomato,Weekly,2025-06-29,-1032.0
+C200,amazon prime,Monthly,2025-07-26,-999.0
+C200,cafe coffee day,Weekly,2025-07-05,-1156.27
+C200,dmart,Weekly,2025-07-06,-994.82
+C200,gym membership,Monthly,2025-07-18,-1200.0
+C200,medical store,Weekly,2025-06-11,-931.83
+C200,netflix,Monthly,2025-07-13,-499.0
+C200,petrol pump,Weekly,2025-06-30,-895.24
+C200,zomato,Weekly,2025-06-03,-906.63
+C201,company,Monthly,2025-07-05,34841.71
+C201,dmart,Weekly,2025-07-05,-1092.43
+C201,electricity bill,Monthly,2025-07-01,-1500.0
+C201,gym membership,Monthly,2025-07-06,-1200.0
+C201,medical store,Weekly,2025-06-27,-863.75
+C201,reliance smart,Weekly,2025-06-24,-1031.33
+C201,swiggy,Weekly,2025-07-06,-901.46
+C202,electricity bill,Monthly,2025-07-07,-1500.0
+C202,flipkart,Weekly,2025-06-16,-1032.67
+C202,petrol pump,Weekly,2025-07-06,-982.0
+C202,uber,Weekly,2025-06-30,-810.24
+C202,zomato,Weekly,2025-07-05,-1205.86
+C203,cafe coffee day,Weekly,2025-06-28,-1004.29
+C203,electricity bill,Monthly,2025-07-19,-1500.0
+C203,flipkart,Weekly,2025-07-01,-1116.42
+C203,gym membership,Monthly,2025-07-27,-1200.0
+C203,medical store,Weekly,2025-07-05,-788.32
+C203,reliance smart,Weekly,2025-07-04,-1031.44
+C203,spotify,Monthly,2025-07-04,-199.0
+C203,uber,Weekly,2025-07-02,-919.7
+C203,zomato,Weekly,2025-05-24,-1079.88
+C204,amazon prime,Monthly,2025-07-14,-999.0
+C204,cafe coffee day,Weekly,2025-07-03,-875.57
+C204,dmart,Weekly,2025-06-08,-1180.29
+C204,electricity bill,Monthly,2025-07-26,-1500.0
+C204,flipkart,Weekly,2025-07-03,-1199.29
+C204,gym membership,Monthly,2025-07-24,-1200.0
+C204,medical store,Weekly,2025-07-05,-961.1
+C204,petrol pump,Weekly,2025-06-25,-1209.18
+C204,reliance smart,Weekly,2025-06-23,-1217.0
+C204,uber,Weekly,2025-06-27,-979.95
+C205,company,Monthly,2025-07-02,38960.71
+C205,dmart,Weekly,2025-07-04,-1158.35
+C205,electricity bill,Monthly,2025-07-22,-1500.0
+C205,medical store,Weekly,2025-07-02,-1100.89
+C205,reliance smart,Weekly,2025-06-13,-858.05
+C205,swiggy,Weekly,2025-07-04,-1088.4
+C205,uber,Weekly,2025-06-23,-973.37
+C205,zomato,Weekly,2025-06-26,-1290.67
+C206,amazon prime,Monthly,2025-07-03,-999.0
+C206,dmart,Weekly,2025-07-05,-1123.9
+C206,electricity bill,Monthly,2025-07-26,-1500.0
+C206,flipkart,Weekly,2025-06-26,-950.88
+C206,gym membership,Monthly,2025-07-13,-1200.0
+C206,medical store,Weekly,2025-07-05,-936.5
+C206,petrol pump,Weekly,2025-07-06,-1108.32
+C206,reliance smart,Weekly,2025-07-02,-1152.67
+C206,swiggy,Weekly,2025-06-22,-1037.85
+C206,uber,Weekly,2025-06-18,-1134.53
+C206,zomato,Weekly,2025-06-28,-1061.74
+C207,cafe coffee day,Weekly,2025-05-31,-1192.67
+C207,electricity bill,Monthly,2025-07-11,-1500.0
+C207,flipkart,Weekly,2025-07-05,-1134.5
+C207,medical store,Weekly,2025-07-06,-1115.35
+C207,netflix,Monthly,2025-07-17,-499.0
+C207,petrol pump,Weekly,2025-06-30,-813.22
+C207,reliance smart,Weekly,2025-07-01,-997.0
+C207,swiggy,Weekly,2025-07-04,-1091.43
+C207,uber,Weekly,2025-06-29,-1144.74
+C208,amazon prime,Monthly,2025-07-24,-999.0
+C208,electricity bill,Monthly,2025-07-25,-1500.0
+C208,flipkart,Weekly,2025-06-30,-1014.05
+C208,gym membership,Monthly,2025-07-16,-1200.0
+C208,medical store,Weekly,2025-07-04,-1136.48
+C208,swiggy,Weekly,2025-06-28,-1039.65
+C208,uber,Weekly,2025-07-04,-962.7
+C208,zomato,Weekly,2025-06-27,-818.5
+C209,amazon prime,Monthly,2025-07-03,-999.0
+C209,dmart,Weekly,2025-07-02,-1090.42
+C209,flipkart,Weekly,2025-06-28,-769.94
+C209,reliance smart,Weekly,2025-07-06,-1227.76
+C209,swiggy,Weekly,2025-06-25,-1300.59
+C209,uber,Weekly,2025-06-12,-1009.05
+C209,zomato,Weekly,2025-06-23,-809.41
+C21,amazon prime,Monthly,2025-07-04,-999.0
+C21,cafe coffee day,Weekly,2025-07-02,-908.65
+C21,dmart,Weekly,2025-07-06,-1042.15
+C21,gym membership,Monthly,2025-07-02,-1200.0
+C21,medical store,Weekly,2025-07-02,-1315.29
+C21,netflix,Monthly,2025-07-28,-499.0
+C21,petrol pump,Weekly,2025-07-03,-1131.7
+C21,uber,Weekly,2025-07-03,-1100.7
+C21,zomato,Weekly,2025-06-30,-1073.6
+C210,cafe coffee day,Weekly,2025-06-19,-836.41
+C210,dmart,Weekly,2025-06-30,-1092.24
+C210,gym membership,Monthly,2025-07-11,-1200.0
+C210,petrol pump,Weekly,2025-06-15,-1038.6
+C210,uber,Weekly,2025-07-03,-1127.72
+C210,zomato,Weekly,2025-06-26,-1299.67
+C211,amazon prime,Monthly,2025-07-26,-999.0
+C211,flipkart,Weekly,2025-06-29,-1229.11
+C211,medical store,Weekly,2025-07-02,-881.57
+C211,netflix,Monthly,2025-07-09,-499.0
+C211,reliance smart,Weekly,2025-06-26,-968.58
+C211,uber,Weekly,2025-06-18,-988.41
+C212,amazon prime,Monthly,2025-07-05,-999.0
+C212,dmart,Weekly,2025-07-05,-1005.12
+C212,medical store,Weekly,2025-06-27,-1101.89
+C212,netflix,Monthly,2025-07-28,-499.0
+C212,petrol pump,Weekly,2025-05-25,-818.27
+C212,swiggy,Weekly,2025-06-27,-1067.21
+C212,uber,Weekly,2025-07-04,-1079.6
+C213,amazon prime,Monthly,2025-07-22,-999.0
+C213,dmart,Weekly,2025-06-28,-970.44
+C213,flipkart,Weekly,2025-07-04,-1140.88
+C213,gym membership,Monthly,2025-07-24,-1200.0
+C213,petrol pump,Weekly,2025-07-04,-1234.05
+C213,reliance smart,Weekly,2025-06-17,-1028.22
+C213,swiggy,Weekly,2025-06-17,-959.43
+C213,uber,Weekly,2025-07-06,-991.05
+C213,zomato,Weekly,2025-07-02,-1002.74
+C214,cafe coffee day,Weekly,2025-06-13,-1069.94
+C214,company,Monthly,2025-07-02,30351.0
+C214,electricity bill,Monthly,2025-07-04,-1500.0
+C214,flipkart,Weekly,2025-06-25,-1047.38
+C214,medical store,Weekly,2025-06-16,-1223.41
+C214,petrol pump,Weekly,2025-07-05,-1105.19
+C214,swiggy,Weekly,2025-07-02,-883.93
+C214,zomato,Weekly,2025-06-23,-1035.79
+C215,amazon prime,Monthly,2025-07-25,-999.0
+C215,dmart,Weekly,2025-07-01,-1254.4
+C215,flipkart,Weekly,2025-07-06,-1131.1
+C215,medical store,Weekly,2025-06-12,-853.59
+C215,netflix,Monthly,2025-07-03,-499.0
+C215,reliance smart,Weekly,2025-06-21,-1272.0
+C215,swiggy,Weekly,2025-06-28,-1221.56
+C216,dmart,Weekly,2025-07-03,-942.32
+C216,electricity bill,Monthly,2025-07-28,-1500.0
+C216,flipkart,Weekly,2025-06-29,-1130.48
+C216,gym membership,Monthly,2025-07-27,-1200.0
+C216,reliance smart,Weekly,2025-07-05,-977.27
+C216,spotify,Monthly,2025-07-25,-199.0
+C216,swiggy,Weekly,2025-07-04,-896.08
+C216,uber,Weekly,2025-06-18,-997.38
+C217,electricity bill,Monthly,2025-07-14,-1500.0
+C217,flipkart,Weekly,2025-07-01,-1222.47
+C217,gym membership,Monthly,2025-07-05,-1200.0
+C217,medical store,Weekly,2025-07-03,-1064.9
+C217,petrol pump,Weekly,2025-06-07,-1063.04
+C217,spotify,Monthly,2025-07-15,-199.0
+C217,swiggy,Weekly,2025-06-20,-1161.65
+C217,zomato,Weekly,2025-06-25,-844.8
+C218,cafe coffee day,Weekly,2025-06-28,-965.92
+C218,company,Monthly,2025-07-05,31588.5
+C218,electricity bill,Monthly,2025-07-03,-1500.0
+C218,flipkart,Weekly,2025-06-17,-1087.0
+C218,gym membership,Monthly,2025-07-25,-1200.0
+C218,medical store,Weekly,2025-06-06,-849.06
+C218,reliance smart,Weekly,2025-07-06,-989.79
+C218,spotify,Monthly,2025-07-11,-199.0
+C218,uber,Weekly,2025-06-14,-1183.2
+C219,dmart,Weekly,2025-07-03,-1136.6
+C219,flipkart,Weekly,2025-06-25,-1232.23
+C219,gym membership,Monthly,2025-07-15,-1200.0
+C219,medical store,Weekly,2025-07-06,-980.38
+C219,netflix,Monthly,2025-07-10,-499.0
+C219,petrol pump,Weekly,2025-06-28,-819.53
+C219,reliance smart,Weekly,2025-07-02,-1160.81
+C219,swiggy,Weekly,2025-07-05,-898.37
+C219,zomato,Weekly,2025-07-06,-1222.32
+C22,dmart,Weekly,2025-06-30,-1057.41
+C22,flipkart,Weekly,2025-06-20,-812.1
+C22,gym membership,Monthly,2025-07-26,-1200.0
+C22,netflix,Monthly,2025-07-05,-499.0
+C22,reliance smart,Weekly,2025-07-04,-769.11
+C22,spotify,Monthly,2025-07-03,-199.0
+C220,cafe coffee day,Weekly,2025-07-01,-1310.12
+C220,company,Monthly,2025-07-05,38806.71
+C220,flipkart,Weekly,2025-06-27,-1021.96
+C220,medical store,Weekly,2025-06-18,-1013.88
+C220,netflix,Monthly,2025-07-25,-499.0
+C220,petrol pump,Weekly,2025-07-06,-1123.17
+C220,reliance smart,Weekly,2025-07-04,-833.82
+C220,spotify,Monthly,2025-07-08,-199.0
+C220,swiggy,Weekly,2025-06-18,-1024.04
+C220,uber,Weekly,2025-07-05,-999.45
+C221,cafe coffee day,Weekly,2025-07-06,-992.68
+C221,dmart,Weekly,2025-07-03,-992.13
+C221,electricity bill,Monthly,2025-07-01,-1500.0
+C221,netflix,Monthly,2025-07-28,-499.0
+C221,reliance smart,Weekly,2025-07-03,-1060.83
+C221,swiggy,Weekly,2025-07-02,-1243.0
+C221,uber,Weekly,2025-07-05,-1062.55
+C221,zomato,Weekly,2025-06-14,-892.56
+C222,amazon prime,Monthly,2025-07-08,-999.0
+C222,cafe coffee day,Weekly,2025-07-04,-887.56
+C222,company,Monthly,2025-07-03,36880.0
+C222,dmart,Weekly,2025-06-20,-1125.61
+C222,flipkart,Weekly,2025-07-04,-1234.79
+C222,medical store,Weekly,2025-07-06,-1051.89
+C222,netflix,Monthly,2025-07-04,-499.0
+C222,petrol pump,Weekly,2025-07-03,-1176.52
+C222,uber,Weekly,2025-07-05,-1092.82
+C223,cafe coffee day,Weekly,2025-06-28,-1155.38
+C223,company,Monthly,2025-07-05,36870.33
+C223,electricity bill,Monthly,2025-07-08,-1500.0
+C223,flipkart,Weekly,2025-06-19,-1249.85
+C223,gym membership,Monthly,2025-07-16,-1200.0
+C223,petrol pump,Weekly,2025-07-04,-868.58
+C223,reliance smart,Weekly,2025-07-02,-1057.57
+C223,spotify,Monthly,2025-07-14,-199.0
+C223,swiggy,Weekly,2025-06-29,-1109.79
+C223,uber,Weekly,2025-06-25,-959.42
+C223,zomato,Weekly,2025-06-30,-512.33
+C224,dmart,Weekly,2025-06-26,-1100.96
+C224,electricity bill,Monthly,2025-07-20,-1500.0
+C224,medical store,Weekly,2025-06-20,-1177.25
+C224,petrol pump,Weekly,2025-07-05,-879.16
+C224,reliance smart,Weekly,2025-06-30,-1191.76
+C224,uber,Weekly,2025-07-04,-1132.43
+C224,zomato,Weekly,2025-06-22,-719.83
+C225,dmart,Weekly,2025-07-06,-1128.62
+C225,flipkart,Weekly,2025-07-02,-1002.46
+C225,medical store,Weekly,2025-07-03,-1090.63
+C225,reliance smart,Weekly,2025-07-01,-1120.88
+C225,spotify,Monthly,2025-07-13,-199.0
+C225,uber,Weekly,2025-07-03,-884.7
+C225,zomato,Weekly,2025-06-09,-1064.33
+C226,cafe coffee day,Weekly,2025-07-05,-998.73
+C226,company,Monthly,2025-07-03,41626.57
+C226,dmart,Weekly,2025-07-06,-989.91
+C226,electricity bill,Monthly,2025-07-17,-1500.0
+C226,flipkart,Weekly,2025-06-28,-1049.08
+C226,medical store,Weekly,2025-07-03,-1136.24
+C226,petrol pump,Weekly,2025-06-26,-1120.0
+C226,reliance smart,Weekly,2025-06-17,-1161.68
+C226,uber,Weekly,2025-07-03,-1115.68
+C226,zomato,Weekly,2025-07-04,-885.55
+C227,electricity bill,Monthly,2025-07-08,-1500.0
+C227,netflix,Monthly,2025-07-05,-499.0
+C227,swiggy,Weekly,2025-07-05,-1173.28
+C227,uber,Weekly,2025-06-12,-1149.35
+C227,zomato,Weekly,2025-06-23,-954.6
+C228,cafe coffee day,Weekly,2025-06-28,-1037.11
+C228,medical store,Weekly,2025-07-05,-1198.05
+C228,netflix,Monthly,2025-07-20,-499.0
+C228,petrol pump,Weekly,2025-07-01,-828.89
+C228,reliance smart,Weekly,2025-06-13,-748.53
+C228,spotify,Monthly,2025-07-16,-199.0
+C228,swiggy,Weekly,2025-07-03,-1099.23
+C228,uber,Weekly,2025-06-20,-965.77
+C228,zomato,Weekly,2025-06-06,-1022.81
+C229,amazon prime,Monthly,2025-07-14,-999.0
+C229,company,Monthly,2025-07-04,36266.25
+C229,dmart,Weekly,2025-07-06,-904.2
+C229,flipkart,Weekly,2025-06-30,-1094.39
+C229,gym membership,Monthly,2025-07-15,-1200.0
+C229,medical store,Weekly,2025-07-01,-1036.7
+C229,spotify,Monthly,2025-07-03,-199.0
+C229,swiggy,Weekly,2025-07-06,-869.48
+C23,cafe coffee day,Weekly,2025-07-01,-995.95
+C23,electricity bill,Monthly,2025-07-01,-1500.0
+C23,netflix,Monthly,2025-07-01,-499.0
+C23,petrol pump,Weekly,2025-07-03,-1111.9
+C23,reliance smart,Weekly,2025-07-05,-1326.82
+C23,swiggy,Weekly,2025-06-10,-1040.25
+C23,uber,Weekly,2025-07-04,-1257.06
+C230,cafe coffee day,Weekly,2025-06-20,-1097.68
+C230,dmart,Weekly,2025-07-04,-1137.12
+C230,flipkart,Weekly,2025-07-04,-1021.68
+C230,gym membership,Monthly,2025-07-13,-1200.0
+C230,medical store,Weekly,2025-07-06,-1222.5
+C230,netflix,Monthly,2025-07-17,-499.0
+C230,petrol pump,Weekly,2025-07-06,-1023.74
+C230,reliance smart,Weekly,2025-06-27,-1152.43
+C230,swiggy,Weekly,2025-06-27,-1087.76
+C231,cafe coffee day,Weekly,2025-06-29,-937.65
+C231,electricity bill,Monthly,2025-07-04,-1500.0
+C231,gym membership,Monthly,2025-07-25,-1200.0
+C231,medical store,Weekly,2025-07-01,-1035.95
+C231,netflix,Monthly,2025-07-28,-499.0
+C231,petrol pump,Weekly,2025-06-29,-1116.19
+C231,swiggy,Weekly,2025-07-06,-1085.68
+C231,uber,Weekly,2025-06-27,-901.59
+C231,zomato,Weekly,2025-07-03,-1152.1
+C232,amazon prime,Monthly,2025-07-10,-999.0
+C232,cafe coffee day,Weekly,2025-07-05,-1148.59
+C232,dmart,Weekly,2025-07-04,-1035.95
+C232,flipkart,Weekly,2025-07-06,-1162.39
+C232,medical store,Weekly,2025-06-27,-1143.17
+C232,petrol pump,Weekly,2025-05-26,-987.68
+C232,swiggy,Weekly,2025-06-30,-942.4
+C232,uber,Weekly,2025-06-27,-1075.57
+C233,cafe coffee day,Weekly,2025-07-06,-1091.6
+C233,dmart,Weekly,2025-07-02,-1073.84
+C233,electricity bill,Monthly,2025-07-26,-1500.0
+C233,petrol pump,Weekly,2025-06-15,-1176.05
+C233,swiggy,Weekly,2025-06-27,-1110.55
+C233,uber,Weekly,2025-06-29,-1175.24
+C234,cafe coffee day,Weekly,2025-07-02,-1086.05
+C234,company,Monthly,2025-07-05,32375.43
+C234,flipkart,Weekly,2025-07-06,-922.88
+C234,gym membership,Monthly,2025-07-09,-1200.0
+C234,medical store,Weekly,2025-06-23,-1304.64
+C234,petrol pump,Weekly,2025-07-03,-839.06
+C234,reliance smart,Weekly,2025-06-16,-922.85
+C234,spotify,Monthly,2025-07-21,-199.0
+C234,swiggy,Weekly,2025-06-09,-982.67
+C234,zomato,Weekly,2025-05-27,-1045.43
+C235,cafe coffee day,Weekly,2025-06-09,-850.0
+C235,company,Monthly,2025-07-01,34583.0
+C235,dmart,Weekly,2025-07-05,-902.38
+C235,electricity bill,Monthly,2025-07-24,-1500.0
+C235,flipkart,Weekly,2025-06-27,-1013.05
+C235,netflix,Monthly,2025-07-04,-499.0
+C235,petrol pump,Weekly,2025-06-05,-923.13
+C235,reliance smart,Weekly,2025-07-06,-1000.55
+C235,spotify,Monthly,2025-07-13,-199.0
+C235,swiggy,Weekly,2025-07-03,-1159.15
+C235,zomato,Weekly,2025-06-29,-1023.25
+C236,cafe coffee day,Weekly,2025-06-17,-1206.41
+C236,dmart,Weekly,2025-06-30,-1046.65
+C236,electricity bill,Monthly,2025-07-25,-1500.0
+C236,flipkart,Weekly,2025-07-06,-1062.59
+C236,gym membership,Monthly,2025-07-12,-1200.0
+C236,medical store,Weekly,2025-07-03,-1254.43
+C236,petrol pump,Weekly,2025-07-06,-1186.71
+C236,reliance smart,Weekly,2025-06-30,-1137.88
+C236,spotify,Monthly,2025-07-20,-199.0
+C236,uber,Weekly,2025-07-01,-1104.42
+C237,amazon prime,Monthly,2025-07-25,-999.0
+C237,cafe coffee day,Weekly,2025-06-20,-1124.05
+C237,netflix,Monthly,2025-07-04,-499.0
+C237,petrol pump,Weekly,2025-07-02,-1055.2
+C237,reliance smart,Weekly,2025-06-03,-774.53
+C237,swiggy,Weekly,2025-06-29,-1156.78
+C237,uber,Weekly,2025-06-25,-1101.32
+C237,zomato,Weekly,2025-06-28,-1298.56
+C238,cafe coffee day,Weekly,2025-06-23,-1079.0
+C238,flipkart,Weekly,2025-06-27,-820.11
+C238,medical store,Weekly,2025-06-05,-1100.91
+C238,spotify,Monthly,2025-07-17,-199.0
+C238,swiggy,Weekly,2025-07-06,-1130.06
+C238,uber,Weekly,2025-06-25,-1070.6
+C238,zomato,Weekly,2025-07-01,-1239.26
+C239,cafe coffee day,Weekly,2025-07-05,-1072.88
+C239,dmart,Weekly,2025-06-19,-1003.46
+C239,electricity bill,Monthly,2025-07-25,-1500.0
+C239,flipkart,Weekly,2025-06-08,-1154.67
+C239,gym membership,Monthly,2025-07-04,-1200.0
+C239,medical store,Weekly,2025-06-23,-868.6
+C239,petrol pump,Weekly,2025-07-04,-997.14
+C239,swiggy,Weekly,2025-06-29,-828.05
+C239,uber,Weekly,2025-06-30,-1152.71
+C239,zomato,Weekly,2025-07-06,-1146.52
+C24,cafe coffee day,Weekly,2025-07-03,-1134.4
+C24,dmart,Weekly,2025-06-28,-1018.81
+C24,electricity bill,Monthly,2025-07-07,-1500.0
+C24,flipkart,Weekly,2025-06-29,-1038.45
+C24,medical store,Weekly,2025-07-03,-1098.17
+C24,netflix,Monthly,2025-07-05,-499.0
+C24,petrol pump,Weekly,2025-06-27,-1124.04
+C24,reliance smart,Weekly,2025-07-06,-1231.6
+C24,spotify,Monthly,2025-07-16,-199.0
+C24,swiggy,Weekly,2025-06-29,-946.89
+C24,zomato,Weekly,2025-07-06,-961.15
+C240,amazon prime,Monthly,2025-07-21,-999.0
+C240,cafe coffee day,Weekly,2025-07-01,-1172.8
+C240,dmart,Weekly,2025-06-29,-915.6
+C240,gym membership,Monthly,2025-07-05,-1200.0
+C240,medical store,Weekly,2025-07-04,-1036.95
+C240,petrol pump,Weekly,2025-06-11,-1109.78
+C240,spotify,Monthly,2025-07-16,-199.0
+C240,swiggy,Weekly,2025-06-28,-1011.15
+C240,zomato,Weekly,2025-06-30,-1013.85
+C241,amazon prime,Monthly,2025-07-02,-999.0
+C241,cafe coffee day,Weekly,2025-07-03,-1199.27
+C241,dmart,Weekly,2025-06-05,-992.86
+C241,flipkart,Weekly,2025-06-30,-1252.92
+C241,reliance smart,Weekly,2025-07-03,-1143.91
+C241,uber,Weekly,2025-06-27,-1213.86
+C241,zomato,Weekly,2025-06-15,-966.62
+C242,cafe coffee day,Weekly,2025-06-18,-968.81
+C242,company,Monthly,2025-07-02,30993.86
+C242,electricity bill,Monthly,2025-07-13,-1500.0
+C242,flipkart,Weekly,2025-07-04,-913.0
+C242,medical store,Weekly,2025-07-03,-1114.11
+C242,petrol pump,Weekly,2025-07-01,-989.72
+C243,amazon prime,Monthly,2025-07-02,-999.0
+C243,cafe coffee day,Weekly,2025-07-01,-1033.7
+C243,dmart,Weekly,2025-06-29,-1021.3
+C243,petrol pump,Weekly,2025-06-24,-1390.43
+C243,spotify,Monthly,2025-07-13,-199.0
+C243,swiggy,Weekly,2025-07-03,-1157.17
+C243,zomato,Weekly,2025-07-04,-1161.0
+C244,amazon prime,Monthly,2025-07-16,-999.0
+C244,dmart,Weekly,2025-07-04,-1121.43
+C244,electricity bill,Monthly,2025-07-21,-1500.0
+C244,gym membership,Monthly,2025-07-15,-1200.0
+C244,swiggy,Weekly,2025-07-05,-996.83
+C244,uber,Weekly,2025-07-01,-1091.75
+C244,zomato,Weekly,2025-07-03,-1138.0
+C245,dmart,Weekly,2025-07-02,-1102.52
+C245,electricity bill,Monthly,2025-07-16,-1500.0
+C245,medical store,Weekly,2025-07-05,-1029.8
+C245,petrol pump,Weekly,2025-06-03,-890.53
+C245,reliance smart,Weekly,2025-07-01,-1075.26
+C245,swiggy,Weekly,2025-06-30,-997.46
+C245,uber,Weekly,2025-07-02,-1118.95
+C245,zomato,Weekly,2025-07-03,-955.14
+C246,amazon prime,Monthly,2025-07-07,-999.0
+C246,cafe coffee day,Weekly,2025-07-03,-948.0
+C246,dmart,Weekly,2025-06-17,-1201.7
+C246,flipkart,Weekly,2025-07-05,-1029.29
+C246,gym membership,Monthly,2025-07-16,-1200.0
+C246,reliance smart,Weekly,2025-07-06,-1044.65
+C246,spotify,Monthly,2025-07-21,-199.0
+C246,swiggy,Weekly,2025-06-29,-1108.84
+C246,uber,Weekly,2025-06-28,-880.89
+C247,amazon prime,Monthly,2025-07-06,-999.0
+C247,company,Monthly,2025-07-03,35217.14
+C247,electricity bill,Monthly,2025-07-21,-1500.0
+C247,flipkart,Weekly,2025-06-25,-1083.5
+C247,medical store,Weekly,2025-07-02,-875.09
+C247,reliance smart,Weekly,2025-07-03,-877.29
+C247,swiggy,Weekly,2025-06-26,-1112.42
+C247,uber,Weekly,2025-06-28,-1013.73
+C248,company,Monthly,2025-05-04,34979.0
+C248,flipkart,Weekly,2025-06-19,-1153.47
+C248,medical store,Weekly,2025-07-05,-1060.58
+C248,spotify,Monthly,2025-07-18,-199.0
+C248,swiggy,Weekly,2025-07-02,-938.38
+C248,zomato,Weekly,2025-07-03,-1155.55
+C249,cafe coffee day,Weekly,2025-07-06,-1193.76
+C249,dmart,Weekly,2025-06-22,-1078.8
+C249,electricity bill,Monthly,2025-07-20,-1500.0
+C249,flipkart,Weekly,2025-07-03,-1087.92
+C249,gym membership,Monthly,2025-07-05,-1200.0
+C249,medical store,Weekly,2025-07-06,-1142.29
+C249,netflix,Monthly,2025-07-21,-499.0
+C249,petrol pump,Weekly,2025-06-21,-1082.59
+C249,reliance smart,Weekly,2025-07-01,-1101.91
+C249,swiggy,Weekly,2025-06-28,-1122.5
+C249,uber,Weekly,2025-06-22,-1074.53
+C25,electricity bill,Monthly,2025-07-28,-1500.0
+C25,flipkart,Weekly,2025-06-24,-1310.55
+C25,medical store,Weekly,2025-07-04,-905.65
+C25,spotify,Monthly,2025-07-17,-199.0
+C25,swiggy,Weekly,2025-06-26,-1156.59
+C25,uber,Weekly,2025-06-30,-1039.88
+C25,zomato,Weekly,2025-06-27,-1096.44
+C250,cafe coffee day,Weekly,2025-07-05,-1035.0
+C250,flipkart,Weekly,2025-06-12,-1080.53
+C250,medical store,Weekly,2025-06-26,-1132.0
+C250,petrol pump,Weekly,2025-07-06,-1081.0
+C250,reliance smart,Weekly,2025-05-11,-939.6
+C250,spotify,Monthly,2025-07-05,-199.0
+C250,swiggy,Weekly,2025-07-05,-990.33
+C250,uber,Weekly,2025-06-01,-1013.68
+C250,zomato,Weekly,2025-07-04,-1119.12
+C251,amazon prime,Monthly,2025-07-23,-999.0
+C251,dmart,Weekly,2025-06-29,-1018.82
+C251,medical store,Weekly,2025-06-21,-1084.15
+C251,petrol pump,Weekly,2025-06-14,-1145.0
+C251,reliance smart,Weekly,2025-07-06,-1024.1
+C251,spotify,Monthly,2025-07-02,-199.0
+C251,uber,Weekly,2025-07-03,-1168.62
+C252,amazon prime,Monthly,2025-07-22,-999.0
+C252,cafe coffee day,Weekly,2025-06-25,-1247.33
+C252,dmart,Weekly,2025-06-22,-1047.33
+C252,gym membership,Monthly,2025-07-17,-1200.0
+C252,medical store,Weekly,2025-07-05,-860.65
+C252,petrol pump,Weekly,2025-06-29,-1252.55
+C252,reliance smart,Weekly,2025-07-05,-983.32
+C252,spotify,Monthly,2025-07-28,-199.0
+C252,swiggy,Weekly,2025-06-23,-1241.94
+C252,uber,Weekly,2025-06-19,-1035.94
+C253,amazon prime,Monthly,2025-07-01,-999.0
+C253,cafe coffee day,Weekly,2025-06-21,-1026.56
+C253,electricity bill,Monthly,2025-07-05,-1500.0
+C253,flipkart,Weekly,2025-06-20,-909.04
+C253,medical store,Weekly,2025-07-05,-1016.39
+C253,netflix,Monthly,2025-07-28,-499.0
+C253,reliance smart,Weekly,2025-06-28,-1299.55
+C253,swiggy,Weekly,2025-06-18,-1211.09
+C253,uber,Weekly,2025-06-17,-920.48
+C253,zomato,Weekly,2025-07-05,-1118.41
+C254,amazon prime,Monthly,2025-07-26,-999.0
+C254,electricity bill,Monthly,2025-07-12,-1500.0
+C254,medical store,Weekly,2025-06-27,-1069.11
+C254,netflix,Monthly,2025-07-11,-499.0
+C254,petrol pump,Weekly,2025-06-23,-994.95
+C254,reliance smart,Weekly,2025-07-02,-771.5
+C254,swiggy,Weekly,2025-06-30,-1107.86
+C254,uber,Weekly,2025-07-06,-1047.86
+C255,amazon prime,Monthly,2025-07-21,-999.0
+C255,electricity bill,Monthly,2025-07-01,-1500.0
+C255,flipkart,Weekly,2025-07-05,-980.96
+C255,gym membership,Monthly,2025-07-12,-1200.0
+C255,medical store,Weekly,2025-06-30,-1223.21
+C255,reliance smart,Weekly,2025-06-25,-932.96
+C255,swiggy,Weekly,2025-07-01,-1003.56
+C256,amazon prime,Monthly,2025-07-25,-999.0
+C256,cafe coffee day,Weekly,2025-06-23,-1061.9
+C256,company,Monthly,2025-06-03,32483.0
+C256,electricity bill,Monthly,2025-07-26,-1500.0
+C256,gym membership,Monthly,2025-07-15,-1200.0
+C256,medical store,Weekly,2025-07-04,-1105.26
+C256,petrol pump,Weekly,2025-06-29,-1101.4
+C256,reliance smart,Weekly,2025-06-09,-1089.73
+C256,swiggy,Weekly,2025-07-06,-1302.48
+C257,amazon prime,Monthly,2025-07-26,-999.0
+C257,dmart,Weekly,2025-06-24,-948.89
+C257,gym membership,Monthly,2025-07-07,-1200.0
+C257,medical store,Weekly,2025-06-21,-988.53
+C257,netflix,Monthly,2025-07-11,-499.0
+C257,petrol pump,Weekly,2025-06-08,-977.0
+C257,reliance smart,Weekly,2025-06-28,-980.22
+C257,swiggy,Weekly,2025-06-10,-1060.92
+C257,uber,Weekly,2025-06-17,-1002.32
+C258,cafe coffee day,Weekly,2025-06-29,-874.3
+C258,company,Monthly,2025-07-01,33076.8
+C258,dmart,Weekly,2025-07-05,-1213.84
+C258,medical store,Weekly,2025-06-28,-983.12
+C258,netflix,Monthly,2025-07-11,-499.0
+C258,reliance smart,Weekly,2025-06-30,-1065.64
+C258,spotify,Monthly,2025-07-03,-199.0
+C259,amazon prime,Monthly,2025-07-15,-999.0
+C259,cafe coffee day,Weekly,2025-06-19,-1069.41
+C259,electricity bill,Monthly,2025-07-16,-1500.0
+C259,flipkart,Weekly,2025-07-06,-913.25
+C259,netflix,Monthly,2025-07-20,-499.0
+C259,petrol pump,Weekly,2025-06-26,-922.72
+C259,reliance smart,Weekly,2025-06-23,-962.06
+C259,swiggy,Weekly,2025-07-05,-814.6
+C259,uber,Weekly,2025-07-04,-1187.81
+C259,zomato,Weekly,2025-06-18,-1051.88
+C26,cafe coffee day,Weekly,2025-06-12,-1147.74
+C26,company,Monthly,2025-07-01,37685.5
+C26,dmart,Weekly,2025-06-30,-921.86
+C26,flipkart,Weekly,2025-06-29,-1198.0
+C26,gym membership,Monthly,2025-07-03,-1200.0
+C26,medical store,Weekly,2025-07-02,-1159.0
+C26,swiggy,Weekly,2025-07-05,-1118.88
+C26,uber,Weekly,2025-07-01,-1133.58
+C26,zomato,Weekly,2025-06-29,-981.0
+C260,amazon prime,Monthly,2025-07-14,-999.0
+C260,cafe coffee day,Weekly,2025-07-06,-1100.05
+C260,company,Monthly,2025-07-01,33773.83
+C260,dmart,Weekly,2025-06-28,-1147.61
+C260,medical store,Weekly,2025-06-13,-1080.36
+C260,reliance smart,Weekly,2025-06-28,-989.39
+C260,uber,Weekly,2025-06-30,-799.45
+C261,cafe coffee day,Weekly,2025-07-03,-955.75
+C261,company,Monthly,2025-06-01,41450.0
+C261,dmart,Weekly,2025-06-10,-955.19
+C261,electricity bill,Monthly,2025-07-11,-1500.0
+C261,gym membership,Monthly,2025-07-04,-1200.0
+C261,petrol pump,Weekly,2025-06-29,-1367.94
+C261,zomato,Weekly,2025-07-03,-1120.82
+C262,amazon prime,Monthly,2025-07-19,-999.0
+C262,cafe coffee day,Weekly,2025-06-23,-988.45
+C262,dmart,Weekly,2025-06-23,-1002.39
+C262,gym membership,Monthly,2025-07-13,-1200.0
+C262,medical store,Weekly,2025-06-20,-1259.32
+C262,reliance smart,Weekly,2025-06-29,-794.48
+C262,spotify,Monthly,2025-07-05,-199.0
+C262,swiggy,Weekly,2025-07-04,-1064.45
+C262,uber,Weekly,2025-07-01,-938.86
+C262,zomato,Weekly,2025-06-26,-1031.68
+C263,cafe coffee day,Weekly,2025-06-30,-912.35
+C263,company,Monthly,2025-07-01,33825.25
+C263,dmart,Weekly,2025-06-20,-1032.77
+C263,medical store,Weekly,2025-07-01,-1069.1
+C263,petrol pump,Weekly,2025-07-03,-1143.19
+C263,spotify,Monthly,2025-07-13,-199.0
+C263,swiggy,Weekly,2025-07-05,-1178.71
+C263,zomato,Weekly,2025-06-25,-1098.31
+C264,cafe coffee day,Weekly,2025-07-01,-1298.26
+C264,dmart,Weekly,2025-06-30,-1118.2
+C264,flipkart,Weekly,2025-07-05,-1044.56
+C264,medical store,Weekly,2025-06-29,-782.19
+C264,netflix,Monthly,2025-07-05,-499.0
+C264,petrol pump,Weekly,2025-07-03,-1168.1
+C264,reliance smart,Weekly,2025-07-01,-1052.0
+C264,swiggy,Weekly,2025-07-05,-973.42
+C265,amazon prime,Monthly,2025-07-06,-999.0
+C265,cafe coffee day,Weekly,2025-06-24,-1165.5
+C265,dmart,Weekly,2025-07-04,-1040.08
+C265,flipkart,Weekly,2025-07-06,-1361.76
+C265,medical store,Weekly,2025-07-02,-1037.0
+C265,netflix,Monthly,2025-07-02,-499.0
+C265,spotify,Monthly,2025-07-10,-199.0
+C265,uber,Weekly,2025-06-25,-1212.5
+C265,zomato,Weekly,2025-05-24,-1092.95
+C266,amazon prime,Monthly,2025-07-05,-999.0
+C266,cafe coffee day,Weekly,2025-06-08,-1210.94
+C266,flipkart,Weekly,2025-07-06,-1012.09
+C266,medical store,Weekly,2025-07-02,-1064.83
+C266,netflix,Monthly,2025-07-23,-499.0
+C266,petrol pump,Weekly,2025-07-04,-1154.75
+C266,reliance smart,Weekly,2025-06-20,-1018.91
+C266,spotify,Monthly,2025-07-27,-199.0
+C266,swiggy,Weekly,2025-07-06,-1140.19
+C266,uber,Weekly,2025-07-03,-912.5
+C266,zomato,Weekly,2025-06-30,-1004.1
+C267,dmart,Weekly,2025-06-20,-1127.06
+C267,electricity bill,Monthly,2025-07-18,-1500.0
+C267,flipkart,Weekly,2025-07-06,-991.58
+C267,medical store,Weekly,2025-06-25,-1021.26
+C267,petrol pump,Weekly,2025-06-21,-1153.84
+C267,reliance smart,Weekly,2025-06-23,-1050.22
+C267,swiggy,Weekly,2025-05-26,-1148.35
+C268,dmart,Weekly,2025-06-20,-1093.35
+C268,gym membership,Monthly,2025-07-26,-1200.0
+C268,medical store,Weekly,2025-06-20,-1168.12
+C268,netflix,Monthly,2025-07-04,-499.0
+C268,petrol pump,Weekly,2025-07-06,-870.3
+C268,reliance smart,Weekly,2025-06-11,-1093.94
+C268,spotify,Monthly,2025-07-27,-199.0
+C268,swiggy,Weekly,2025-06-29,-1061.59
+C268,uber,Weekly,2025-06-24,-1089.4
+C268,zomato,Weekly,2025-07-04,-1229.45
+C269,amazon prime,Monthly,2025-07-03,-999.0
+C269,company,Monthly,2025-07-05,32248.0
+C269,flipkart,Weekly,2025-07-03,-1139.96
+C269,gym membership,Monthly,2025-07-16,-1200.0
+C269,medical store,Weekly,2025-06-30,-991.21
+C269,uber,Weekly,2025-06-27,-1002.07
+C269,zomato,Weekly,2025-07-02,-1056.39
+C27,cafe coffee day,Weekly,2025-07-04,-936.05
+C27,dmart,Weekly,2025-07-02,-1147.3
+C27,flipkart,Weekly,2025-07-06,-1027.74
+C27,medical store,Weekly,2025-06-26,-1151.72
+C27,netflix,Monthly,2025-07-06,-499.0
+C27,reliance smart,Weekly,2025-06-28,-802.37
+C27,spotify,Monthly,2025-07-26,-199.0
+C27,uber,Weekly,2025-07-05,-1201.77
+C27,zomato,Weekly,2025-07-01,-1273.05
+C270,cafe coffee day,Weekly,2025-06-29,-1141.82
+C270,company,Monthly,2025-07-03,33449.2
+C270,electricity bill,Monthly,2025-07-13,-1500.0
+C270,flipkart,Weekly,2025-06-15,-912.14
+C270,gym membership,Monthly,2025-07-14,-1200.0
+C270,petrol pump,Weekly,2025-06-30,-1098.96
+C270,reliance smart,Weekly,2025-06-30,-973.62
+C270,swiggy,Weekly,2025-07-02,-1025.52
+C270,uber,Weekly,2025-07-05,-963.25
+C271,cafe coffee day,Weekly,2025-07-05,-1011.32
+C271,dmart,Weekly,2025-06-18,-1110.05
+C271,electricity bill,Monthly,2025-07-24,-1500.0
+C271,flipkart,Weekly,2025-06-21,-1027.36
+C271,petrol pump,Weekly,2025-07-05,-1249.89
+C271,spotify,Monthly,2025-07-20,-199.0
+C271,swiggy,Weekly,2025-06-30,-1098.68
+C271,uber,Weekly,2025-06-26,-1007.86
+C271,zomato,Weekly,2025-07-04,-736.48
+C272,amazon prime,Monthly,2025-07-15,-999.0
+C272,cafe coffee day,Weekly,2025-07-02,-1019.24
+C272,electricity bill,Monthly,2025-07-14,-1500.0
+C272,flipkart,Weekly,2025-07-05,-991.88
+C272,medical store,Weekly,2025-06-28,-1134.95
+C272,petrol pump,Weekly,2025-07-03,-935.05
+C272,reliance smart,Weekly,2025-06-28,-866.42
+C272,swiggy,Weekly,2025-06-30,-1255.4
+C272,uber,Weekly,2025-07-03,-932.17
+C273,cafe coffee day,Weekly,2025-07-05,-990.06
+C273,flipkart,Weekly,2025-07-04,-995.46
+C273,medical store,Weekly,2025-07-06,-744.47
+C273,petrol pump,Weekly,2025-07-05,-1332.24
+C273,spotify,Monthly,2025-07-22,-199.0
+C273,swiggy,Weekly,2025-06-13,-844.94
+C274,electricity bill,Monthly,2025-07-05,-1500.0
+C274,gym membership,Monthly,2025-07-19,-1200.0
+C274,medical store,Weekly,2025-06-22,-1150.0
+C274,reliance smart,Weekly,2025-06-29,-1089.8
+C274,spotify,Monthly,2025-07-04,-199.0
+C274,zomato,Weekly,2025-07-04,-986.73
+C275,amazon prime,Monthly,2025-07-20,-999.0
+C275,cafe coffee day,Weekly,2025-07-04,-1060.33
+C275,flipkart,Weekly,2025-06-30,-1146.22
+C275,gym membership,Monthly,2025-07-21,-1200.0
+C275,petrol pump,Weekly,2025-06-29,-1106.32
+C275,spotify,Monthly,2025-07-28,-199.0
+C275,swiggy,Weekly,2025-06-21,-1072.65
+C275,uber,Weekly,2025-06-23,-900.33
+C275,zomato,Weekly,2025-06-20,-989.0
+C276,amazon prime,Monthly,2025-07-01,-999.0
+C276,cafe coffee day,Weekly,2025-06-27,-908.05
+C276,flipkart,Weekly,2025-06-21,-1053.62
+C276,medical store,Weekly,2025-06-15,-1118.82
+C276,netflix,Monthly,2025-07-01,-499.0
+C276,petrol pump,Weekly,2025-07-04,-745.78
+C276,spotify,Monthly,2025-07-02,-199.0
+C276,swiggy,Weekly,2025-07-04,-1177.5
+C276,uber,Weekly,2025-06-30,-1063.52
+C276,zomato,Weekly,2025-06-22,-881.47
+C277,amazon prime,Monthly,2025-07-18,-999.0
+C277,cafe coffee day,Weekly,2025-07-04,-1025.73
+C277,company,Monthly,2025-07-04,29845.83
+C277,dmart,Weekly,2025-07-02,-1149.05
+C277,electricity bill,Monthly,2025-07-21,-1500.0
+C277,flipkart,Weekly,2025-06-25,-1120.73
+C277,medical store,Weekly,2025-07-06,-943.1
+C277,petrol pump,Weekly,2025-06-30,-1189.43
+C277,reliance smart,Weekly,2025-07-04,-980.9
+C277,swiggy,Weekly,2025-06-14,-1241.61
+C278,amazon prime,Monthly,2025-07-17,-999.0
+C278,cafe coffee day,Weekly,2025-06-25,-1268.63
+C278,dmart,Weekly,2025-06-22,-1063.53
+C278,flipkart,Weekly,2025-07-06,-783.24
+C278,gym membership,Monthly,2025-07-20,-1200.0
+C278,netflix,Monthly,2025-07-05,-499.0
+C278,reliance smart,Weekly,2025-07-04,-1218.32
+C278,swiggy,Weekly,2025-07-03,-1166.18
+C278,zomato,Weekly,2025-07-04,-850.9
+C279,dmart,Weekly,2025-06-30,-851.9
+C279,electricity bill,Monthly,2025-07-26,-1500.0
+C279,gym membership,Monthly,2025-07-01,-1200.0
+C279,medical store,Weekly,2025-06-08,-880.74
+C279,reliance smart,Weekly,2025-06-27,-1011.75
+C279,swiggy,Weekly,2025-07-05,-1224.91
+C279,zomato,Weekly,2025-07-04,-1120.47
+C28,amazon prime,Monthly,2025-07-16,-999.0
+C28,cafe coffee day,Weekly,2025-06-26,-936.0
+C28,dmart,Weekly,2025-06-29,-793.16
+C28,flipkart,Weekly,2025-06-27,-1037.84
+C28,medical store,Weekly,2025-07-04,-1061.63
+C28,netflix,Monthly,2025-07-02,-499.0
+C28,spotify,Monthly,2025-07-06,-199.0
+C28,swiggy,Weekly,2025-06-09,-1252.67
+C28,uber,Weekly,2025-06-21,-890.48
+C28,zomato,Weekly,2025-07-02,-888.57
+C280,cafe coffee day,Weekly,2025-06-23,-998.74
+C280,dmart,Weekly,2025-07-06,-1080.63
+C280,flipkart,Weekly,2025-07-06,-957.05
+C280,gym membership,Monthly,2025-07-11,-1200.0
+C280,medical store,Weekly,2025-06-25,-1175.06
+C280,reliance smart,Weekly,2025-07-01,-956.67
+C280,spotify,Monthly,2025-07-23,-199.0
+C280,swiggy,Weekly,2025-07-05,-989.41
+C280,uber,Weekly,2025-07-03,-977.0
+C281,dmart,Weekly,2025-06-26,-1079.96
+C281,electricity bill,Monthly,2025-07-20,-1500.0
+C281,medical store,Weekly,2025-07-06,-1067.15
+C281,netflix,Monthly,2025-07-13,-499.0
+C281,petrol pump,Weekly,2025-07-03,-1056.95
+C281,reliance smart,Weekly,2025-06-26,-1160.95
+C281,uber,Weekly,2025-06-27,-1199.33
+C282,cafe coffee day,Weekly,2025-06-17,-1001.22
+C282,dmart,Weekly,2025-07-06,-997.0
+C282,electricity bill,Monthly,2025-07-07,-1500.0
+C282,flipkart,Weekly,2025-06-22,-962.88
+C282,medical store,Weekly,2025-07-05,-953.87
+C282,petrol pump,Weekly,2025-06-30,-972.58
+C282,spotify,Monthly,2025-07-10,-199.0
+C282,uber,Weekly,2025-07-02,-935.18
+C283,cafe coffee day,Weekly,2025-06-28,-1074.33
+C283,dmart,Weekly,2025-07-03,-984.5
+C283,flipkart,Weekly,2025-06-30,-925.47
+C283,medical store,Weekly,2025-06-28,-859.54
+C283,netflix,Monthly,2025-07-13,-499.0
+C283,reliance smart,Weekly,2025-05-27,-1233.83
+C283,uber,Weekly,2025-06-15,-1093.86
+C283,zomato,Weekly,2025-06-30,-1212.65
+C284,amazon prime,Monthly,2025-07-01,-999.0
+C284,cafe coffee day,Weekly,2025-06-17,-912.95
+C284,company,Monthly,2025-05-03,38404.25
+C284,dmart,Weekly,2025-07-06,-1221.56
+C284,flipkart,Weekly,2025-06-27,-973.82
+C284,gym membership,Monthly,2025-07-04,-1200.0
+C284,medical store,Weekly,2025-07-02,-1136.0
+C284,netflix,Monthly,2025-07-02,-499.0
+C284,petrol pump,Weekly,2025-06-26,-1100.95
+C284,reliance smart,Weekly,2025-06-10,-1276.47
+C284,swiggy,Weekly,2025-07-03,-868.74
+C284,uber,Weekly,2025-07-04,-1220.13
+C285,cafe coffee day,Weekly,2025-07-02,-1094.5
+C285,dmart,Weekly,2025-06-29,-1136.37
+C285,electricity bill,Monthly,2025-07-20,-1500.0
+C285,medical store,Weekly,2025-06-30,-1138.15
+C285,petrol pump,Weekly,2025-06-23,-1201.89
+C285,reliance smart,Weekly,2025-07-01,-869.44
+C285,swiggy,Weekly,2025-06-30,-1205.58
+C285,uber,Weekly,2025-06-22,-1051.85
+C285,zomato,Weekly,2025-07-06,-1090.1
+C286,cafe coffee day,Weekly,2025-06-30,-1080.0
+C286,company,Monthly,2025-07-04,41152.33
+C286,flipkart,Weekly,2025-07-03,-990.43
+C286,gym membership,Monthly,2025-07-07,-1200.0
+C286,medical store,Weekly,2025-07-05,-1134.33
+C286,reliance smart,Weekly,2025-06-27,-1155.59
+C286,spotify,Monthly,2025-07-17,-199.0
+C286,uber,Weekly,2025-06-21,-1108.93
+C287,cafe coffee day,Weekly,2025-06-26,-912.88
+C287,company,Monthly,2025-05-01,33261.5
+C287,dmart,Weekly,2025-06-16,-1005.95
+C287,medical store,Weekly,2025-06-24,-1232.94
+C287,reliance smart,Weekly,2025-07-06,-1096.65
+C287,spotify,Monthly,2025-07-04,-199.0
+C287,uber,Weekly,2025-07-04,-956.0
+C287,zomato,Weekly,2025-07-05,-1034.2
+C288,amazon prime,Monthly,2025-07-01,-999.0
+C288,electricity bill,Monthly,2025-07-14,-1500.0
+C288,flipkart,Weekly,2025-07-05,-1094.6
+C288,reliance smart,Weekly,2025-06-09,-1023.59
+C288,uber,Weekly,2025-06-23,-1100.45
+C288,zomato,Weekly,2025-07-02,-1105.43
+C289,amazon prime,Monthly,2025-07-06,-999.0
+C289,dmart,Weekly,2025-06-23,-1099.06
+C289,electricity bill,Monthly,2025-07-27,-1500.0
+C289,netflix,Monthly,2025-07-14,-499.0
+C289,reliance smart,Weekly,2025-07-05,-1019.43
+C289,uber,Weekly,2025-07-03,-1120.0
+C289,zomato,Weekly,2025-07-04,-1164.48
+C29,dmart,Monthly,2025-07-19,-1251.86
+C29,electricity bill,Monthly,2025-07-05,-1500.0
+C29,flipkart,Weekly,2025-06-22,-1097.2
+C29,medical store,Weekly,2025-06-06,-915.56
+C29,netflix,Monthly,2025-07-04,-499.0
+C29,petrol pump,Weekly,2025-06-27,-1096.65
+C29,reliance smart,Weekly,2025-07-05,-1051.2
+C29,swiggy,Weekly,2025-06-21,-1033.68
+C29,zomato,Weekly,2025-07-02,-1017.76
+C290,amazon prime,Monthly,2025-07-18,-999.0
+C290,cafe coffee day,Weekly,2025-06-29,-970.5
+C290,company,Monthly,2025-07-01,37840.29
+C290,dmart,Weekly,2025-07-04,-909.21
+C290,electricity bill,Monthly,2025-07-13,-1500.0
+C290,flipkart,Weekly,2025-06-30,-1013.77
+C290,medical store,Weekly,2025-06-30,-910.24
+C290,reliance smart,Weekly,2025-07-06,-1036.35
+C290,spotify,Monthly,2025-07-23,-199.0
+C291,cafe coffee day,Weekly,2025-07-04,-1122.57
+C291,company,Monthly,2025-07-01,39148.4
+C291,dmart,Weekly,2025-06-14,-1052.65
+C291,flipkart,Weekly,2025-06-17,-1004.2
+C291,gym membership,Monthly,2025-07-12,-1200.0
+C291,netflix,Monthly,2025-07-28,-499.0
+C291,petrol pump,Weekly,2025-07-06,-908.76
+C291,reliance smart,Weekly,2025-06-21,-1151.11
+C291,spotify,Monthly,2025-07-25,-199.0
+C291,swiggy,Weekly,2025-06-26,-1124.84
+C292,amazon prime,Monthly,2025-07-15,-999.0
+C292,dmart,Weekly,2025-07-05,-1073.75
+C292,electricity bill,Monthly,2025-07-19,-1500.0
+C292,flipkart,Weekly,2025-07-06,-884.86
+C292,medical store,Weekly,2025-06-24,-1103.81
+C292,petrol pump,Weekly,2025-07-06,-1081.85
+C292,swiggy,Weekly,2025-07-01,-1034.12
+C292,zomato,Weekly,2025-06-20,-1110.27
+C293,amazon prime,Monthly,2025-07-27,-999.0
+C293,company,Monthly,2025-07-04,30043.0
+C293,dmart,Weekly,2025-06-19,-1128.04
+C293,electricity bill,Monthly,2025-07-13,-1500.0
+C293,flipkart,Weekly,2025-06-28,-1078.72
+C293,medical store,Weekly,2025-07-03,-937.68
+C293,petrol pump,Weekly,2025-06-23,-977.55
+C293,reliance smart,Weekly,2025-07-04,-898.28
+C293,zomato,Weekly,2025-06-26,-694.35
+C294,amazon prime,Monthly,2025-07-23,-999.0
+C294,cafe coffee day,Weekly,2025-06-28,-938.12
+C294,flipkart,Weekly,2025-06-24,-1086.0
+C294,petrol pump,Weekly,2025-06-27,-895.52
+C294,swiggy,Weekly,2025-07-01,-922.58
+C295,amazon prime,Monthly,2025-07-11,-999.0
+C295,cafe coffee day,Weekly,2025-07-01,-1060.6
+C295,dmart,Weekly,2025-07-04,-1025.42
+C295,electricity bill,Monthly,2025-07-02,-1500.0
+C295,flipkart,Weekly,2025-06-25,-933.09
+C295,gym membership,Monthly,2025-07-24,-1200.0
+C295,petrol pump,Weekly,2025-06-21,-985.47
+C295,swiggy,Weekly,2025-06-30,-955.26
+C295,uber,Weekly,2025-07-06,-1080.91
+C295,zomato,Weekly,2025-06-27,-865.43
+C296,amazon prime,Monthly,2025-07-11,-999.0
+C296,company,Monthly,2025-04-02,30568.0
+C296,dmart,Weekly,2025-06-27,-976.79
+C296,electricity bill,Monthly,2025-07-24,-1500.0
+C296,medical store,Weekly,2025-07-04,-1061.24
+C296,petrol pump,Weekly,2025-06-21,-1026.67
+C296,reliance smart,Weekly,2025-07-01,-1117.5
+C296,swiggy,Weekly,2025-06-28,-855.05
+C296,uber,Weekly,2025-07-03,-888.05
+C296,zomato,Weekly,2025-07-04,-1155.67
+C297,cafe coffee day,Weekly,2025-07-04,-1054.32
+C297,company,Monthly,2025-07-03,28084.67
+C297,electricity bill,Monthly,2025-07-01,-1500.0
+C297,flipkart,Weekly,2025-06-18,-909.04
+C297,medical store,Weekly,2025-06-18,-1294.53
+C297,netflix,Monthly,2025-07-12,-499.0
+C297,petrol pump,Weekly,2025-06-26,-1086.56
+C297,reliance smart,Weekly,2025-07-03,-1008.84
+C297,uber,Weekly,2025-06-27,-1088.81
+C297,zomato,Weekly,2025-06-24,-1061.71
+C298,cafe coffee day,Weekly,2025-06-24,-917.57
+C298,dmart,Weekly,2025-07-05,-945.08
+C298,medical store,Weekly,2025-07-06,-986.04
+C298,reliance smart,Weekly,2025-06-15,-789.25
+C298,spotify,Monthly,2025-07-22,-199.0
+C298,swiggy,Weekly,2025-06-18,-1243.53
+C298,uber,Weekly,2025-06-30,-1030.76
+C299,cafe coffee day,Weekly,2025-06-27,-905.84
+C299,electricity bill,Monthly,2025-07-17,-1500.0
+C299,flipkart,Weekly,2025-06-28,-1076.27
+C299,gym membership,Monthly,2025-07-09,-1200.0
+C299,medical store,Weekly,2025-06-29,-1135.38
+C299,netflix,Monthly,2025-07-26,-499.0
+C299,petrol pump,Weekly,2025-07-05,-1060.8
+C299,reliance smart,Weekly,2025-07-01,-933.18
+C299,swiggy,Weekly,2025-07-06,-1162.95
+C299,uber,Weekly,2025-06-15,-1236.35
+C299,zomato,Weekly,2025-07-04,-1011.65
+C3,amazon prime,Monthly,2025-07-24,-999.0
+C3,cafe coffee day,Weekly,2025-06-28,-853.26
+C3,dmart,Weekly,2025-06-25,-909.14
+C3,flipkart,Weekly,2025-07-03,-1292.7
+C3,medical store,Weekly,2025-06-30,-821.82
+C3,netflix,Monthly,2025-07-01,-499.0
+C3,petrol pump,Weekly,2025-07-04,-1050.08
+C3,reliance smart,Weekly,2025-06-14,-1187.72
+C30,amazon prime,Monthly,2025-07-06,-999.0
+C30,cafe coffee day,Weekly,2025-06-14,-1073.24
+C30,dmart,Weekly,2025-06-28,-1243.18
+C30,gym membership,Monthly,2025-07-13,-1200.0
+C30,medical store,Weekly,2025-07-05,-1090.72
+C30,netflix,Monthly,2025-07-07,-499.0
+C30,petrol pump,Weekly,2025-06-26,-1157.86
+C30,reliance smart,Weekly,2025-07-03,-1361.23
+C30,zomato,Weekly,2025-07-04,-930.45
+C300,amazon prime,Monthly,2025-07-27,-999.0
+C300,cafe coffee day,Weekly,2025-06-30,-1178.2
+C300,company,Monthly,2025-07-05,29065.0
+C300,flipkart,Weekly,2025-06-23,-892.26
+C300,medical store,Weekly,2025-06-25,-1013.62
+C300,petrol pump,Weekly,2025-07-06,-1090.75
+C300,reliance smart,Weekly,2025-06-27,-790.0
+C300,swiggy,Weekly,2025-07-04,-1222.32
+C300,zomato,Weekly,2025-06-20,-1063.73
+C301,cafe coffee day,Weekly,2025-06-14,-992.88
+C301,company,Monthly,2025-07-01,36007.0
+C301,dmart,Weekly,2025-06-29,-1096.77
+C301,flipkart,Weekly,2025-06-27,-1066.35
+C301,netflix,Monthly,2025-07-16,-499.0
+C301,petrol pump,Weekly,2025-07-06,-1161.9
+C301,reliance smart,Weekly,2025-07-06,-1100.65
+C301,spotify,Monthly,2025-07-14,-199.0
+C301,uber,Weekly,2025-07-02,-1082.42
+C301,zomato,Weekly,2025-07-01,-814.62
+C302,cafe coffee day,Weekly,2025-07-01,-1121.44
+C302,dmart,Weekly,2025-06-22,-1226.7
+C302,gym membership,Monthly,2025-07-23,-1200.0
+C302,medical store,Weekly,2025-06-29,-1333.39
+C302,petrol pump,Weekly,2025-07-06,-1197.59
+C302,reliance smart,Weekly,2025-07-02,-978.5
+C302,spotify,Monthly,2025-07-15,-199.0
+C302,swiggy,Weekly,2025-07-05,-907.97
+C302,uber,Weekly,2025-06-25,-1047.05
+C303,dmart,Weekly,2025-07-03,-974.21
+C303,medical store,Weekly,2025-07-03,-822.74
+C303,netflix,Monthly,2025-07-07,-499.0
+C303,petrol pump,Weekly,2025-06-30,-946.68
+C303,reliance smart,Weekly,2025-07-04,-1039.33
+C303,swiggy,Weekly,2025-06-23,-985.86
+C303,uber,Weekly,2025-06-13,-1128.8
+C304,cafe coffee day,Weekly,2025-07-06,-992.53
+C304,electricity bill,Monthly,2025-07-26,-1500.0
+C304,flipkart,Weekly,2025-06-27,-1055.92
+C304,medical store,Weekly,2025-06-21,-1188.31
+C304,reliance smart,Weekly,2025-07-05,-1003.15
+C304,swiggy,Weekly,2025-07-03,-898.72
+C304,uber,Weekly,2025-07-01,-1254.33
+C304,zomato,Weekly,2025-07-01,-1002.64
+C305,cafe coffee day,Weekly,2025-06-09,-924.2
+C305,company,Monthly,2025-07-04,32138.83
+C305,netflix,Monthly,2025-07-19,-499.0
+C305,reliance smart,Weekly,2025-07-05,-1194.0
+C305,swiggy,Weekly,2025-06-27,-1274.41
+C305,uber,Weekly,2025-07-04,-1156.22
+C306,amazon prime,Monthly,2025-07-27,-999.0
+C306,cafe coffee day,Weekly,2025-07-03,-913.0
+C306,flipkart,Weekly,2025-06-21,-962.06
+C306,gym membership,Monthly,2025-07-08,-1200.0
+C306,medical store,Weekly,2025-07-01,-1213.46
+C306,reliance smart,Weekly,2025-06-21,-1125.06
+C306,spotify,Monthly,2025-07-01,-199.0
+C306,uber,Weekly,2025-06-09,-1084.68
+C307,amazon prime,Monthly,2025-07-03,-999.0
+C307,flipkart,Weekly,2025-06-21,-1083.2
+C307,medical store,Weekly,2025-07-04,-997.42
+C307,reliance smart,Weekly,2025-06-30,-1027.0
+C307,swiggy,Weekly,2025-06-25,-1185.0
+C307,uber,Weekly,2025-06-02,-1212.07
+C308,cafe coffee day,Weekly,2025-06-14,-1023.83
+C308,dmart,Weekly,2025-07-06,-937.0
+C308,flipkart,Weekly,2025-07-06,-1041.75
+C308,reliance smart,Weekly,2025-06-28,-1131.36
+C308,spotify,Monthly,2025-07-25,-199.0
+C308,uber,Weekly,2025-06-11,-1019.0
+C308,zomato,Weekly,2025-06-30,-1161.41
+C309,cafe coffee day,Weekly,2025-07-06,-1051.37
+C309,dmart,Weekly,2025-07-05,-806.76
+C309,electricity bill,Monthly,2025-07-09,-1500.0
+C309,flipkart,Weekly,2025-07-06,-1106.88
+C309,medical store,Weekly,2025-06-23,-1013.57
+C309,reliance smart,Weekly,2025-07-03,-1128.64
+C309,uber,Weekly,2025-07-04,-1129.5
+C309,zomato,Weekly,2025-07-05,-1137.91
+C31,cafe coffee day,Weekly,2025-06-14,-946.72
+C31,dmart,Weekly,2025-06-26,-952.72
+C31,electricity bill,Monthly,2025-07-12,-1500.0
+C31,flipkart,Weekly,2025-07-02,-975.35
+C31,gym membership,Monthly,2025-07-21,-1200.0
+C31,medical store,Weekly,2025-07-06,-980.42
+C31,petrol pump,Weekly,2025-06-26,-1064.0
+C31,reliance smart,Weekly,2025-07-01,-1343.12
+C31,swiggy,Weekly,2025-07-04,-1096.61
+C31,uber,Weekly,2025-06-23,-1061.71
+C31,zomato,Weekly,2025-07-05,-990.14
+C310,amazon prime,Monthly,2025-07-21,-999.0
+C310,cafe coffee day,Weekly,2025-06-20,-1014.79
+C310,flipkart,Weekly,2025-07-06,-1189.04
+C310,petrol pump,Weekly,2025-06-27,-1014.04
+C311,dmart,Weekly,2025-07-06,-1024.65
+C311,medical store,Weekly,2025-06-27,-1154.79
+C311,netflix,Monthly,2025-07-28,-499.0
+C311,petrol pump,Weekly,2025-06-24,-1036.25
+C311,reliance smart,Weekly,2025-07-03,-1175.15
+C311,spotify,Monthly,2025-07-10,-199.0
+C311,swiggy,Weekly,2025-07-05,-1213.68
+C311,uber,Weekly,2025-06-13,-889.57
+C312,amazon prime,Monthly,2025-07-17,-999.0
+C312,dmart,Weekly,2025-06-11,-1073.8
+C312,medical store,Weekly,2025-07-04,-1246.81
+C312,netflix,Monthly,2025-07-07,-499.0
+C312,petrol pump,Weekly,2025-06-29,-1264.62
+C312,reliance smart,Weekly,2025-06-30,-1038.76
+C312,uber,Weekly,2025-06-25,-952.86
+C312,zomato,Weekly,2025-06-19,-1232.45
+C313,amazon prime,Monthly,2025-07-12,-999.0
+C313,dmart,Weekly,2025-06-30,-925.92
+C313,flipkart,Weekly,2025-06-18,-1189.06
+C313,medical store,Weekly,2025-06-23,-1164.4
+C313,reliance smart,Weekly,2025-07-05,-904.78
+C313,spotify,Monthly,2025-07-08,-199.0
+C313,uber,Weekly,2025-06-28,-1160.43
+C313,zomato,Weekly,2025-06-23,-1087.16
+C314,amazon prime,Monthly,2025-07-26,-999.0
+C314,company,Monthly,2025-07-05,39407.67
+C314,dmart,Weekly,2025-06-25,-992.61
+C314,flipkart,Weekly,2025-06-05,-1099.94
+C314,gym membership,Monthly,2025-07-22,-1200.0
+C314,medical store,Weekly,2025-07-04,-978.55
+C314,petrol pump,Weekly,2025-06-25,-1020.15
+C314,swiggy,Weekly,2025-07-03,-803.3
+C314,uber,Weekly,2025-07-05,-1101.04
+C314,zomato,Weekly,2025-07-02,-1096.5
+C315,cafe coffee day,Weekly,2025-07-06,-1060.42
+C315,dmart,Weekly,2025-06-16,-911.9
+C315,flipkart,Weekly,2025-07-04,-978.54
+C315,gym membership,Monthly,2025-07-03,-1200.0
+C315,medical store,Weekly,2025-05-28,-1106.88
+C315,petrol pump,Weekly,2025-07-05,-1119.58
+C315,reliance smart,Weekly,2025-05-22,-1150.79
+C315,spotify,Monthly,2025-07-14,-199.0
+C315,swiggy,Weekly,2025-07-01,-1141.29
+C315,uber,Weekly,2025-07-05,-1050.31
+C316,cafe coffee day,Weekly,2025-06-26,-1212.29
+C316,medical store,Weekly,2025-06-25,-908.55
+C316,netflix,Monthly,2025-07-20,-499.0
+C316,petrol pump,Weekly,2025-07-01,-916.84
+C316,reliance smart,Weekly,2025-06-13,-1001.12
+C316,spotify,Monthly,2025-07-16,-199.0
+C316,swiggy,Weekly,2025-07-01,-1186.24
+C316,uber,Weekly,2025-07-03,-967.94
+C316,zomato,Weekly,2025-06-27,-923.26
+C317,amazon prime,Monthly,2025-07-05,-999.0
+C317,dmart,Weekly,2025-07-06,-1117.91
+C317,medical store,Weekly,2025-06-23,-981.24
+C317,petrol pump,Weekly,2025-07-05,-727.32
+C317,reliance smart,Weekly,2025-07-01,-979.61
+C317,spotify,Monthly,2025-07-22,-199.0
+C317,swiggy,Weekly,2025-07-06,-1178.9
+C317,uber,Weekly,2025-07-05,-1016.53
+C317,zomato,Weekly,2025-06-13,-997.25
+C318,dmart,Weekly,2025-07-06,-1142.05
+C318,electricity bill,Monthly,2025-07-20,-1500.0
+C318,flipkart,Weekly,2025-06-24,-1032.43
+C318,netflix,Monthly,2025-07-21,-499.0
+C318,spotify,Monthly,2025-07-10,-199.0
+C318,swiggy,Weekly,2025-06-21,-998.64
+C318,uber,Weekly,2025-07-05,-971.68
+C318,zomato,Weekly,2025-07-05,-1001.32
+C319,electricity bill,Monthly,2025-07-08,-1500.0
+C319,flipkart,Weekly,2025-06-21,-1067.75
+C319,medical store,Weekly,2025-07-01,-1089.91
+C319,netflix,Monthly,2025-07-27,-499.0
+C319,reliance smart,Weekly,2025-06-18,-969.5
+C319,spotify,Monthly,2025-07-11,-199.0
+C319,swiggy,Weekly,2025-07-02,-1079.7
+C319,uber,Weekly,2025-06-28,-975.82
+C32,cafe coffee day,Weekly,2025-07-05,-1071.67
+C32,dmart,Weekly,2025-06-26,-1089.9
+C32,netflix,Monthly,2025-07-07,-499.0
+C32,petrol pump,Weekly,2025-07-03,-1102.13
+C32,zomato,Weekly,2025-07-04,-933.78
+C320,cafe coffee day,Weekly,2025-06-20,-1105.17
+C320,flipkart,Weekly,2025-07-01,-867.52
+C320,netflix,Monthly,2025-07-28,-499.0
+C320,petrol pump,Weekly,2025-07-06,-1087.63
+C320,reliance smart,Weekly,2025-06-08,-1051.48
+C320,spotify,Monthly,2025-07-04,-199.0
+C320,swiggy,Weekly,2025-06-30,-1033.15
+C320,uber,Weekly,2025-06-26,-1087.74
+C321,amazon prime,Monthly,2025-07-10,-999.0
+C321,cafe coffee day,Weekly,2025-07-03,-1101.0
+C321,dmart,Weekly,2025-06-13,-1030.86
+C321,electricity bill,Monthly,2025-07-08,-1500.0
+C321,flipkart,Monthly,2025-07-29,-1338.71
+C321,medical store,Weekly,2025-06-26,-1028.15
+C321,reliance smart,Weekly,2025-06-23,-1222.11
+C321,spotify,Monthly,2025-07-08,-199.0
+C321,swiggy,Weekly,2025-07-01,-1299.38
+C321,uber,Weekly,2025-06-29,-1166.83
+C321,zomato,Weekly,2025-06-27,-1083.48
+C322,dmart,Weekly,2025-07-05,-1021.21
+C322,electricity bill,Monthly,2025-07-09,-1500.0
+C322,flipkart,Weekly,2025-06-18,-1117.64
+C322,medical store,Weekly,2025-06-24,-1063.57
+C322,reliance smart,Weekly,2025-06-25,-929.26
+C322,uber,Weekly,2025-06-30,-1069.47
+C322,zomato,Weekly,2025-07-06,-1110.58
+C323,electricity bill,Monthly,2025-07-09,-1500.0
+C323,gym membership,Monthly,2025-07-07,-1200.0
+C323,medical store,Weekly,2025-07-03,-1321.48
+C323,swiggy,Weekly,2025-07-02,-1004.0
+C323,uber,Weekly,2025-06-19,-1005.0
+C323,zomato,Weekly,2025-06-30,-1010.92
+C324,cafe coffee day,Weekly,2025-06-29,-1052.32
+C324,dmart,Weekly,2025-06-26,-1111.0
+C324,flipkart,Weekly,2025-07-06,-1019.48
+C324,gym membership,Monthly,2025-07-27,-1200.0
+C324,medical store,Weekly,2025-07-05,-968.63
+C324,petrol pump,Weekly,2025-06-30,-855.04
+C324,zomato,Weekly,2025-07-06,-802.0
+C325,amazon prime,Monthly,2025-07-27,-999.0
+C325,cafe coffee day,Weekly,2025-07-02,-947.81
+C325,electricity bill,Monthly,2025-07-14,-1500.0
+C325,flipkart,Weekly,2025-06-23,-941.0
+C325,medical store,Weekly,2025-06-24,-951.95
+C325,petrol pump,Weekly,2025-06-25,-1100.1
+C325,reliance smart,Weekly,2025-06-27,-942.15
+C325,spotify,Monthly,2025-07-24,-199.0
+C325,uber,Weekly,2025-07-05,-1014.35
+C326,cafe coffee day,Weekly,2025-06-29,-1136.83
+C326,dmart,Weekly,2025-07-02,-898.67
+C326,electricity bill,Monthly,2025-07-24,-1500.0
+C326,flipkart,Weekly,2025-07-03,-1076.95
+C326,medical store,Weekly,2025-07-02,-1117.68
+C326,petrol pump,Weekly,2025-06-26,-1112.29
+C326,uber,Weekly,2025-06-27,-871.9
+C326,zomato,Weekly,2025-06-23,-1136.74
+C327,amazon prime,Monthly,2025-07-08,-999.0
+C327,cafe coffee day,Weekly,2025-06-25,-1039.84
+C327,company,Monthly,2025-07-05,36256.0
+C327,dmart,Weekly,2025-07-01,-1221.29
+C327,flipkart,Weekly,2025-06-28,-848.45
+C327,medical store,Weekly,2025-07-06,-1070.41
+C327,petrol pump,Weekly,2025-06-26,-1213.56
+C327,reliance smart,Weekly,2025-07-06,-1117.39
+C327,swiggy,Weekly,2025-06-26,-908.44
+C327,uber,Monthly,2025-07-07,-1074.25
+C327,zomato,Weekly,2025-06-29,-1008.79
+C328,cafe coffee day,Weekly,2025-06-16,-1078.29
+C328,dmart,Weekly,2025-07-02,-908.63
+C328,flipkart,Weekly,2025-06-19,-946.92
+C328,netflix,Monthly,2025-07-18,-499.0
+C328,petrol pump,Weekly,2025-06-28,-952.2
+C328,reliance smart,Weekly,2025-06-09,-1289.53
+C328,spotify,Monthly,2025-07-20,-199.0
+C328,uber,Weekly,2025-07-03,-1163.26
+C328,zomato,Weekly,2025-06-22,-934.08
+C329,cafe coffee day,Weekly,2025-06-07,-893.06
+C329,dmart,Weekly,2025-06-27,-990.0
+C329,flipkart,Weekly,2025-06-17,-868.89
+C329,gym membership,Monthly,2025-07-24,-1200.0
+C329,netflix,Monthly,2025-07-10,-499.0
+C329,spotify,Monthly,2025-07-24,-199.0
+C329,swiggy,Weekly,2025-06-23,-1159.17
+C329,zomato,Weekly,2025-07-05,-1241.64
+C33,amazon prime,Monthly,2025-07-15,-999.0
+C33,company,Monthly,2025-07-01,43264.0
+C33,dmart,Weekly,2025-07-05,-1218.4
+C33,electricity bill,Monthly,2025-07-15,-1500.0
+C33,flipkart,Weekly,2025-06-28,-982.44
+C33,medical store,Weekly,2025-07-04,-983.7
+C33,petrol pump,Weekly,2025-07-03,-1215.61
+C33,spotify,Monthly,2025-07-20,-199.0
+C33,swiggy,Weekly,2025-06-27,-1120.62
+C33,uber,Weekly,2025-07-03,-966.6
+C330,amazon prime,Monthly,2025-07-23,-999.0
+C330,cafe coffee day,Weekly,2025-07-06,-961.47
+C330,dmart,Weekly,2025-07-05,-983.63
+C330,medical store,Weekly,2025-06-16,-1361.47
+C330,netflix,Monthly,2025-07-26,-499.0
+C330,petrol pump,Weekly,2025-06-23,-1232.27
+C330,reliance smart,Weekly,2025-06-30,-1151.78
+C330,spotify,Monthly,2025-07-02,-199.0
+C330,swiggy,Weekly,2025-07-03,-1067.5
+C330,uber,Weekly,2025-06-26,-1043.52
+C331,flipkart,Weekly,2025-07-03,-845.43
+C331,gym membership,Monthly,2025-07-05,-1200.0
+C331,petrol pump,Weekly,2025-07-06,-1135.54
+C331,reliance smart,Weekly,2025-06-23,-1246.42
+C331,spotify,Monthly,2025-07-28,-199.0
+C331,uber,Weekly,2025-07-01,-1129.41
+C331,zomato,Weekly,2025-06-21,-1068.44
+C332,cafe coffee day,Weekly,2025-06-28,-1095.96
+C332,dmart,Weekly,2025-07-05,-1074.26
+C332,medical store,Weekly,2025-06-27,-1100.87
+C332,netflix,Monthly,2025-07-15,-499.0
+C332,petrol pump,Weekly,2025-06-15,-935.0
+C332,uber,Weekly,2025-06-26,-1026.43
+C332,zomato,Weekly,2025-07-02,-980.95
+C333,cafe coffee day,Weekly,2025-06-18,-880.0
+C333,flipkart,Weekly,2025-07-01,-1004.95
+C333,netflix,Monthly,2025-07-09,-499.0
+C333,petrol pump,Weekly,2025-07-01,-1059.81
+C333,reliance smart,Weekly,2025-07-04,-887.57
+C333,swiggy,Weekly,2025-07-03,-873.57
+C333,uber,Weekly,2025-06-27,-854.75
+C334,cafe coffee day,Weekly,2025-07-04,-942.65
+C334,dmart,Weekly,2025-07-04,-1245.77
+C334,flipkart,Weekly,2025-07-05,-1047.24
+C334,medical store,Weekly,2025-06-24,-879.42
+C334,petrol pump,Weekly,2025-07-06,-939.89
+C334,spotify,Monthly,2025-07-09,-199.0
+C334,swiggy,Weekly,2025-07-06,-1134.62
+C334,uber,Weekly,2025-05-24,-943.83
+C334,zomato,Weekly,2025-06-30,-1008.0
+C335,cafe coffee day,Weekly,2025-07-03,-1105.6
+C335,dmart,Weekly,2025-07-04,-895.38
+C335,electricity bill,Monthly,2025-07-21,-1500.0
+C335,flipkart,Weekly,2025-06-26,-1140.11
+C335,medical store,Weekly,2025-05-27,-1145.17
+C335,petrol pump,Weekly,2025-06-22,-981.59
+C335,reliance smart,Weekly,2025-07-01,-1115.61
+C335,uber,Weekly,2025-07-03,-1126.07
+C335,zomato,Weekly,2025-07-02,-815.68
+C336,amazon prime,Monthly,2025-07-23,-999.0
+C336,cafe coffee day,Weekly,2025-07-06,-1005.05
+C336,dmart,Weekly,2025-06-29,-1102.15
+C336,flipkart,Weekly,2025-07-04,-1222.8
+C336,medical store,Weekly,2025-07-05,-1254.95
+C336,petrol pump,Weekly,2025-06-23,-1044.95
+C336,reliance smart,Weekly,2025-07-05,-961.25
+C336,spotify,Monthly,2025-07-12,-199.0
+C336,zomato,Weekly,2025-07-06,-1097.88
+C337,cafe coffee day,Weekly,2025-07-06,-1001.84
+C337,medical store,Weekly,2025-07-04,-927.95
+C337,netflix,Monthly,2025-07-23,-499.0
+C337,reliance smart,Weekly,2025-06-30,-1073.96
+C337,swiggy,Weekly,2025-07-01,-984.05
+C337,zomato,Weekly,2025-05-28,-903.96
+C338,cafe coffee day,Weekly,2025-06-26,-1214.53
+C338,company,Monthly,2025-05-03,45930.33
+C338,dmart,Weekly,2025-06-28,-1140.1
+C338,flipkart,Weekly,2025-07-06,-844.42
+C338,medical store,Weekly,2025-06-30,-1084.42
+C338,netflix,Monthly,2025-07-11,-499.0
+C338,petrol pump,Weekly,2025-07-06,-1065.09
+C338,swiggy,Weekly,2025-06-19,-900.17
+C339,amazon prime,Monthly,2025-07-06,-999.0
+C339,cafe coffee day,Weekly,2025-06-29,-1135.12
+C339,dmart,Weekly,2025-07-02,-1048.23
+C339,gym membership,Monthly,2025-07-23,-1200.0
+C339,netflix,Monthly,2025-07-26,-499.0
+C339,petrol pump,Weekly,2025-06-18,-967.8
+C339,reliance smart,Weekly,2025-06-28,-1264.19
+C339,uber,Weekly,2025-06-30,-894.56
+C339,zomato,Weekly,2025-07-04,-1102.53
+C34,amazon prime,Monthly,2025-07-24,-999.0
+C34,cafe coffee day,Weekly,2025-06-13,-1061.85
+C34,company,Monthly,2025-07-05,34290.67
+C34,dmart,Weekly,2025-07-03,-1017.26
+C34,electricity bill,Monthly,2025-07-18,-1500.0
+C34,flipkart,Weekly,2025-07-04,-1034.88
+C34,reliance smart,Weekly,2025-07-06,-1018.05
+C34,swiggy,Weekly,2025-06-30,-930.3
+C34,uber,Weekly,2025-07-06,-993.29
+C34,zomato,Weekly,2025-06-29,-1076.86
+C340,cafe coffee day,Weekly,2025-06-25,-1006.71
+C340,company,Monthly,2025-07-03,38139.67
+C340,dmart,Weekly,2025-07-04,-955.91
+C340,electricity bill,Monthly,2025-07-26,-1500.0
+C340,flipkart,Weekly,2025-07-03,-1000.88
+C340,medical store,Weekly,2025-06-29,-1162.41
+C340,netflix,Monthly,2025-07-17,-499.0
+C340,petrol pump,Weekly,2025-06-22,-935.3
+C340,reliance smart,Weekly,2025-07-04,-1128.14
+C340,spotify,Monthly,2025-07-11,-199.0
+C340,uber,Weekly,2025-07-03,-1039.48
+C340,zomato,Weekly,2025-06-28,-1061.36
+C341,flipkart,Weekly,2025-06-27,-1137.44
+C341,medical store,Weekly,2025-06-28,-1221.45
+C341,netflix,Monthly,2025-07-20,-499.0
+C341,petrol pump,Weekly,2025-07-05,-1167.0
+C341,spotify,Monthly,2025-07-02,-199.0
+C341,swiggy,Weekly,2025-07-06,-1137.13
+C341,uber,Weekly,2025-06-15,-1069.79
+C341,zomato,Weekly,2025-07-03,-1149.7
+C342,dmart,Weekly,2025-07-06,-1079.17
+C342,electricity bill,Monthly,2025-07-27,-1500.0
+C342,flipkart,Weekly,2025-06-17,-1195.06
+C342,reliance smart,Weekly,2025-06-30,-1302.48
+C342,swiggy,Weekly,2025-06-18,-1080.35
+C342,zomato,Weekly,2025-06-19,-1168.06
+C343,cafe coffee day,Weekly,2025-06-17,-978.58
+C343,flipkart,Weekly,2025-07-02,-1033.64
+C343,medical store,Weekly,2025-07-03,-1123.62
+C343,netflix,Monthly,2025-07-03,-499.0
+C343,spotify,Monthly,2025-07-20,-199.0
+C343,swiggy,Weekly,2025-06-21,-889.17
+C343,uber,Weekly,2025-06-17,-1191.72
+C343,zomato,Weekly,2025-07-01,-1147.11
+C344,cafe coffee day,Weekly,2025-07-06,-1267.14
+C344,dmart,Weekly,2025-07-01,-897.0
+C344,electricity bill,Monthly,2025-07-10,-1500.0
+C344,gym membership,Monthly,2025-07-27,-1200.0
+C344,reliance smart,Weekly,2025-06-28,-947.95
+C344,swiggy,Weekly,2025-06-11,-942.71
+C344,uber,Weekly,2025-06-25,-1116.32
+C344,zomato,Weekly,2025-07-03,-829.24
+C345,dmart,Weekly,2025-07-05,-1172.88
+C345,medical store,Weekly,2025-06-27,-1106.4
+C345,petrol pump,Weekly,2025-06-21,-1080.21
+C345,reliance smart,Weekly,2025-07-06,-939.04
+C345,spotify,Monthly,2025-07-03,-199.0
+C345,swiggy,Weekly,2025-06-27,-1185.21
+C345,uber,Weekly,2025-07-03,-1075.16
+C345,zomato,Weekly,2025-07-06,-1130.57
+C346,amazon prime,Monthly,2025-07-07,-999.0
+C346,cafe coffee day,Weekly,2025-06-27,-1127.96
+C346,dmart,Weekly,2025-07-05,-908.55
+C346,flipkart,Weekly,2025-06-27,-1029.11
+C346,medical store,Weekly,2025-07-03,-1045.91
+C346,petrol pump,Weekly,2025-06-06,-928.26
+C346,reliance smart,Weekly,2025-06-24,-984.06
+C347,amazon prime,Monthly,2025-07-27,-999.0
+C347,cafe coffee day,Weekly,2025-06-29,-1030.42
+C347,dmart,Weekly,2025-07-06,-1038.04
+C347,electricity bill,Monthly,2025-07-17,-1500.0
+C347,flipkart,Weekly,2025-07-01,-963.04
+C347,petrol pump,Weekly,2025-07-06,-1167.46
+C347,swiggy,Weekly,2025-07-03,-916.23
+C347,uber,Weekly,2025-06-27,-1272.61
+C347,zomato,Weekly,2025-06-20,-981.88
+C348,dmart,Weekly,2025-06-24,-1317.75
+C348,flipkart,Weekly,2025-07-02,-909.74
+C348,medical store,Weekly,2025-06-19,-1203.1
+C348,netflix,Monthly,2025-07-03,-499.0
+C348,reliance smart,Weekly,2025-06-06,-1147.56
+C348,zomato,Weekly,2025-07-05,-1036.68
+C349,cafe coffee day,Weekly,2025-07-05,-1261.71
+C349,dmart,Weekly,2025-06-24,-987.28
+C349,electricity bill,Monthly,2025-07-02,-1500.0
+C349,flipkart,Weekly,2025-06-22,-1103.38
+C349,medical store,Weekly,2025-06-24,-1121.39
+C349,netflix,Monthly,2025-07-20,-499.0
+C349,petrol pump,Weekly,2025-07-05,-1214.53
+C349,reliance smart,Weekly,2025-07-06,-903.13
+C349,swiggy,Weekly,2025-06-28,-1021.62
+C349,uber,Weekly,2025-06-29,-1009.95
+C349,zomato,Weekly,2025-06-21,-1065.17
+C35,dmart,Weekly,2025-06-23,-912.74
+C35,flipkart,Weekly,2025-07-06,-899.32
+C35,gym membership,Monthly,2025-07-24,-1200.0
+C35,medical store,Weekly,2025-07-05,-1225.0
+C35,swiggy,Weekly,2025-06-20,-1091.89
+C35,uber,Weekly,2025-06-30,-1070.35
+C35,zomato,Weekly,2025-06-27,-1159.79
+C350,amazon prime,Monthly,2025-07-18,-999.0
+C350,dmart,Weekly,2025-07-04,-952.5
+C350,flipkart,Weekly,2025-07-05,-986.35
+C350,medical store,Weekly,2025-07-04,-1212.43
+C350,netflix,Monthly,2025-07-21,-499.0
+C350,reliance smart,Weekly,2025-06-25,-1117.12
+C350,swiggy,Weekly,2025-06-22,-1185.45
+C350,uber,Weekly,2025-07-02,-1141.16
+C351,amazon prime,Monthly,2025-07-14,-999.0
+C351,cafe coffee day,Weekly,2025-06-24,-1103.87
+C351,company,Monthly,2025-07-02,43673.4
+C351,dmart,Weekly,2025-06-28,-771.17
+C351,gym membership,Monthly,2025-07-15,-1200.0
+C351,medical store,Weekly,2025-06-30,-1034.92
+C351,uber,Weekly,2025-07-06,-1121.05
+C352,amazon prime,Monthly,2025-07-28,-999.0
+C352,dmart,Weekly,2025-07-05,-1026.17
+C352,electricity bill,Monthly,2025-07-20,-1500.0
+C352,flipkart,Weekly,2025-06-28,-1038.0
+C352,medical store,Weekly,2025-06-20,-960.95
+C352,netflix,Monthly,2025-07-23,-499.0
+C352,petrol pump,Weekly,2025-07-04,-1034.89
+C352,reliance smart,Weekly,2025-06-30,-1137.28
+C352,zomato,Weekly,2025-06-27,-983.89
+C353,amazon prime,Monthly,2025-07-17,-999.0
+C353,cafe coffee day,Weekly,2025-07-06,-831.65
+C353,flipkart,Weekly,2025-06-27,-974.82
+C353,reliance smart,Weekly,2025-06-20,-918.94
+C353,zomato,Weekly,2025-06-30,-951.84
+C354,amazon prime,Monthly,2025-07-15,-999.0
+C354,cafe coffee day,Weekly,2025-06-07,-856.05
+C354,company,Monthly,2025-03-31,33292.67
+C354,dmart,Weekly,2025-07-06,-829.24
+C354,medical store,Weekly,2025-07-01,-993.21
+C354,netflix,Monthly,2025-07-12,-499.0
+C354,reliance smart,Weekly,2025-07-05,-954.22
+C354,spotify,Monthly,2025-07-15,-199.0
+C354,uber,Weekly,2025-06-29,-1127.04
+C355,cafe coffee day,Weekly,2025-07-01,-1120.23
+C355,dmart,Weekly,2025-07-06,-1204.83
+C355,electricity bill,Monthly,2025-07-23,-1500.0
+C355,flipkart,Weekly,2025-06-27,-1052.14
+C355,gym membership,Monthly,2025-07-23,-1200.0
+C355,medical store,Weekly,2025-07-04,-1206.7
+C355,petrol pump,Weekly,2025-06-30,-1141.84
+C355,reliance smart,Weekly,2025-06-18,-1300.41
+C355,swiggy,Weekly,2025-06-21,-970.24
+C355,uber,Weekly,2025-07-02,-1012.79
+C355,zomato,Weekly,2025-06-28,-1266.45
+C356,company,Monthly,2025-07-04,43296.83
+C356,dmart,Weekly,2025-07-01,-1118.0
+C356,electricity bill,Monthly,2025-07-23,-1500.0
+C356,medical store,Weekly,2025-07-05,-1003.09
+C356,netflix,Monthly,2025-07-11,-499.0
+C356,petrol pump,Weekly,2025-06-25,-955.82
+C356,reliance smart,Weekly,2025-06-24,-1007.8
+C356,spotify,Monthly,2025-07-17,-199.0
+C356,swiggy,Weekly,2025-07-01,-896.0
+C356,zomato,Weekly,2025-06-21,-908.0
+C357,amazon prime,Monthly,2025-07-16,-999.0
+C357,cafe coffee day,Weekly,2025-07-01,-1172.96
+C357,dmart,Weekly,2025-07-05,-942.72
+C357,flipkart,Weekly,2025-06-30,-1043.87
+C357,netflix,Monthly,2025-07-16,-499.0
+C357,petrol pump,Weekly,2025-06-24,-984.9
+C357,swiggy,Weekly,2025-06-15,-1196.76
+C357,uber,Weekly,2025-06-24,-1121.74
+C357,zomato,Weekly,2025-06-22,-882.63
+C358,dmart,Weekly,2025-06-25,-1288.11
+C358,electricity bill,Monthly,2025-07-23,-1500.0
+C358,flipkart,Weekly,2025-07-05,-1128.93
+C358,medical store,Weekly,2025-06-26,-1119.52
+C358,petrol pump,Weekly,2025-07-03,-1071.58
+C358,reliance smart,Weekly,2025-07-06,-1145.0
+C358,swiggy,Weekly,2025-06-26,-1054.0
+C358,uber,Weekly,2025-06-28,-991.58
+C359,amazon prime,Monthly,2025-07-04,-999.0
+C359,cafe coffee day,Weekly,2025-07-05,-1009.68
+C359,dmart,Weekly,2025-07-05,-1284.11
+C359,electricity bill,Monthly,2025-07-23,-1500.0
+C359,flipkart,Weekly,2025-06-29,-1053.7
+C359,medical store,Weekly,2025-06-27,-1052.95
+C359,reliance smart,Weekly,2025-07-02,-1098.32
+C359,spotify,Monthly,2025-07-07,-199.0
+C359,swiggy,Weekly,2025-07-04,-1218.14
+C359,zomato,Weekly,2025-06-07,-1165.95
+C36,cafe coffee day,Weekly,2025-06-25,-1120.17
+C36,netflix,Monthly,2025-07-10,-499.0
+C36,petrol pump,Weekly,2025-07-05,-941.09
+C36,swiggy,Weekly,2025-06-02,-961.79
+C36,uber,Weekly,2025-06-22,-963.0
+C36,zomato,Weekly,2025-06-30,-1030.9
+C360,cafe coffee day,Weekly,2025-06-06,-1162.19
+C360,company,Monthly,2025-07-05,30955.25
+C360,dmart,Weekly,2025-07-01,-1113.36
+C360,electricity bill,Monthly,2025-07-17,-1500.0
+C360,flipkart,Weekly,2025-07-03,-1046.96
+C360,gym membership,Monthly,2025-07-06,-1200.0
+C360,medical store,Weekly,2025-07-06,-995.27
+C360,petrol pump,Weekly,2025-06-27,-976.26
+C360,reliance smart,Weekly,2025-07-06,-1186.55
+C360,spotify,Monthly,2025-07-14,-199.0
+C360,swiggy,Weekly,2025-06-23,-1071.95
+C361,cafe coffee day,Weekly,2025-07-03,-1013.58
+C361,company,Monthly,2025-05-31,32654.25
+C361,flipkart,Weekly,2025-07-02,-1054.96
+C361,gym membership,Monthly,2025-07-14,-1200.0
+C361,petrol pump,Weekly,2025-06-19,-1063.96
+C361,reliance smart,Weekly,2025-06-30,-996.14
+C361,spotify,Monthly,2025-07-18,-199.0
+C361,swiggy,Weekly,2025-07-06,-968.48
+C361,uber,Weekly,2025-06-18,-1059.61
+C362,cafe coffee day,Weekly,2025-06-18,-928.61
+C362,dmart,Weekly,2025-06-30,-946.95
+C362,flipkart,Weekly,2025-06-23,-1111.46
+C362,netflix,Monthly,2025-07-19,-499.0
+C362,reliance smart,Weekly,2025-07-02,-1149.56
+C362,spotify,Monthly,2025-07-05,-199.0
+C362,swiggy,Weekly,2025-06-12,-1114.17
+C362,uber,Weekly,2025-07-05,-966.86
+C362,zomato,Weekly,2025-07-06,-1218.96
+C363,amazon prime,Monthly,2025-07-18,-999.0
+C363,cafe coffee day,Weekly,2025-06-28,-977.26
+C363,company,Monthly,2025-07-05,43062.25
+C363,flipkart,Weekly,2025-07-06,-1082.12
+C363,petrol pump,Weekly,2025-06-30,-992.88
+C363,reliance smart,Weekly,2025-06-08,-1193.75
+C363,swiggy,Weekly,2025-07-06,-1079.93
+C363,uber,Weekly,2025-07-04,-1214.94
+C364,cafe coffee day,Weekly,2025-06-10,-1109.75
+C364,dmart,Weekly,2025-06-30,-1165.75
+C364,electricity bill,Monthly,2025-07-11,-1500.0
+C364,flipkart,Weekly,2025-07-04,-972.25
+C364,medical store,Weekly,2025-07-02,-930.5
+C364,netflix,Monthly,2025-07-10,-499.0
+C364,petrol pump,Weekly,2025-07-04,-1023.37
+C364,reliance smart,Weekly,2025-06-27,-794.26
+C364,swiggy,Weekly,2025-07-01,-903.62
+C364,zomato,Weekly,2025-06-14,-1067.17
+C365,cafe coffee day,Weekly,2025-07-03,-970.75
+C365,electricity bill,Monthly,2025-07-27,-1500.0
+C365,flipkart,Weekly,2025-07-02,-1136.86
+C365,netflix,Monthly,2025-07-11,-499.0
+C365,petrol pump,Weekly,2025-06-27,-1122.56
+C365,reliance smart,Weekly,2025-06-13,-985.16
+C365,spotify,Monthly,2025-07-21,-199.0
+C365,swiggy,Weekly,2025-07-05,-1021.86
+C365,zomato,Weekly,2025-05-30,-793.35
+C366,cafe coffee day,Weekly,2025-07-01,-1171.2
+C366,dmart,Weekly,2025-07-05,-1219.52
+C366,electricity bill,Monthly,2025-07-27,-1500.0
+C366,flipkart,Weekly,2025-06-27,-930.24
+C366,gym membership,Monthly,2025-07-11,-1200.0
+C366,medical store,Weekly,2025-06-28,-1026.69
+C366,netflix,Monthly,2025-07-16,-499.0
+C366,petrol pump,Weekly,2025-06-21,-1204.83
+C366,reliance smart,Weekly,2025-06-22,-1245.95
+C366,swiggy,Weekly,2025-06-24,-929.39
+C366,uber,Weekly,2025-07-03,-930.96
+C367,cafe coffee day,Weekly,2025-07-06,-1138.14
+C367,electricity bill,Monthly,2025-07-24,-1500.0
+C367,flipkart,Weekly,2025-06-25,-1232.36
+C367,gym membership,Monthly,2025-07-18,-1200.0
+C367,netflix,Monthly,2025-07-03,-499.0
+C367,reliance smart,Weekly,2025-07-01,-966.58
+C367,swiggy,Weekly,2025-06-30,-1056.95
+C367,uber,Weekly,2025-07-06,-1142.55
+C367,zomato,Weekly,2025-07-02,-1363.65
+C368,amazon prime,Monthly,2025-07-04,-999.0
+C368,cafe coffee day,Weekly,2025-06-23,-978.1
+C368,company,Monthly,2025-06-01,32250.25
+C368,flipkart,Weekly,2025-06-11,-1228.75
+C368,gym membership,Monthly,2025-07-18,-1200.0
+C368,netflix,Monthly,2025-07-05,-499.0
+C368,reliance smart,Weekly,2025-06-28,-1103.85
+C368,swiggy,Weekly,2025-07-02,-1064.16
+C368,uber,Weekly,2025-07-04,-848.35
+C368,zomato,Weekly,2025-07-04,-1066.88
+C369,amazon prime,Monthly,2025-07-19,-999.0
+C369,gym membership,Monthly,2025-07-05,-1200.0
+C369,medical store,Weekly,2025-07-06,-828.12
+C369,netflix,Monthly,2025-07-25,-499.0
+C369,petrol pump,Weekly,2025-06-29,-1277.88
+C369,reliance smart,Weekly,2025-06-03,-1050.35
+C369,swiggy,Weekly,2025-07-06,-1111.04
+C369,uber,Weekly,2025-06-24,-1241.9
+C369,zomato,Weekly,2025-06-27,-1042.59
+C37,amazon prime,Monthly,2025-07-15,-999.0
+C37,dmart,Weekly,2025-06-21,-1080.13
+C37,electricity bill,Monthly,2025-07-18,-1500.0
+C37,medical store,Weekly,2025-07-06,-1052.62
+C37,netflix,Monthly,2025-07-18,-499.0
+C37,swiggy,Weekly,2025-07-06,-1250.7
+C37,uber,Weekly,2025-06-20,-1049.35
+C370,company,Monthly,2025-06-03,30580.8
+C370,dmart,Weekly,2025-07-01,-1069.74
+C370,gym membership,Monthly,2025-07-01,-1200.0
+C370,petrol pump,Weekly,2025-06-28,-975.42
+C370,spotify,Monthly,2025-07-12,-199.0
+C370,swiggy,Weekly,2025-07-04,-1086.5
+C370,uber,Weekly,2025-06-22,-1032.52
+C370,zomato,Weekly,2025-07-06,-1047.1
+C371,amazon prime,Monthly,2025-07-01,-999.0
+C371,dmart,Weekly,2025-06-30,-1143.43
+C371,electricity bill,Monthly,2025-07-12,-1500.0
+C371,flipkart,Weekly,2025-07-06,-1126.4
+C371,medical store,Weekly,2025-07-05,-914.25
+C371,petrol pump,Weekly,2025-07-02,-1023.08
+C371,reliance smart,Weekly,2025-07-06,-1127.16
+C371,swiggy,Weekly,2025-07-05,-1156.0
+C371,uber,Weekly,2025-06-13,-961.96
+C372,amazon prime,Monthly,2025-07-07,-999.0
+C372,company,Monthly,2025-07-03,36865.2
+C372,dmart,Weekly,2025-06-26,-973.79
+C372,electricity bill,Monthly,2025-07-12,-1500.0
+C372,medical store,Weekly,2025-07-04,-1076.81
+C372,reliance smart,Weekly,2025-07-02,-1014.6
+C372,spotify,Monthly,2025-07-19,-199.0
+C372,swiggy,Weekly,2025-06-16,-1181.78
+C372,zomato,Weekly,2025-06-29,-1035.0
+C373,cafe coffee day,Weekly,2025-06-29,-1097.3
+C373,flipkart,Weekly,2025-06-27,-833.26
+C373,petrol pump,Weekly,2025-06-26,-870.55
+C373,reliance smart,Weekly,2025-07-05,-1096.0
+C373,spotify,Monthly,2025-07-11,-199.0
+C374,cafe coffee day,Weekly,2025-07-05,-976.0
+C374,dmart,Weekly,2025-07-04,-1051.58
+C374,electricity bill,Monthly,2025-07-03,-1500.0
+C374,flipkart,Weekly,2025-07-05,-1079.38
+C374,reliance smart,Weekly,2025-06-17,-975.56
+C374,swiggy,Weekly,2025-06-10,-1062.56
+C374,uber,Weekly,2025-06-26,-1351.63
+C374,zomato,Weekly,2025-06-30,-1093.84
+C375,amazon prime,Monthly,2025-07-26,-999.0
+C375,dmart,Weekly,2025-06-26,-1031.78
+C375,electricity bill,Monthly,2025-07-21,-1500.0
+C375,flipkart,Weekly,2025-07-05,-856.89
+C375,gym membership,Monthly,2025-07-04,-1200.0
+C375,medical store,Weekly,2025-07-03,-750.18
+C375,petrol pump,Weekly,2025-07-04,-886.0
+C375,swiggy,Weekly,2025-06-21,-1119.0
+C375,zomato,Weekly,2025-06-16,-848.45
+C376,amazon prime,Monthly,2025-07-22,-999.0
+C376,cafe coffee day,Weekly,2025-07-06,-923.35
+C376,company,Monthly,2025-06-02,34082.2
+C376,flipkart,Weekly,2025-07-06,-1087.75
+C376,gym membership,Monthly,2025-07-21,-1200.0
+C376,medical store,Weekly,2025-07-05,-1008.95
+C376,netflix,Monthly,2025-07-19,-499.0
+C376,swiggy,Weekly,2025-06-16,-1278.0
+C376,zomato,Weekly,2025-06-13,-995.94
+C377,cafe coffee day,Weekly,2025-06-19,-1159.04
+C377,electricity bill,Monthly,2025-07-08,-1500.0
+C377,flipkart,Weekly,2025-06-27,-1085.25
+C377,medical store,Weekly,2025-07-05,-1019.0
+C377,petrol pump,Weekly,2025-06-26,-1100.86
+C377,reliance smart,Weekly,2025-06-17,-1278.05
+C377,spotify,Monthly,2025-07-11,-199.0
+C377,uber,Weekly,2025-06-25,-977.63
+C377,zomato,Weekly,2025-06-14,-1036.75
+C378,cafe coffee day,Weekly,2025-07-01,-1062.0
+C378,company,Monthly,2025-06-02,40586.33
+C378,electricity bill,Monthly,2025-07-24,-1500.0
+C378,medical store,Weekly,2025-06-30,-1161.86
+C378,petrol pump,Weekly,2025-06-17,-951.17
+C378,reliance smart,Weekly,2025-07-04,-1052.67
+C378,swiggy,Weekly,2025-07-04,-1185.86
+C378,zomato,Weekly,2025-06-13,-912.67
+C379,amazon prime,Monthly,2025-07-08,-999.0
+C379,cafe coffee day,Weekly,2025-07-01,-952.3
+C379,dmart,Weekly,2025-07-05,-1130.43
+C379,electricity bill,Monthly,2025-07-26,-1500.0
+C379,flipkart,Weekly,2025-07-05,-1228.71
+C379,netflix,Monthly,2025-07-09,-499.0
+C379,petrol pump,Weekly,2025-06-30,-1112.48
+C379,reliance smart,Weekly,2025-06-17,-1108.56
+C379,swiggy,Weekly,2025-06-15,-882.0
+C379,zomato,Weekly,2025-06-27,-1096.25
+C38,cafe coffee day,Weekly,2025-06-12,-1097.96
+C38,medical store,Weekly,2025-07-05,-1114.16
+C38,netflix,Monthly,2025-07-21,-499.0
+C38,petrol pump,Weekly,2025-06-09,-1064.71
+C38,reliance smart,Weekly,2025-06-26,-1242.56
+C38,spotify,Monthly,2025-07-05,-199.0
+C38,swiggy,Weekly,2025-07-06,-994.38
+C38,uber,Weekly,2025-06-22,-948.71
+C38,zomato,Weekly,2025-07-01,-998.0
+C380,cafe coffee day,Weekly,2025-07-04,-1124.54
+C380,company,Monthly,2025-07-05,36420.6
+C380,flipkart,Weekly,2025-07-05,-1136.86
+C380,medical store,Weekly,2025-06-17,-941.55
+C380,netflix,Monthly,2025-07-11,-499.0
+C380,spotify,Monthly,2025-07-07,-199.0
+C380,swiggy,Weekly,2025-06-06,-991.94
+C380,uber,Weekly,2025-06-22,-765.83
+C380,zomato,Weekly,2025-07-01,-928.27
+C381,cafe coffee day,Weekly,2025-07-06,-1278.19
+C381,dmart,Weekly,2025-07-03,-1000.95
+C381,flipkart,Weekly,2025-07-05,-1010.25
+C381,gym membership,Monthly,2025-07-12,-1200.0
+C381,petrol pump,Weekly,2025-07-04,-955.23
+C381,uber,Weekly,2025-06-30,-995.56
+C381,zomato,Weekly,2025-06-10,-1143.8
+C382,dmart,Weekly,2025-07-04,-790.0
+C382,medical store,Weekly,2025-06-19,-1110.85
+C382,spotify,Monthly,2025-07-27,-199.0
+C382,swiggy,Weekly,2025-06-21,-1058.46
+C382,uber,Weekly,2025-06-29,-1048.0
+C382,zomato,Weekly,2025-06-24,-1062.05
+C383,cafe coffee day,Weekly,2025-06-25,-1002.62
+C383,dmart,Weekly,2025-07-01,-1123.1
+C383,electricity bill,Monthly,2025-07-20,-1500.0
+C383,flipkart,Weekly,2025-07-05,-1022.12
+C383,gym membership,Monthly,2025-07-13,-1200.0
+C383,medical store,Weekly,2025-07-02,-1037.27
+C383,petrol pump,Weekly,2025-07-06,-1071.42
+C383,uber,Weekly,2025-06-30,-666.0
+C383,zomato,Weekly,2025-07-06,-996.33
+C384,cafe coffee day,Weekly,2025-06-22,-1082.35
+C384,company,Monthly,2025-07-02,46171.25
+C384,dmart,Weekly,2025-07-02,-993.75
+C384,electricity bill,Monthly,2025-07-24,-1500.0
+C384,netflix,Monthly,2025-07-26,-499.0
+C384,petrol pump,Weekly,2025-07-04,-957.05
+C384,swiggy,Weekly,2025-06-30,-1187.83
+C384,zomato,Weekly,2025-06-20,-1026.9
+C385,company,Monthly,2025-07-05,35006.83
+C385,dmart,Weekly,2025-07-04,-1283.47
+C385,flipkart,Weekly,2025-06-19,-921.56
+C385,gym membership,Monthly,2025-07-14,-1200.0
+C385,medical store,Weekly,2025-06-22,-961.9
+C385,netflix,Monthly,2025-07-02,-499.0
+C385,petrol pump,Weekly,2025-06-04,-1000.59
+C385,reliance smart,Weekly,2025-06-24,-1166.07
+C385,swiggy,Weekly,2025-07-01,-945.0
+C385,zomato,Weekly,2025-06-23,-1239.06
+C386,dmart,Weekly,2025-06-28,-1103.85
+C386,medical store,Weekly,2025-07-05,-887.52
+C386,petrol pump,Weekly,2025-06-28,-982.15
+C386,reliance smart,Weekly,2025-07-03,-1064.72
+C386,spotify,Monthly,2025-07-28,-199.0
+C386,swiggy,Weekly,2025-06-19,-1002.89
+C386,uber,Weekly,2025-07-06,-1010.05
+C387,cafe coffee day,Weekly,2025-07-01,-1250.3
+C387,dmart,Weekly,2025-07-05,-1226.25
+C387,gym membership,Monthly,2025-07-26,-1200.0
+C387,medical store,Weekly,2025-07-06,-1176.35
+C387,petrol pump,Weekly,2025-06-30,-1032.12
+C387,reliance smart,Weekly,2025-07-02,-1143.83
+C387,swiggy,Weekly,2025-06-18,-1205.44
+C387,uber,Weekly,2025-06-07,-1091.87
+C387,zomato,Weekly,2025-07-06,-1086.05
+C388,company,Monthly,2025-07-04,38879.14
+C388,dmart,Weekly,2025-07-06,-1051.4
+C388,gym membership,Monthly,2025-07-28,-1200.0
+C388,medical store,Weekly,2025-06-23,-1103.68
+C388,netflix,Monthly,2025-07-04,-499.0
+C388,petrol pump,Weekly,2025-06-29,-785.41
+C388,reliance smart,Weekly,2025-06-28,-804.85
+C388,uber,Weekly,2025-05-24,-1119.87
+C388,zomato,Weekly,2025-06-23,-1142.21
+C389,dmart,Weekly,2025-06-26,-1009.0
+C389,gym membership,Monthly,2025-07-10,-1200.0
+C389,medical store,Weekly,2025-07-01,-922.11
+C389,reliance smart,Weekly,2025-06-29,-1179.18
+C389,swiggy,Weekly,2025-06-27,-1404.2
+C389,uber,Weekly,2025-07-03,-1102.39
+C39,cafe coffee day,Weekly,2025-07-01,-1043.03
+C39,dmart,Weekly,2025-07-04,-869.26
+C39,electricity bill,Monthly,2025-07-14,-1500.0
+C39,gym membership,Monthly,2025-07-11,-1200.0
+C39,medical store,Weekly,2025-06-26,-938.36
+C39,reliance smart,Weekly,2025-06-28,-839.5
+C39,swiggy,Weekly,2025-06-20,-989.85
+C39,uber,Weekly,2025-07-02,-1021.43
+C39,zomato,Weekly,2025-07-02,-1001.53
+C390,amazon prime,Monthly,2025-07-28,-999.0
+C390,cafe coffee day,Weekly,2025-06-16,-1060.6
+C390,dmart,Weekly,2025-07-01,-1116.81
+C390,electricity bill,Monthly,2025-07-03,-1500.0
+C390,medical store,Weekly,2025-06-27,-996.6
+C390,petrol pump,Weekly,2025-07-06,-1090.1
+C390,spotify,Monthly,2025-07-14,-199.0
+C390,swiggy,Weekly,2025-07-04,-1010.94
+C390,uber,Weekly,2025-07-06,-1028.61
+C390,zomato,Weekly,2025-06-20,-1051.71
+C391,amazon prime,Monthly,2025-07-08,-999.0
+C391,cafe coffee day,Weekly,2025-07-05,-905.56
+C391,electricity bill,Monthly,2025-07-22,-1500.0
+C391,flipkart,Weekly,2025-06-28,-1136.23
+C391,gym membership,Monthly,2025-07-16,-1200.0
+C391,medical store,Weekly,2025-06-30,-1063.07
+C391,petrol pump,Weekly,2025-06-27,-1117.68
+C391,reliance smart,Weekly,2025-06-26,-1021.17
+C391,uber,Weekly,2025-06-23,-1474.0
+C391,zomato,Weekly,2025-06-20,-1137.32
+C392,cafe coffee day,Weekly,2025-06-23,-1208.76
+C392,dmart,Weekly,2025-07-05,-987.92
+C392,flipkart,Weekly,2025-06-20,-1299.29
+C392,gym membership,Monthly,2025-07-11,-1200.0
+C392,medical store,Weekly,2025-06-14,-895.72
+C392,petrol pump,Weekly,2025-06-27,-1017.23
+C392,swiggy,Weekly,2025-07-06,-829.53
+C392,uber,Weekly,2025-06-19,-1205.54
+C393,amazon prime,Monthly,2025-07-07,-999.0
+C393,dmart,Weekly,2025-07-03,-1162.48
+C393,flipkart,Weekly,2025-07-02,-1038.89
+C393,medical store,Weekly,2025-07-04,-980.38
+C393,petrol pump,Weekly,2025-06-27,-1154.09
+C393,reliance smart,Weekly,2025-06-28,-1113.71
+C393,swiggy,Weekly,2025-06-18,-938.05
+C393,uber,Weekly,2025-07-05,-927.19
+C393,zomato,Weekly,2025-06-26,-1185.28
+C394,cafe coffee day,Weekly,2025-07-02,-1084.61
+C394,dmart,Weekly,2025-07-04,-1004.41
+C394,flipkart,Weekly,2025-06-23,-1327.85
+C394,petrol pump,Weekly,2025-06-28,-1140.68
+C394,reliance smart,Weekly,2025-07-03,-1088.28
+C394,spotify,Monthly,2025-07-20,-199.0
+C394,uber,Weekly,2025-06-22,-1055.5
+C394,zomato,Weekly,2025-07-04,-879.76
+C395,amazon prime,Monthly,2025-07-16,-999.0
+C395,cafe coffee day,Weekly,2025-07-03,-1279.61
+C395,dmart,Weekly,2025-06-28,-1194.43
+C395,medical store,Weekly,2025-06-28,-1317.78
+C395,petrol pump,Weekly,2025-06-29,-1092.33
+C395,reliance smart,Weekly,2025-07-02,-1161.79
+C395,swiggy,Weekly,2025-07-02,-1123.72
+C395,uber,Weekly,2025-06-21,-1102.05
+C395,zomato,Weekly,2025-06-25,-976.65
+C396,cafe coffee day,Weekly,2025-06-26,-998.56
+C396,company,Monthly,2025-06-04,39085.0
+C396,dmart,Weekly,2025-06-30,-998.77
+C396,gym membership,Monthly,2025-07-17,-1200.0
+C396,netflix,Monthly,2025-07-20,-499.0
+C396,petrol pump,Weekly,2025-07-03,-1009.45
+C396,reliance smart,Weekly,2025-07-05,-975.3
+C396,swiggy,Weekly,2025-06-29,-1100.95
+C396,uber,Weekly,2025-07-06,-1025.94
+C396,zomato,Weekly,2025-07-06,-933.38
+C397,amazon prime,Monthly,2025-07-12,-999.0
+C397,dmart,Weekly,2025-06-20,-930.19
+C397,electricity bill,Monthly,2025-07-10,-1500.0
+C397,gym membership,Monthly,2025-07-16,-1200.0
+C397,medical store,Weekly,2025-07-02,-938.71
+C397,petrol pump,Weekly,2025-06-30,-1054.72
+C397,reliance smart,Weekly,2025-07-04,-868.84
+C397,swiggy,Weekly,2025-06-28,-1183.21
+C397,uber,Weekly,2025-07-06,-1013.88
+C397,zomato,Weekly,2025-06-28,-887.09
+C398,cafe coffee day,Weekly,2025-07-01,-1084.89
+C398,flipkart,Weekly,2025-06-21,-1015.7
+C398,gym membership,Monthly,2025-07-04,-1200.0
+C398,medical store,Weekly,2025-06-26,-987.46
+C398,reliance smart,Weekly,2025-07-04,-917.0
+C398,uber,Weekly,2025-07-01,-1026.12
+C399,cafe coffee day,Weekly,2025-06-23,-1115.26
+C399,electricity bill,Monthly,2025-07-25,-1500.0
+C399,flipkart,Weekly,2025-06-29,-1142.18
+C399,medical store,Weekly,2025-07-05,-922.22
+C399,spotify,Monthly,2025-07-01,-199.0
+C399,swiggy,Weekly,2025-06-29,-908.9
+C399,uber,Weekly,2025-05-26,-1158.68
+C399,zomato,Weekly,2025-06-28,-1071.1
+C4,amazon prime,Monthly,2025-07-17,-999.0
+C4,company,Monthly,2025-07-04,32078.29
+C4,flipkart,Weekly,2025-07-06,-812.86
+C4,medical store,Weekly,2025-07-05,-1132.3
+C4,netflix,Monthly,2025-07-23,-499.0
+C4,petrol pump,Weekly,2025-06-27,-1171.3
+C4,reliance smart,Weekly,2025-06-28,-930.04
+C4,swiggy,Weekly,2025-06-25,-908.76
+C4,zomato,Weekly,2025-05-28,-1055.83
+C40,amazon prime,Monthly,2025-07-01,-999.0
+C40,company,Monthly,2025-06-02,37156.0
+C40,dmart,Weekly,2025-07-06,-1023.62
+C40,electricity bill,Monthly,2025-07-28,-1500.0
+C40,flipkart,Weekly,2025-06-22,-940.58
+C40,medical store,Weekly,2025-07-05,-905.67
+C40,netflix,Monthly,2025-07-19,-499.0
+C40,petrol pump,Weekly,2025-06-13,-1026.21
+C40,reliance smart,Weekly,2025-07-04,-1226.43
+C40,uber,Weekly,2025-06-21,-1125.29
+C40,zomato,Weekly,2025-07-04,-885.7
+C400,amazon prime,Monthly,2025-07-07,-999.0
+C400,petrol pump,Weekly,2025-06-27,-833.16
+C400,reliance smart,Weekly,2025-06-21,-993.79
+C400,uber,Weekly,2025-07-03,-1056.47
+C401,cafe coffee day,Weekly,2025-07-01,-1077.48
+C401,dmart,Weekly,2025-07-02,-1383.05
+C401,electricity bill,Monthly,2025-07-01,-1500.0
+C401,medical store,Weekly,2025-06-27,-1008.89
+C401,petrol pump,Weekly,2025-07-06,-1135.85
+C401,swiggy,Weekly,2025-06-23,-957.16
+C401,uber,Weekly,2025-07-06,-1210.41
+C402,amazon prime,Monthly,2025-07-16,-999.0
+C402,cafe coffee day,Weekly,2025-06-18,-955.76
+C402,company,Monthly,2025-06-03,30330.8
+C402,electricity bill,Monthly,2025-07-07,-1500.0
+C402,flipkart,Weekly,2025-06-23,-811.75
+C402,petrol pump,Weekly,2025-06-26,-1123.48
+C402,reliance smart,Weekly,2025-06-28,-1054.71
+C402,swiggy,Weekly,2025-06-25,-1016.74
+C402,uber,Weekly,2025-07-06,-1011.26
+C402,zomato,Weekly,2025-06-23,-964.95
+C403,amazon prime,Monthly,2025-07-04,-999.0
+C403,cafe coffee day,Weekly,2025-06-29,-1118.22
+C403,dmart,Weekly,2025-06-19,-1238.48
+C403,electricity bill,Monthly,2025-07-09,-1500.0
+C403,flipkart,Weekly,2025-06-17,-1288.5
+C403,netflix,Monthly,2025-07-16,-499.0
+C403,swiggy,Weekly,2025-07-06,-1187.29
+C403,uber,Weekly,2025-07-06,-769.9
+C403,zomato,Weekly,2025-07-03,-813.94
+C404,amazon prime,Monthly,2025-07-12,-999.0
+C404,cafe coffee day,Weekly,2025-07-01,-1228.7
+C404,dmart,Weekly,2025-07-03,-1226.33
+C404,electricity bill,Monthly,2025-07-02,-1500.0
+C404,netflix,Monthly,2025-07-16,-499.0
+C404,petrol pump,Weekly,2025-07-05,-1209.0
+C404,reliance smart,Weekly,2025-07-04,-1069.42
+C404,uber,Weekly,2025-07-01,-1162.96
+C405,amazon prime,Monthly,2025-07-03,-999.0
+C405,cafe coffee day,Weekly,2025-07-04,-1064.26
+C405,electricity bill,Monthly,2025-07-01,-1500.0
+C405,flipkart,Weekly,2025-06-26,-1128.29
+C405,gym membership,Monthly,2025-07-15,-1200.0
+C405,medical store,Weekly,2025-07-03,-1209.95
+C405,petrol pump,Weekly,2025-07-05,-859.5
+C405,reliance smart,Weekly,2025-07-05,-1053.47
+C405,swiggy,Weekly,2025-07-06,-1010.57
+C405,uber,Weekly,2025-06-22,-1007.33
+C406,cafe coffee day,Weekly,2025-06-28,-958.73
+C406,company,Monthly,2025-06-03,37912.4
+C406,electricity bill,Monthly,2025-07-11,-1500.0
+C406,gym membership,Monthly,2025-07-19,-1200.0
+C406,medical store,Weekly,2025-06-24,-1100.96
+C406,netflix,Monthly,2025-07-17,-499.0
+C406,reliance smart,Weekly,2025-06-03,-1019.69
+C406,swiggy,Weekly,2025-06-11,-926.59
+C407,cafe coffee day,Weekly,2025-07-04,-1036.62
+C407,dmart,Weekly,2025-07-03,-1057.62
+C407,flipkart,Weekly,2025-07-06,-1412.43
+C407,medical store,Weekly,2025-07-04,-1161.79
+C407,netflix,Monthly,2025-07-21,-499.0
+C407,petrol pump,Weekly,2025-06-14,-1093.17
+C407,reliance smart,Weekly,2025-07-02,-1077.96
+C407,spotify,Monthly,2025-07-24,-199.0
+C407,uber,Weekly,2025-06-13,-1159.95
+C408,amazon prime,Monthly,2025-07-21,-999.0
+C408,cafe coffee day,Weekly,2025-06-29,-1290.25
+C408,dmart,Weekly,2025-07-03,-1103.7
+C408,flipkart,Weekly,2025-06-29,-1071.1
+C408,medical store,Weekly,2025-06-14,-930.89
+C408,petrol pump,Weekly,2025-06-22,-973.16
+C408,swiggy,Weekly,2025-07-05,-1142.32
+C408,uber,Weekly,2025-06-23,-1008.29
+C409,company,Monthly,2025-07-05,32623.83
+C409,dmart,Weekly,2025-06-26,-1063.17
+C409,electricity bill,Monthly,2025-07-03,-1500.0
+C409,petrol pump,Weekly,2025-06-29,-980.09
+C409,reliance smart,Weekly,2025-07-02,-979.48
+C409,swiggy,Weekly,2025-07-04,-1298.3
+C409,zomato,Weekly,2025-07-03,-1019.81
+C41,cafe coffee day,Weekly,2025-06-16,-912.95
+C41,flipkart,Weekly,2025-07-06,-1042.85
+C41,medical store,Weekly,2025-06-27,-799.57
+C41,netflix,Monthly,2025-07-21,-499.0
+C41,reliance smart,Weekly,2025-07-05,-1194.0
+C41,spotify,Monthly,2025-07-15,-199.0
+C41,swiggy,Weekly,2025-06-19,-1180.81
+C41,zomato,Weekly,2025-07-04,-1067.76
+C410,amazon prime,Monthly,2025-07-13,-999.0
+C410,company,Monthly,2025-06-01,30333.0
+C410,dmart,Weekly,2025-07-03,-917.67
+C410,flipkart,Weekly,2025-07-01,-894.68
+C410,medical store,Weekly,2025-06-22,-1094.05
+C410,netflix,Monthly,2025-07-05,-499.0
+C410,petrol pump,Weekly,2025-07-04,-986.32
+C410,reliance smart,Weekly,2025-07-06,-789.81
+C410,spotify,Monthly,2025-07-11,-199.0
+C410,swiggy,Weekly,2025-06-14,-981.21
+C410,uber,Weekly,2025-07-03,-935.97
+C410,zomato,Weekly,2025-06-28,-950.89
+C411,cafe coffee day,Weekly,2025-06-29,-1110.04
+C411,dmart,Weekly,2025-06-28,-983.17
+C411,electricity bill,Monthly,2025-07-20,-1500.0
+C411,flipkart,Weekly,2025-07-06,-1100.5
+C411,petrol pump,Weekly,2025-07-03,-1260.14
+C411,reliance smart,Weekly,2025-06-21,-916.78
+C411,swiggy,Weekly,2025-06-29,-772.42
+C411,uber,Weekly,2025-07-04,-997.91
+C412,flipkart,Weekly,2025-06-15,-1106.88
+C412,gym membership,Monthly,2025-07-13,-1200.0
+C412,medical store,Weekly,2025-06-13,-1288.26
+C412,reliance smart,Weekly,2025-06-22,-876.62
+C412,uber,Weekly,2025-07-06,-1201.05
+C413,amazon prime,Monthly,2025-07-05,-999.0
+C413,cafe coffee day,Weekly,2025-06-23,-833.78
+C413,company,Monthly,2025-06-02,29949.67
+C413,flipkart,Weekly,2025-07-03,-982.35
+C413,gym membership,Monthly,2025-07-10,-1200.0
+C413,spotify,Monthly,2025-07-15,-199.0
+C413,swiggy,Weekly,2025-07-05,-1101.1
+C413,uber,Weekly,2025-06-25,-1026.62
+C413,zomato,Weekly,2025-06-26,-989.6
+C414,company,Monthly,2025-07-04,40922.14
+C414,dmart,Weekly,2025-06-19,-962.53
+C414,electricity bill,Monthly,2025-07-28,-1500.0
+C414,flipkart,Weekly,2025-06-25,-1157.0
+C414,netflix,Monthly,2025-07-02,-499.0
+C414,petrol pump,Weekly,2025-07-04,-1179.78
+C414,spotify,Monthly,2025-07-18,-199.0
+C414,swiggy,Weekly,2025-07-04,-1148.85
+C414,uber,Weekly,2025-07-01,-1342.55
+C414,zomato,Weekly,2025-07-03,-1013.14
+C415,amazon prime,Monthly,2025-07-18,-999.0
+C415,cafe coffee day,Weekly,2025-07-05,-1084.14
+C415,electricity bill,Monthly,2025-07-04,-1500.0
+C415,flipkart,Weekly,2025-06-27,-1013.22
+C415,medical store,Weekly,2025-06-23,-978.9
+C415,petrol pump,Weekly,2025-06-09,-1069.43
+C415,swiggy,Weekly,2025-06-27,-917.94
+C415,zomato,Weekly,2025-07-01,-959.58
+C416,amazon prime,Monthly,2025-07-13,-999.0
+C416,dmart,Weekly,2025-07-04,-965.57
+C416,electricity bill,Monthly,2025-07-11,-1500.0
+C416,flipkart,Weekly,2025-06-28,-1202.65
+C416,medical store,Weekly,2025-07-04,-1067.8
+C416,spotify,Monthly,2025-07-17,-199.0
+C416,swiggy,Weekly,2025-07-02,-1084.89
+C416,uber,Weekly,2025-06-30,-1090.9
+C416,zomato,Weekly,2025-07-02,-1214.89
+C417,amazon prime,Monthly,2025-07-06,-999.0
+C417,cafe coffee day,Weekly,2025-07-06,-860.0
+C417,company,Monthly,2025-07-05,31136.33
+C417,gym membership,Monthly,2025-07-11,-1200.0
+C417,medical store,Weekly,2025-07-06,-1148.38
+C417,netflix,Monthly,2025-07-02,-499.0
+C417,petrol pump,Weekly,2025-07-01,-1231.05
+C417,reliance smart,Weekly,2025-07-03,-975.6
+C417,swiggy,Weekly,2025-06-08,-994.2
+C417,uber,Weekly,2025-06-25,-1053.19
+C417,zomato,Weekly,2025-06-27,-1051.17
+C418,cafe coffee day,Weekly,2025-06-12,-815.45
+C418,company,Monthly,2025-07-04,31320.17
+C418,electricity bill,Monthly,2025-07-24,-1500.0
+C418,gym membership,Monthly,2025-07-01,-1200.0
+C418,medical store,Weekly,2025-07-05,-908.28
+C418,reliance smart,Weekly,2025-06-25,-1087.76
+C418,spotify,Monthly,2025-07-23,-199.0
+C418,swiggy,Weekly,2025-07-04,-862.18
+C418,uber,Weekly,2025-06-15,-1060.68
+C419,amazon prime,Monthly,2025-07-01,-999.0
+C419,cafe coffee day,Weekly,2025-07-04,-866.67
+C419,company,Monthly,2025-07-05,26879.57
+C419,dmart,Weekly,2025-06-21,-1002.15
+C419,flipkart,Weekly,2025-06-25,-984.33
+C419,gym membership,Monthly,2025-07-01,-1200.0
+C419,medical store,Weekly,2025-07-06,-1088.71
+C419,petrol pump,Weekly,2025-07-03,-1009.76
+C419,spotify,Monthly,2025-07-06,-199.0
+C419,swiggy,Weekly,2025-07-01,-1038.88
+C42,amazon prime,Monthly,2025-07-19,-999.0
+C42,company,Monthly,2025-06-01,32422.75
+C42,dmart,Weekly,2025-07-05,-993.7
+C42,flipkart,Weekly,2025-06-27,-915.79
+C42,medical store,Weekly,2025-06-29,-863.38
+C42,petrol pump,Weekly,2025-06-22,-1089.33
+C42,reliance smart,Weekly,2025-07-06,-1116.15
+C42,swiggy,Weekly,2025-07-01,-1088.4
+C42,uber,Weekly,2025-06-27,-1340.67
+C42,zomato,Weekly,2025-06-09,-1064.95
+C420,cafe coffee day,Weekly,2025-06-09,-1051.0
+C420,dmart,Weekly,2025-07-02,-947.45
+C420,electricity bill,Monthly,2025-07-17,-1500.0
+C420,gym membership,Monthly,2025-07-05,-1200.0
+C420,medical store,Weekly,2025-07-01,-899.65
+C420,petrol pump,Weekly,2025-06-09,-1164.9
+C420,reliance smart,Weekly,2025-07-01,-1222.35
+C420,spotify,Monthly,2025-07-17,-199.0
+C420,uber,Weekly,2025-07-02,-1119.0
+C420,zomato,Weekly,2025-06-17,-1077.36
+C421,amazon prime,Monthly,2025-07-06,-999.0
+C421,dmart,Weekly,2025-07-04,-887.55
+C421,flipkart,Weekly,2025-06-24,-1167.68
+C421,medical store,Weekly,2025-06-24,-914.72
+C421,petrol pump,Weekly,2025-07-05,-1059.0
+C421,spotify,Monthly,2025-07-14,-199.0
+C421,swiggy,Weekly,2025-06-21,-1148.05
+C421,uber,Weekly,2025-06-13,-949.0
+C421,zomato,Weekly,2025-07-02,-1304.7
+C422,amazon prime,Monthly,2025-07-22,-999.0
+C422,cafe coffee day,Weekly,2025-07-05,-1081.09
+C422,company,Monthly,2025-05-04,31410.67
+C422,dmart,Weekly,2025-06-15,-1094.29
+C422,electricity bill,Monthly,2025-07-07,-1500.0
+C422,flipkart,Weekly,2025-07-01,-1086.9
+C422,medical store,Weekly,2025-06-17,-1149.59
+C422,netflix,Monthly,2025-07-10,-499.0
+C422,reliance smart,Weekly,2025-07-02,-1168.15
+C422,uber,Weekly,2025-07-02,-936.58
+C422,zomato,Weekly,2025-06-25,-889.1
+C423,amazon prime,Monthly,2025-07-26,-999.0
+C423,cafe coffee day,Weekly,2025-07-03,-1270.79
+C423,flipkart,Weekly,2025-07-01,-1055.38
+C423,petrol pump,Weekly,2025-07-04,-960.85
+C423,reliance smart,Weekly,2025-06-18,-841.33
+C423,spotify,Monthly,2025-07-25,-199.0
+C423,swiggy,Weekly,2025-06-29,-1210.85
+C424,company,Monthly,2025-07-05,31703.57
+C424,dmart,Weekly,2025-07-02,-1226.96
+C424,electricity bill,Monthly,2025-07-18,-1500.0
+C424,petrol pump,Weekly,2025-06-11,-934.7
+C424,reliance smart,Weekly,2025-07-05,-1011.79
+C424,uber,Weekly,2025-07-04,-990.22
+C424,zomato,Weekly,2025-07-06,-1079.61
+C425,amazon prime,Monthly,2025-07-16,-999.0
+C425,cafe coffee day,Weekly,2025-06-27,-1221.95
+C425,netflix,Monthly,2025-07-27,-499.0
+C425,reliance smart,Weekly,2025-06-22,-1042.72
+C425,uber,Weekly,2025-07-04,-959.41
+C426,cafe coffee day,Weekly,2025-07-01,-1020.76
+C426,dmart,Weekly,2025-07-04,-1044.17
+C426,electricity bill,Monthly,2025-07-23,-1500.0
+C426,medical store,Weekly,2025-06-02,-1167.22
+C426,netflix,Monthly,2025-07-21,-499.0
+C426,petrol pump,Weekly,2025-07-04,-1146.57
+C426,reliance smart,Weekly,2025-06-28,-890.29
+C426,spotify,Monthly,2025-07-07,-199.0
+C426,zomato,Weekly,2025-06-24,-962.71
+C427,cafe coffee day,Weekly,2025-06-30,-1113.5
+C427,electricity bill,Monthly,2025-07-21,-1500.0
+C427,flipkart,Weekly,2025-07-06,-991.45
+C427,netflix,Monthly,2025-07-15,-499.0
+C427,reliance smart,Weekly,2025-07-01,-1128.42
+C427,spotify,Monthly,2025-07-25,-199.0
+C427,uber,Weekly,2025-07-05,-923.48
+C427,zomato,Weekly,2025-06-30,-972.42
+C428,cafe coffee day,Weekly,2025-07-02,-1035.55
+C428,company,Monthly,2025-07-04,30796.29
+C428,dmart,Weekly,2025-07-03,-908.64
+C428,electricity bill,Monthly,2025-07-20,-1500.0
+C428,gym membership,Monthly,2025-07-15,-1200.0
+C428,medical store,Weekly,2025-06-27,-1062.21
+C428,netflix,Monthly,2025-07-18,-499.0
+C428,petrol pump,Weekly,2025-07-05,-1158.09
+C428,reliance smart,Weekly,2025-07-01,-1036.22
+C429,cafe coffee day,Weekly,2025-07-06,-1070.29
+C429,dmart,Weekly,2025-06-29,-861.65
+C429,flipkart,Weekly,2025-07-06,-991.42
+C429,medical store,Weekly,2025-06-26,-1069.8
+C429,petrol pump,Weekly,2025-07-03,-964.95
+C429,spotify,Monthly,2025-07-07,-199.0
+C429,swiggy,Weekly,2025-06-30,-1214.67
+C43,cafe coffee day,Weekly,2025-07-01,-957.43
+C43,flipkart,Weekly,2025-07-06,-1046.9
+C43,gym membership,Monthly,2025-07-11,-1200.0
+C43,petrol pump,Weekly,2025-06-27,-1006.37
+C43,reliance smart,Weekly,2025-07-02,-1008.08
+C43,swiggy,Weekly,2025-07-06,-1051.93
+C430,amazon prime,Monthly,2025-07-08,-999.0
+C430,dmart,Weekly,2025-06-25,-1137.53
+C430,flipkart,Weekly,2025-06-29,-996.5
+C430,gym membership,Monthly,2025-07-21,-1200.0
+C430,medical store,Weekly,2025-06-22,-1041.55
+C430,netflix,Monthly,2025-07-21,-499.0
+C430,petrol pump,Weekly,2025-07-06,-1197.3
+C430,reliance smart,Weekly,2025-07-02,-1209.28
+C430,swiggy,Weekly,2025-06-21,-1034.62
+C430,uber,Weekly,2025-07-06,-943.7
+C430,zomato,Weekly,2025-05-25,-1004.95
+C431,amazon prime,Monthly,2025-07-15,-999.0
+C431,dmart,Weekly,2025-07-02,-1063.85
+C431,flipkart,Weekly,2025-07-05,-1109.8
+C431,netflix,Monthly,2025-07-02,-499.0
+C431,petrol pump,Weekly,2025-07-01,-939.52
+C431,reliance smart,Weekly,2025-06-16,-669.93
+C431,spotify,Monthly,2025-07-03,-199.0
+C431,swiggy,Weekly,2025-06-30,-1152.53
+C431,uber,Weekly,2025-07-06,-975.55
+C431,zomato,Weekly,2025-06-27,-821.5
+C432,amazon prime,Monthly,2025-07-25,-999.0
+C432,cafe coffee day,Weekly,2025-06-26,-948.78
+C432,dmart,Weekly,2025-06-14,-945.33
+C432,flipkart,Weekly,2025-07-06,-1051.11
+C432,petrol pump,Weekly,2025-06-23,-911.83
+C432,reliance smart,Weekly,2025-06-29,-1173.04
+C432,swiggy,Weekly,2025-06-30,-1143.18
+C432,zomato,Weekly,2025-07-05,-983.68
+C433,cafe coffee day,Weekly,2025-06-27,-1104.58
+C433,company,Monthly,2025-07-05,34890.57
+C433,netflix,Monthly,2025-07-25,-499.0
+C433,uber,Weekly,2025-06-29,-998.62
+C433,zomato,Weekly,2025-06-24,-1317.75
+C434,amazon prime,Monthly,2025-07-13,-999.0
+C434,cafe coffee day,Weekly,2025-06-19,-1206.22
+C434,flipkart,Weekly,2025-07-04,-1229.05
+C434,petrol pump,Weekly,2025-06-28,-941.17
+C434,reliance smart,Weekly,2025-07-05,-1048.18
+C434,spotify,Monthly,2025-07-18,-199.0
+C434,swiggy,Weekly,2025-07-02,-797.41
+C434,uber,Weekly,2025-07-03,-1105.76
+C435,amazon prime,Monthly,2025-07-09,-999.0
+C435,cafe coffee day,Weekly,2025-07-03,-996.15
+C435,company,Monthly,2025-07-03,31823.33
+C435,medical store,Weekly,2025-06-23,-1239.76
+C435,petrol pump,Weekly,2025-07-03,-951.68
+C435,spotify,Monthly,2025-07-15,-199.0
+C435,swiggy,Weekly,2025-07-04,-1238.74
+C435,uber,Weekly,2025-06-29,-1231.28
+C435,zomato,Weekly,2025-07-06,-1300.67
+C436,amazon prime,Monthly,2025-07-22,-999.0
+C436,cafe coffee day,Weekly,2025-07-05,-1090.7
+C436,company,Monthly,2025-06-01,36162.8
+C436,dmart,Weekly,2025-07-01,-871.68
+C436,electricity bill,Monthly,2025-07-20,-1500.0
+C436,medical store,Weekly,2025-06-07,-1030.7
+C436,petrol pump,Weekly,2025-07-04,-1082.65
+C436,swiggy,Weekly,2025-06-25,-1039.14
+C436,zomato,Weekly,2025-07-01,-1370.28
+C437,cafe coffee day,Weekly,2025-06-19,-1078.67
+C437,dmart,Weekly,2025-06-24,-1184.0
+C437,electricity bill,Monthly,2025-07-01,-1500.0
+C437,flipkart,Weekly,2025-06-14,-1226.06
+C437,petrol pump,Weekly,2025-06-26,-1023.04
+C437,reliance smart,Weekly,2025-07-05,-926.9
+C437,swiggy,Weekly,2025-07-04,-1003.96
+C437,uber,Weekly,2025-07-03,-1090.28
+C437,zomato,Weekly,2025-07-03,-901.82
+C438,amazon prime,Monthly,2025-07-12,-999.0
+C438,cafe coffee day,Weekly,2025-07-05,-1085.14
+C438,company,Monthly,2025-07-03,35464.4
+C438,dmart,Monthly,2025-07-27,-1035.57
+C438,flipkart,Weekly,2025-07-05,-983.68
+C438,medical store,Weekly,2025-07-06,-827.29
+C438,reliance smart,Weekly,2025-07-06,-837.62
+C438,spotify,Monthly,2025-07-21,-199.0
+C438,swiggy,Weekly,2025-07-04,-1069.65
+C438,uber,Weekly,2025-06-27,-861.54
+C439,amazon prime,Monthly,2025-07-16,-999.0
+C439,company,Monthly,2025-07-05,32449.57
+C439,dmart,Weekly,2025-06-29,-942.42
+C439,gym membership,Monthly,2025-07-11,-1200.0
+C439,medical store,Weekly,2025-07-02,-1184.71
+C439,reliance smart,Weekly,2025-07-06,-973.57
+C439,spotify,Monthly,2025-07-15,-199.0
+C439,swiggy,Weekly,2025-06-26,-1068.85
+C439,uber,Weekly,2025-07-05,-819.05
+C439,zomato,Weekly,2025-06-19,-936.0
+C44,dmart,Weekly,2025-07-01,-1082.9
+C44,electricity bill,Monthly,2025-07-02,-1500.0
+C44,flipkart,Weekly,2025-07-03,-1072.68
+C44,medical store,Weekly,2025-06-28,-890.74
+C44,petrol pump,Weekly,2025-06-25,-1037.88
+C44,reliance smart,Weekly,2025-07-03,-1004.95
+C44,zomato,Weekly,2025-07-06,-1035.89
+C440,cafe coffee day,Weekly,2025-07-03,-979.87
+C440,dmart,Weekly,2025-07-04,-1285.85
+C440,flipkart,Weekly,2025-07-02,-1113.12
+C440,petrol pump,Weekly,2025-07-06,-1109.16
+C440,spotify,Monthly,2025-07-06,-199.0
+C440,swiggy,Weekly,2025-06-18,-991.68
+C440,uber,Weekly,2025-06-04,-925.0
+C441,cafe coffee day,Weekly,2025-07-06,-896.05
+C441,dmart,Weekly,2025-06-30,-839.64
+C441,gym membership,Monthly,2025-07-06,-1200.0
+C441,medical store,Weekly,2025-07-05,-1063.13
+C441,petrol pump,Weekly,2025-06-02,-1219.96
+C441,reliance smart,Weekly,2025-06-29,-1227.85
+C441,uber,Weekly,2025-07-04,-1027.52
+C441,zomato,Weekly,2025-06-25,-1010.74
+C442,dmart,Weekly,2025-06-23,-1139.33
+C442,medical store,Weekly,2025-07-01,-972.95
+C442,netflix,Monthly,2025-07-20,-499.0
+C442,petrol pump,Weekly,2025-06-21,-929.26
+C442,reliance smart,Weekly,2025-06-23,-1002.14
+C442,swiggy,Weekly,2025-07-01,-1110.71
+C442,uber,Weekly,2025-06-12,-1130.8
+C442,zomato,Weekly,2025-07-06,-1180.45
+C443,amazon prime,Monthly,2025-07-04,-999.0
+C443,cafe coffee day,Weekly,2025-06-27,-1206.26
+C443,dmart,Weekly,2025-06-29,-1084.05
+C443,flipkart,Weekly,2025-07-06,-851.26
+C443,medical store,Weekly,2025-06-27,-1019.9
+C443,spotify,Monthly,2025-07-21,-199.0
+C443,swiggy,Weekly,2025-06-26,-1153.33
+C443,uber,Weekly,2025-07-06,-929.75
+C443,zomato,Weekly,2025-07-03,-917.08
+C444,cafe coffee day,Weekly,2025-06-15,-1173.9
+C444,dmart,Weekly,2025-06-30,-1332.07
+C444,flipkart,Weekly,2025-07-06,-1175.9
+C444,gym membership,Monthly,2025-07-27,-1200.0
+C444,medical store,Weekly,2025-06-22,-956.44
+C444,netflix,Monthly,2025-07-19,-499.0
+C444,petrol pump,Weekly,2025-06-26,-1012.83
+C444,swiggy,Weekly,2025-07-03,-833.71
+C444,uber,Weekly,2025-07-05,-857.5
+C445,amazon prime,Monthly,2025-07-10,-999.0
+C445,cafe coffee day,Weekly,2025-06-21,-937.52
+C445,company,Monthly,2025-07-05,37899.0
+C445,dmart,Weekly,2025-06-28,-889.36
+C445,flipkart,Weekly,2025-06-29,-1015.86
+C445,gym membership,Monthly,2025-07-18,-1200.0
+C445,medical store,Weekly,2025-07-03,-906.64
+C445,netflix,Monthly,2025-07-15,-499.0
+C445,petrol pump,Weekly,2025-06-04,-1063.55
+C445,swiggy,Weekly,2025-06-15,-1059.29
+C445,zomato,Weekly,2025-05-24,-1042.12
+C446,cafe coffee day,Weekly,2025-06-21,-1090.91
+C446,dmart,Weekly,2025-07-05,-1134.33
+C446,flipkart,Weekly,2025-06-19,-1163.11
+C446,gym membership,Monthly,2025-07-19,-1200.0
+C446,medical store,Weekly,2025-07-05,-1017.18
+C446,reliance smart,Weekly,2025-06-27,-1105.67
+C446,uber,Weekly,2025-06-28,-1131.89
+C447,amazon prime,Monthly,2025-07-03,-999.0
+C447,cafe coffee day,Weekly,2025-07-06,-996.91
+C447,dmart,Weekly,2025-06-25,-1003.95
+C447,flipkart,Weekly,2025-06-30,-1073.57
+C447,medical store,Weekly,2025-07-05,-1030.13
+C447,netflix,Monthly,2025-07-20,-499.0
+C447,petrol pump,Weekly,2025-06-29,-1110.65
+C447,reliance smart,Weekly,2025-06-20,-1247.25
+C447,spotify,Monthly,2025-07-26,-199.0
+C448,cafe coffee day,Weekly,2025-06-29,-1054.63
+C448,dmart,Weekly,2025-06-14,-1082.59
+C448,electricity bill,Monthly,2025-07-17,-1500.0
+C448,flipkart,Weekly,2025-06-22,-1035.94
+C448,petrol pump,Weekly,2025-07-04,-889.76
+C448,reliance smart,Weekly,2025-06-09,-1071.59
+C448,swiggy,Weekly,2025-07-03,-806.09
+C448,uber,Weekly,2025-07-01,-1013.58
+C448,zomato,Weekly,2025-07-02,-1112.59
+C449,amazon prime,Monthly,2025-07-08,-999.0
+C449,company,Monthly,2025-06-04,40072.8
+C449,dmart,Weekly,2025-07-05,-755.22
+C449,electricity bill,Monthly,2025-07-10,-1500.0
+C449,medical store,Weekly,2025-06-29,-1251.32
+C449,petrol pump,Weekly,2025-07-01,-1101.11
+C449,reliance smart,Weekly,2025-06-26,-951.79
+C449,spotify,Monthly,2025-07-08,-199.0
+C449,swiggy,Weekly,2025-06-23,-1139.0
+C45,dmart,Weekly,2025-06-27,-958.29
+C45,electricity bill,Monthly,2025-07-18,-1500.0
+C45,flipkart,Weekly,2025-07-01,-846.57
+C45,gym membership,Monthly,2025-07-11,-1200.0
+C45,netflix,Monthly,2025-07-08,-499.0
+C45,petrol pump,Weekly,2025-06-30,-1070.74
+C45,uber,Weekly,2025-06-20,-846.17
+C45,zomato,Weekly,2025-06-29,-925.89
+C450,cafe coffee day,Weekly,2025-06-28,-977.9
+C450,company,Monthly,2025-06-02,30452.0
+C450,flipkart,Weekly,2025-07-05,-1340.42
+C450,gym membership,Monthly,2025-07-24,-1200.0
+C450,medical store,Weekly,2025-07-03,-1238.73
+C450,netflix,Monthly,2025-07-13,-499.0
+C450,petrol pump,Weekly,2025-07-04,-949.05
+C450,reliance smart,Weekly,2025-07-02,-987.36
+C450,swiggy,Weekly,2025-06-26,-895.1
+C451,amazon prime,Monthly,2025-07-20,-999.0
+C451,company,Monthly,2025-07-04,38876.17
+C451,dmart,Weekly,2025-07-04,-1098.42
+C451,electricity bill,Monthly,2025-07-20,-1500.0
+C451,flipkart,Weekly,2025-07-03,-1102.35
+C451,medical store,Weekly,2025-06-27,-984.42
+C451,petrol pump,Weekly,2025-06-29,-1171.24
+C451,reliance smart,Weekly,2025-07-06,-898.75
+C451,spotify,Monthly,2025-07-12,-199.0
+C451,zomato,Weekly,2025-07-06,-1240.92
+C452,amazon prime,Monthly,2025-07-05,-999.0
+C452,cafe coffee day,Weekly,2025-06-23,-1049.84
+C452,flipkart,Weekly,2025-07-05,-870.3
+C452,netflix,Monthly,2025-07-25,-499.0
+C452,petrol pump,Weekly,2025-07-06,-1075.57
+C452,reliance smart,Weekly,2025-07-01,-1121.59
+C452,spotify,Monthly,2025-07-18,-199.0
+C452,swiggy,Weekly,2025-07-05,-1108.0
+C452,uber,Weekly,2025-06-25,-944.76
+C452,zomato,Weekly,2025-06-28,-1174.06
+C453,amazon prime,Monthly,2025-07-04,-999.0
+C453,cafe coffee day,Weekly,2025-07-04,-1148.0
+C453,dmart,Weekly,2025-06-30,-963.28
+C453,flipkart,Weekly,2025-07-05,-1003.91
+C453,petrol pump,Weekly,2025-06-30,-1110.35
+C453,reliance smart,Weekly,2025-06-21,-903.82
+C453,spotify,Monthly,2025-07-09,-199.0
+C453,uber,Weekly,2025-06-28,-1002.24
+C454,dmart,Weekly,2025-06-25,-930.75
+C454,electricity bill,Monthly,2025-07-13,-1500.0
+C454,netflix,Monthly,2025-07-04,-499.0
+C454,reliance smart,Weekly,2025-06-26,-838.73
+C454,uber,Weekly,2025-06-14,-1097.53
+C454,zomato,Weekly,2025-06-16,-1069.95
+C455,cafe coffee day,Weekly,2025-06-16,-861.75
+C455,dmart,Weekly,2025-07-04,-965.64
+C455,flipkart,Weekly,2025-06-30,-1137.05
+C455,netflix,Monthly,2025-07-15,-499.0
+C455,reliance smart,Weekly,2025-06-28,-937.0
+C455,spotify,Monthly,2025-07-26,-199.0
+C455,swiggy,Weekly,2025-06-26,-1224.19
+C455,uber,Weekly,2025-07-01,-1166.6
+C456,amazon prime,Monthly,2025-07-12,-999.0
+C456,cafe coffee day,Weekly,2025-06-20,-986.39
+C456,electricity bill,Monthly,2025-07-15,-1500.0
+C456,flipkart,Weekly,2025-06-24,-1143.56
+C456,medical store,Weekly,2025-07-02,-1120.26
+C456,petrol pump,Weekly,2025-06-30,-1111.87
+C456,swiggy,Weekly,2025-07-05,-748.05
+C456,uber,Weekly,2025-06-06,-967.0
+C456,zomato,Weekly,2025-07-06,-1126.75
+C457,amazon prime,Monthly,2025-07-17,-999.0
+C457,company,Monthly,2025-07-02,33590.5
+C457,dmart,Weekly,2025-07-06,-992.04
+C457,flipkart,Weekly,2025-06-29,-989.32
+C457,medical store,Weekly,2025-06-27,-976.58
+C457,petrol pump,Weekly,2025-07-05,-1043.48
+C457,spotify,Monthly,2025-07-21,-199.0
+C457,swiggy,Weekly,2025-06-29,-1141.9
+C457,uber,Weekly,2025-07-03,-1144.68
+C457,zomato,Weekly,2025-06-08,-1039.13
+C458,cafe coffee day,Weekly,2025-07-05,-991.64
+C458,electricity bill,Monthly,2025-07-13,-1500.0
+C458,flipkart,Weekly,2025-06-30,-1174.67
+C458,medical store,Weekly,2025-06-27,-1030.24
+C458,netflix,Monthly,2025-07-13,-499.0
+C458,petrol pump,Weekly,2025-07-02,-1115.21
+C458,reliance smart,Weekly,2025-06-19,-1022.62
+C458,spotify,Monthly,2025-07-02,-199.0
+C458,swiggy,Weekly,2025-07-03,-981.69
+C458,uber,Weekly,2025-07-02,-887.95
+C458,zomato,Weekly,2025-06-21,-1073.5
+C459,cafe coffee day,Weekly,2025-07-03,-858.64
+C459,company,Monthly,2025-04-01,28410.0
+C459,dmart,Weekly,2025-06-10,-845.76
+C459,flipkart,Weekly,2025-07-04,-1014.85
+C459,medical store,Weekly,2025-06-21,-1024.9
+C459,netflix,Monthly,2025-07-21,-499.0
+C459,swiggy,Weekly,2025-07-02,-1195.04
+C459,uber,Weekly,2025-06-27,-1243.95
+C459,zomato,Weekly,2025-06-25,-1021.86
+C46,dmart,Weekly,2025-07-04,-1024.5
+C46,flipkart,Weekly,2025-06-30,-903.38
+C46,medical store,Weekly,2025-07-05,-875.89
+C46,petrol pump,Weekly,2025-05-30,-968.4
+C46,reliance smart,Weekly,2025-07-03,-972.1
+C46,spotify,Monthly,2025-07-03,-199.0
+C46,swiggy,Weekly,2025-06-26,-1079.05
+C46,uber,Weekly,2025-06-27,-1165.1
+C46,zomato,Weekly,2025-06-30,-1322.65
+C460,amazon prime,Monthly,2025-07-27,-999.0
+C460,company,Monthly,2025-06-04,46992.0
+C460,electricity bill,Monthly,2025-07-11,-1500.0
+C460,flipkart,Weekly,2025-07-01,-1260.72
+C460,reliance smart,Weekly,2025-05-25,-1006.69
+C460,swiggy,Weekly,2025-07-04,-877.07
+C460,uber,Weekly,2025-07-02,-1053.55
+C460,zomato,Weekly,2025-06-24,-1001.64
+C461,cafe coffee day,Weekly,2025-06-02,-1219.76
+C461,company,Monthly,2025-07-05,38613.43
+C461,dmart,Weekly,2025-07-01,-1128.5
+C461,electricity bill,Monthly,2025-07-06,-1500.0
+C461,flipkart,Weekly,2025-06-20,-1101.39
+C461,medical store,Weekly,2025-06-12,-993.6
+C461,netflix,Monthly,2025-07-08,-499.0
+C461,swiggy,Weekly,2025-06-04,-970.26
+C461,uber,Weekly,2025-06-30,-1065.0
+C461,zomato,Weekly,2025-06-12,-1002.68
+C462,cafe coffee day,Weekly,2025-07-06,-1191.04
+C462,electricity bill,Monthly,2025-07-26,-1500.0
+C462,medical store,Weekly,2025-06-24,-1057.4
+C462,reliance smart,Weekly,2025-07-01,-842.96
+C462,spotify,Monthly,2025-07-15,-199.0
+C462,uber,Weekly,2025-07-02,-1089.2
+C462,zomato,Weekly,2025-06-20,-877.17
+C463,cafe coffee day,Weekly,2025-06-23,-941.24
+C463,company,Monthly,2025-07-02,29813.83
+C463,electricity bill,Monthly,2025-07-02,-1500.0
+C463,netflix,Monthly,2025-07-10,-499.0
+C463,spotify,Monthly,2025-07-14,-199.0
+C463,uber,Weekly,2025-07-06,-1049.33
+C463,zomato,Weekly,2025-06-17,-1015.81
+C464,cafe coffee day,Weekly,2025-06-15,-1050.94
+C464,company,Monthly,2025-06-01,38900.6
+C464,flipkart,Weekly,2025-06-23,-930.32
+C464,medical store,Weekly,2025-06-30,-921.64
+C464,netflix,Monthly,2025-07-04,-499.0
+C464,petrol pump,Weekly,2025-06-26,-835.09
+C464,reliance smart,Weekly,2025-07-05,-913.95
+C464,swiggy,Weekly,2025-07-03,-890.88
+C464,uber,Weekly,2025-07-02,-1042.0
+C464,zomato,Weekly,2025-06-27,-932.67
+C465,amazon prime,Monthly,2025-07-09,-999.0
+C465,cafe coffee day,Weekly,2025-07-05,-1016.41
+C465,company,Monthly,2025-07-01,34086.67
+C465,dmart,Weekly,2025-07-03,-817.83
+C465,flipkart,Weekly,2025-06-26,-919.22
+C465,medical store,Weekly,2025-07-01,-932.12
+C465,netflix,Monthly,2025-07-25,-499.0
+C465,petrol pump,Weekly,2025-06-25,-982.3
+C465,spotify,Monthly,2025-07-23,-199.0
+C465,swiggy,Weekly,2025-07-04,-1041.57
+C465,uber,Weekly,2025-07-02,-905.8
+C465,zomato,Weekly,2025-07-04,-1003.6
+C466,amazon prime,Monthly,2025-07-01,-999.0
+C466,cafe coffee day,Weekly,2025-07-04,-907.84
+C466,company,Monthly,2025-05-05,35817.33
+C466,dmart,Weekly,2025-06-26,-1219.48
+C466,electricity bill,Monthly,2025-07-27,-1500.0
+C466,flipkart,Weekly,2025-06-19,-1102.62
+C466,medical store,Weekly,2025-07-05,-1063.42
+C466,reliance smart,Weekly,2025-07-03,-1130.74
+C466,spotify,Monthly,2025-07-18,-199.0
+C466,uber,Weekly,2025-07-06,-1108.79
+C467,dmart,Weekly,2025-06-04,-993.12
+C467,gym membership,Monthly,2025-07-02,-1200.0
+C467,medical store,Weekly,2025-07-05,-909.11
+C467,reliance smart,Weekly,2025-06-29,-681.47
+C468,company,Monthly,2025-07-05,29015.6
+C468,dmart,Weekly,2025-07-03,-1283.5
+C468,flipkart,Weekly,2025-06-19,-904.88
+C468,netflix,Monthly,2025-07-04,-499.0
+C468,petrol pump,Weekly,2025-07-06,-883.0
+C468,spotify,Monthly,2025-07-04,-199.0
+C468,swiggy,Weekly,2025-07-04,-924.24
+C468,uber,Weekly,2025-06-25,-898.5
+C469,cafe coffee day,Weekly,2025-07-03,-918.56
+C469,dmart,Weekly,2025-06-18,-1026.38
+C469,flipkart,Weekly,2025-06-27,-1235.82
+C469,gym membership,Monthly,2025-07-19,-1200.0
+C469,medical store,Weekly,2025-06-30,-1153.5
+C469,petrol pump,Weekly,2025-07-01,-952.42
+C469,reliance smart,Weekly,2025-06-22,-1232.89
+C469,spotify,Monthly,2025-07-24,-199.0
+C469,uber,Weekly,2025-06-12,-963.62
+C469,zomato,Weekly,2025-07-02,-943.82
+C47,amazon prime,Monthly,2025-07-10,-999.0
+C47,cafe coffee day,Weekly,2025-07-06,-1245.84
+C47,flipkart,Weekly,2025-07-05,-1086.32
+C47,medical store,Weekly,2025-07-04,-1218.61
+C47,netflix,Monthly,2025-07-17,-499.0
+C47,petrol pump,Weekly,2025-06-27,-1057.8
+C47,reliance smart,Weekly,2025-07-05,-1145.39
+C47,zomato,Weekly,2025-06-23,-1049.15
+C470,amazon prime,Monthly,2025-07-21,-999.0
+C470,cafe coffee day,Weekly,2025-06-21,-1124.59
+C470,dmart,Weekly,2025-06-30,-1025.65
+C470,medical store,Weekly,2025-06-23,-895.45
+C470,netflix,Monthly,2025-07-13,-499.0
+C470,petrol pump,Weekly,2025-05-28,-1181.05
+C470,reliance smart,Weekly,2025-07-02,-1149.26
+C470,spotify,Monthly,2025-07-15,-199.0
+C470,swiggy,Weekly,2025-07-02,-1107.08
+C470,zomato,Weekly,2025-07-05,-987.37
+C471,amazon prime,Monthly,2025-07-03,-999.0
+C471,cafe coffee day,Weekly,2025-07-04,-1005.22
+C471,flipkart,Weekly,2025-07-02,-912.2
+C471,medical store,Weekly,2025-06-24,-999.26
+C471,reliance smart,Weekly,2025-07-04,-1097.76
+C471,spotify,Monthly,2025-07-22,-199.0
+C471,swiggy,Weekly,2025-06-30,-1226.24
+C472,amazon prime,Monthly,2025-07-27,-999.0
+C472,cafe coffee day,Weekly,2025-06-27,-814.89
+C472,dmart,Weekly,2025-07-02,-1045.91
+C472,gym membership,Monthly,2025-07-02,-1200.0
+C472,petrol pump,Weekly,2025-07-06,-881.48
+C472,spotify,Monthly,2025-07-18,-199.0
+C472,swiggy,Weekly,2025-07-05,-1042.19
+C472,uber,Weekly,2025-06-25,-1117.2
+C472,zomato,Weekly,2025-07-04,-970.91
+C473,amazon prime,Monthly,2025-07-22,-999.0
+C473,cafe coffee day,Weekly,2025-06-26,-1107.79
+C473,dmart,Weekly,2025-07-01,-915.94
+C473,electricity bill,Monthly,2025-07-23,-1500.0
+C473,flipkart,Weekly,2025-06-28,-1027.0
+C473,netflix,Monthly,2025-07-03,-499.0
+C473,petrol pump,Weekly,2025-06-30,-1061.68
+C473,reliance smart,Weekly,2025-06-18,-1031.28
+C473,uber,Weekly,2025-06-20,-1034.33
+C474,amazon prime,Monthly,2025-07-11,-999.0
+C474,cafe coffee day,Weekly,2025-07-06,-1083.11
+C474,flipkart,Weekly,2025-06-25,-970.45
+C474,medical store,Weekly,2025-06-26,-909.06
+C474,petrol pump,Weekly,2025-06-20,-995.88
+C474,reliance smart,Weekly,2025-07-04,-1111.47
+C474,swiggy,Weekly,2025-06-30,-927.76
+C474,zomato,Weekly,2025-06-25,-996.48
+C475,cafe coffee day,Weekly,2025-07-06,-1128.05
+C475,company,Monthly,2025-07-05,35308.0
+C475,dmart,Weekly,2025-07-06,-952.78
+C475,flipkart,Weekly,2025-06-20,-1059.85
+C475,gym membership,Monthly,2025-07-21,-1200.0
+C475,petrol pump,Weekly,2025-06-11,-1263.27
+C475,reliance smart,Weekly,2025-06-23,-1036.95
+C475,swiggy,Weekly,2025-06-28,-984.11
+C475,uber,Weekly,2025-06-25,-908.15
+C476,amazon prime,Monthly,2025-07-19,-999.0
+C476,cafe coffee day,Weekly,2025-06-17,-1068.61
+C476,company,Monthly,2025-07-05,34602.0
+C476,netflix,Monthly,2025-07-11,-499.0
+C476,spotify,Monthly,2025-07-13,-199.0
+C476,swiggy,Weekly,2025-07-04,-1115.05
+C476,uber,Weekly,2025-07-06,-964.75
+C476,zomato,Weekly,2025-07-04,-1108.48
+C477,cafe coffee day,Weekly,2025-07-02,-1002.35
+C477,gym membership,Monthly,2025-07-14,-1200.0
+C477,netflix,Monthly,2025-07-02,-499.0
+C477,reliance smart,Weekly,2025-07-04,-1107.74
+C477,spotify,Monthly,2025-07-23,-199.0
+C477,swiggy,Weekly,2025-06-26,-1078.05
+C477,zomato,Weekly,2025-06-29,-1160.18
+C478,cafe coffee day,Weekly,2025-06-30,-1009.52
+C478,dmart,Weekly,2025-07-04,-903.21
+C478,electricity bill,Monthly,2025-07-11,-1500.0
+C478,flipkart,Weekly,2025-07-01,-974.43
+C478,medical store,Weekly,2025-07-05,-1117.14
+C478,petrol pump,Weekly,2025-07-04,-1128.0
+C478,swiggy,Weekly,2025-06-15,-1015.72
+C478,uber,Weekly,2025-07-02,-1062.15
+C478,zomato,Weekly,2025-06-28,-1020.46
+C479,amazon prime,Monthly,2025-07-09,-999.0
+C479,dmart,Weekly,2025-07-02,-931.07
+C479,flipkart,Weekly,2025-07-01,-974.5
+C479,medical store,Weekly,2025-06-25,-935.89
+C479,petrol pump,Weekly,2025-06-17,-1063.41
+C479,swiggy,Weekly,2025-06-29,-1081.95
+C479,uber,Weekly,2025-06-28,-1091.67
+C48,cafe coffee day,Weekly,2025-07-06,-790.71
+C48,flipkart,Weekly,2025-06-30,-915.57
+C48,netflix,Monthly,2025-07-21,-499.0
+C48,petrol pump,Weekly,2025-07-04,-1060.5
+C48,swiggy,Weekly,2025-07-01,-1006.42
+C48,uber,Weekly,2025-07-06,-1091.9
+C48,zomato,Weekly,2025-07-03,-1045.75
+C480,cafe coffee day,Weekly,2025-07-05,-1104.7
+C480,dmart,Weekly,2025-07-03,-1038.41
+C480,medical store,Weekly,2025-07-03,-1094.19
+C480,petrol pump,Weekly,2025-06-22,-1017.72
+C480,reliance smart,Weekly,2025-06-30,-1047.89
+C480,spotify,Monthly,2025-07-22,-199.0
+C480,zomato,Weekly,2025-07-06,-1269.92
+C481,electricity bill,Monthly,2025-07-15,-1500.0
+C481,medical store,Weekly,2025-06-20,-1171.28
+C481,petrol pump,Weekly,2025-06-26,-965.1
+C481,swiggy,Weekly,2025-07-06,-1151.62
+C481,uber,Weekly,2025-07-04,-963.21
+C481,zomato,Weekly,2025-06-30,-1098.35
+C482,cafe coffee day,Weekly,2025-06-17,-943.24
+C482,electricity bill,Monthly,2025-07-05,-1500.0
+C482,gym membership,Monthly,2025-07-06,-1200.0
+C482,reliance smart,Weekly,2025-06-27,-951.67
+C482,spotify,Monthly,2025-07-19,-199.0
+C482,swiggy,Weekly,2025-06-27,-790.06
+C482,uber,Weekly,2025-07-02,-1020.89
+C482,zomato,Weekly,2025-06-29,-1099.36
+C483,cafe coffee day,Weekly,2025-06-30,-1051.89
+C483,company,Monthly,2025-06-04,40211.6
+C483,dmart,Weekly,2025-07-01,-1152.87
+C483,flipkart,Weekly,2025-07-03,-1264.16
+C483,medical store,Weekly,2025-07-06,-917.68
+C483,petrol pump,Weekly,2025-06-27,-1019.14
+C483,spotify,Monthly,2025-07-14,-199.0
+C483,swiggy,Weekly,2025-05-25,-1340.08
+C483,uber,Weekly,2025-06-27,-1092.15
+C483,zomato,Weekly,2025-06-29,-1107.25
+C484,amazon prime,Monthly,2025-07-15,-999.0
+C484,cafe coffee day,Weekly,2025-06-21,-950.0
+C484,medical store,Weekly,2025-06-26,-1163.72
+C484,petrol pump,Weekly,2025-07-05,-894.16
+C484,swiggy,Weekly,2025-07-04,-1062.74
+C484,uber,Weekly,2025-07-03,-938.15
+C484,zomato,Weekly,2025-06-29,-1129.2
+C485,amazon prime,Monthly,2025-07-12,-999.0
+C485,cafe coffee day,Weekly,2025-07-01,-931.1
+C485,dmart,Weekly,2025-06-27,-996.35
+C485,gym membership,Monthly,2025-07-11,-1200.0
+C485,medical store,Weekly,2025-06-22,-1157.38
+C485,petrol pump,Weekly,2025-07-04,-1169.95
+C485,reliance smart,Weekly,2025-06-25,-1165.5
+C485,spotify,Monthly,2025-07-28,-199.0
+C485,uber,Weekly,2025-07-05,-1129.76
+C485,zomato,Weekly,2025-06-24,-957.82
+C486,amazon prime,Monthly,2025-07-10,-999.0
+C486,cafe coffee day,Weekly,2025-07-04,-1051.4
+C486,dmart,Weekly,2025-07-02,-979.88
+C486,electricity bill,Monthly,2025-07-04,-1500.0
+C486,gym membership,Monthly,2025-07-17,-1200.0
+C486,swiggy,Weekly,2025-06-26,-988.18
+C486,zomato,Weekly,2025-07-01,-1133.0
+C487,company,Monthly,2025-07-05,34736.14
+C487,dmart,Weekly,2025-07-06,-1104.77
+C487,flipkart,Weekly,2025-06-27,-925.6
+C487,netflix,Monthly,2025-07-02,-499.0
+C487,petrol pump,Weekly,2025-06-15,-764.22
+C487,swiggy,Weekly,2025-06-28,-896.83
+C487,uber,Weekly,2025-07-05,-909.5
+C487,zomato,Weekly,2025-06-10,-1031.24
+C488,cafe coffee day,Weekly,2025-07-02,-916.93
+C488,dmart,Weekly,2025-07-03,-932.09
+C488,flipkart,Weekly,2025-06-22,-932.11
+C488,medical store,Weekly,2025-06-25,-986.1
+C488,netflix,Monthly,2025-07-26,-499.0
+C488,uber,Weekly,2025-07-06,-1147.91
+C489,amazon prime,Monthly,2025-07-08,-999.0
+C489,cafe coffee day,Weekly,2025-06-25,-1164.5
+C489,electricity bill,Monthly,2025-07-08,-1500.0
+C489,flipkart,Weekly,2025-06-23,-821.52
+C489,gym membership,Monthly,2025-07-07,-1200.0
+C489,petrol pump,Weekly,2025-06-27,-1328.39
+C489,swiggy,Weekly,2025-06-28,-1031.75
+C49,cafe coffee day,Weekly,2025-06-11,-1029.12
+C49,dmart,Weekly,2025-06-25,-1023.4
+C49,flipkart,Weekly,2025-06-18,-883.77
+C49,medical store,Weekly,2025-06-30,-1088.8
+C49,netflix,Monthly,2025-07-03,-499.0
+C49,petrol pump,Weekly,2025-07-01,-1020.77
+C49,reliance smart,Weekly,2025-06-27,-1048.09
+C49,swiggy,Weekly,2025-06-22,-1062.26
+C49,zomato,Weekly,2025-07-05,-1124.74
+C490,amazon prime,Monthly,2025-07-24,-999.0
+C490,company,Monthly,2025-07-03,31950.43
+C490,gym membership,Monthly,2025-07-14,-1200.0
+C490,petrol pump,Weekly,2025-07-04,-1068.74
+C490,reliance smart,Weekly,2025-06-25,-973.46
+C490,spotify,Monthly,2025-07-22,-199.0
+C490,swiggy,Weekly,2025-06-05,-773.56
+C490,uber,Weekly,2025-07-02,-1090.48
+C491,cafe coffee day,Weekly,2025-07-01,-800.55
+C491,electricity bill,Monthly,2025-07-23,-1500.0
+C491,gym membership,Monthly,2025-07-01,-1200.0
+C491,medical store,Weekly,2025-06-29,-1079.43
+C491,netflix,Monthly,2025-07-11,-499.0
+C491,uber,Weekly,2025-07-04,-991.44
+C492,cafe coffee day,Weekly,2025-07-05,-846.18
+C492,dmart,Weekly,2025-07-03,-1137.33
+C492,medical store,Weekly,2025-06-13,-1009.19
+C492,petrol pump,Weekly,2025-06-27,-928.58
+C492,reliance smart,Weekly,2025-06-19,-966.19
+C492,spotify,Monthly,2025-07-15,-199.0
+C493,cafe coffee day,Weekly,2025-07-02,-1061.94
+C493,company,Monthly,2025-07-03,32795.57
+C493,dmart,Weekly,2025-06-29,-985.83
+C493,medical store,Weekly,2025-07-01,-1014.28
+C493,netflix,Monthly,2025-07-23,-499.0
+C493,petrol pump,Weekly,2025-07-06,-1060.57
+C493,reliance smart,Weekly,2025-07-01,-1094.53
+C493,swiggy,Weekly,2025-06-25,-1154.88
+C493,uber,Weekly,2025-07-03,-1272.14
+C493,zomato,Weekly,2025-07-06,-1094.95
+C494,amazon prime,Monthly,2025-07-23,-999.0
+C494,flipkart,Weekly,2025-07-02,-1151.15
+C494,gym membership,Monthly,2025-07-22,-1200.0
+C494,reliance smart,Weekly,2025-07-01,-871.54
+C494,swiggy,Weekly,2025-07-05,-1346.04
+C494,uber,Weekly,2025-07-06,-1224.89
+C495,cafe coffee day,Weekly,2025-06-25,-973.67
+C495,company,Monthly,2025-07-03,30554.67
+C495,electricity bill,Monthly,2025-07-28,-1500.0
+C495,flipkart,Weekly,2025-06-27,-1151.74
+C495,gym membership,Monthly,2025-07-06,-1200.0
+C495,medical store,Weekly,2025-06-29,-1226.55
+C495,petrol pump,Weekly,2025-06-18,-1084.57
+C495,spotify,Monthly,2025-07-10,-199.0
+C495,uber,Weekly,2025-07-06,-1110.85
+C495,zomato,Weekly,2025-06-22,-777.93
+C496,cafe coffee day,Weekly,2025-07-01,-868.67
+C496,medical store,Weekly,2025-07-01,-1014.25
+C496,reliance smart,Weekly,2025-06-18,-979.35
+C496,spotify,Monthly,2025-07-12,-199.0
+C496,swiggy,Weekly,2025-07-03,-952.09
+C496,uber,Weekly,2025-07-02,-931.09
+C497,flipkart,Weekly,2025-06-26,-1181.17
+C497,gym membership,Monthly,2025-07-12,-1200.0
+C497,medical store,Weekly,2025-06-26,-786.52
+C497,netflix,Monthly,2025-07-06,-499.0
+C497,reliance smart,Weekly,2025-06-30,-1017.33
+C497,swiggy,Weekly,2025-06-24,-826.42
+C497,uber,Weekly,2025-06-29,-1092.22
+C497,zomato,Weekly,2025-07-06,-891.32
+C498,cafe coffee day,Weekly,2025-07-06,-922.89
+C498,dmart,Weekly,2025-06-28,-1169.71
+C498,electricity bill,Monthly,2025-07-25,-1500.0
+C498,flipkart,Weekly,2025-07-02,-1007.07
+C498,medical store,Weekly,2025-07-04,-1002.96
+C498,petrol pump,Weekly,2025-06-29,-1074.47
+C498,reliance smart,Weekly,2025-07-04,-880.68
+C498,uber,Weekly,2025-07-01,-984.29
+C498,zomato,Weekly,2025-07-06,-925.12
+C499,company,Monthly,2025-06-04,33401.8
+C499,electricity bill,Monthly,2025-07-12,-1500.0
+C499,flipkart,Weekly,2025-07-05,-873.42
+C499,gym membership,Monthly,2025-07-20,-1200.0
+C499,medical store,Weekly,2025-07-03,-888.5
+C499,petrol pump,Weekly,2025-06-24,-1021.23
+C499,spotify,Monthly,2025-07-28,-199.0
+C499,swiggy,Weekly,2025-06-29,-1348.87
+C499,zomato,Weekly,2025-07-02,-1162.5
+C5,company,Monthly,2025-05-02,38280.0
+C5,dmart,Weekly,2025-06-30,-1249.41
+C5,electricity bill,Monthly,2025-07-11,-1500.0
+C5,flipkart,Weekly,2025-07-01,-1336.39
+C5,netflix,Monthly,2025-07-27,-499.0
+C5,petrol pump,Weekly,2025-07-02,-1185.67
+C5,reliance smart,Weekly,2025-06-27,-1031.21
+C5,swiggy,Weekly,2025-06-23,-1057.2
+C5,uber,Weekly,2025-07-03,-1080.78
+C5,zomato,Weekly,2025-06-15,-1000.43
+C50,electricity bill,Monthly,2025-07-07,-1500.0
+C50,gym membership,Monthly,2025-07-23,-1200.0
+C50,medical store,Weekly,2025-07-03,-1132.79
+C50,netflix,Monthly,2025-07-25,-499.0
+C50,petrol pump,Weekly,2025-07-02,-969.21
+C50,reliance smart,Weekly,2025-06-26,-1089.67
+C50,swiggy,Weekly,2025-07-06,-1008.33
+C50,uber,Weekly,2025-06-30,-838.84
+C50,zomato,Weekly,2025-07-03,-968.0
+C500,cafe coffee day,Weekly,2025-07-04,-1028.62
+C500,dmart,Weekly,2025-07-01,-1031.0
+C500,electricity bill,Monthly,2025-07-22,-1500.0
+C500,flipkart,Weekly,2025-06-23,-889.46
+C500,gym membership,Monthly,2025-07-10,-1200.0
+C500,medical store,Weekly,2025-06-23,-1187.4
+C500,petrol pump,Weekly,2025-07-04,-1114.09
+C500,spotify,Monthly,2025-07-03,-199.0
+C500,swiggy,Weekly,2025-07-02,-1005.9
+C500,uber,Weekly,2025-07-05,-1173.95
+C51,company,Monthly,2025-06-03,37915.6
+C51,dmart,Weekly,2025-06-23,-1030.4
+C51,flipkart,Weekly,2025-07-06,-1081.17
+C51,medical store,Weekly,2025-06-16,-1217.2
+C51,netflix,Monthly,2025-07-25,-499.0
+C51,petrol pump,Weekly,2025-06-29,-885.33
+C51,reliance smart,Weekly,2025-06-25,-828.84
+C51,swiggy,Weekly,2025-07-01,-1029.14
+C51,uber,Weekly,2025-07-04,-1122.39
+C52,amazon prime,Monthly,2025-07-13,-999.0
+C52,dmart,Weekly,2025-06-29,-868.19
+C52,electricity bill,Monthly,2025-07-12,-1500.0
+C52,flipkart,Weekly,2025-06-29,-1179.94
+C52,petrol pump,Weekly,2025-06-27,-1053.15
+C52,reliance smart,Weekly,2025-07-05,-976.52
+C52,spotify,Monthly,2025-07-19,-199.0
+C52,swiggy,Weekly,2025-06-30,-1230.68
+C52,uber,Weekly,2025-07-03,-854.2
+C52,zomato,Weekly,2025-07-05,-1013.82
+C53,amazon prime,Monthly,2025-07-17,-999.0
+C53,cafe coffee day,Weekly,2025-07-06,-964.55
+C53,flipkart,Weekly,2025-05-26,-765.75
+C53,medical store,Weekly,2025-07-01,-1000.22
+C53,petrol pump,Weekly,2025-07-03,-1011.61
+C53,spotify,Monthly,2025-07-01,-199.0
+C53,uber,Weekly,2025-07-02,-964.6
+C53,zomato,Weekly,2025-07-01,-1105.41
+C54,amazon prime,Monthly,2025-07-08,-999.0
+C54,cafe coffee day,Weekly,2025-07-04,-858.3
+C54,dmart,Weekly,2025-07-06,-1225.68
+C54,flipkart,Weekly,2025-07-01,-1077.93
+C54,medical store,Weekly,2025-07-02,-1203.55
+C54,petrol pump,Weekly,2025-06-30,-763.68
+C54,reliance smart,Weekly,2025-06-16,-978.88
+C54,uber,Weekly,2025-06-22,-1004.76
+C54,zomato,Weekly,2025-07-03,-1071.67
+C55,amazon prime,Monthly,2025-07-08,-999.0
+C55,cafe coffee day,Weekly,2025-06-26,-1033.28
+C55,dmart,Weekly,2025-07-06,-1013.83
+C55,electricity bill,Monthly,2025-07-27,-1500.0
+C55,gym membership,Monthly,2025-07-08,-1200.0
+C55,petrol pump,Weekly,2025-06-10,-1128.09
+C55,swiggy,Weekly,2025-07-05,-1228.4
+C55,uber,Weekly,2025-07-02,-835.9
+C55,zomato,Weekly,2025-06-30,-803.61
+C56,cafe coffee day,Weekly,2025-07-06,-1132.82
+C56,dmart,Weekly,2025-07-05,-883.32
+C56,electricity bill,Monthly,2025-07-12,-1500.0
+C56,medical store,Weekly,2025-06-28,-852.76
+C56,petrol pump,Weekly,2025-07-06,-1190.63
+C56,reliance smart,Weekly,2025-07-04,-1117.85
+C56,spotify,Monthly,2025-07-06,-199.0
+C56,uber,Weekly,2025-07-05,-884.5
+C56,zomato,Weekly,2025-06-26,-916.3
+C57,cafe coffee day,Weekly,2025-07-06,-1031.0
+C57,electricity bill,Monthly,2025-07-28,-1500.0
+C57,medical store,Weekly,2025-06-30,-1004.67
+C57,petrol pump,Weekly,2025-06-23,-929.83
+C57,reliance smart,Weekly,2025-06-24,-1053.5
+C57,uber,Weekly,2025-07-06,-1019.65
+C57,zomato,Weekly,2025-06-29,-853.9
+C58,amazon prime,Monthly,2025-07-22,-999.0
+C58,company,Monthly,2025-05-05,34894.25
+C58,flipkart,Weekly,2025-06-30,-1132.45
+C58,medical store,Weekly,2025-06-24,-985.87
+C58,netflix,Monthly,2025-07-06,-499.0
+C58,petrol pump,Weekly,2025-07-03,-1117.24
+C58,reliance smart,Weekly,2025-07-02,-992.44
+C58,swiggy,Weekly,2025-06-24,-1140.25
+C58,uber,Weekly,2025-06-20,-1129.61
+C58,zomato,Weekly,2025-06-27,-1071.86
+C59,dmart,Weekly,2025-07-06,-1151.32
+C59,flipkart,Weekly,2025-06-29,-1166.13
+C59,netflix,Monthly,2025-07-13,-499.0
+C59,reliance smart,Weekly,2025-07-02,-921.82
+C59,swiggy,Weekly,2025-06-17,-1139.76
+C59,uber,Weekly,2025-06-30,-992.29
+C59,zomato,Weekly,2025-07-05,-1069.09
+C6,cafe coffee day,Weekly,2025-06-19,-914.61
+C6,company,Monthly,2025-07-04,28266.0
+C6,medical store,Weekly,2025-06-08,-1201.39
+C6,petrol pump,Weekly,2025-06-17,-1406.0
+C6,reliance smart,Weekly,2025-07-05,-912.35
+C6,spotify,Monthly,2025-07-05,-199.0
+C6,swiggy,Weekly,2025-07-02,-1218.08
+C6,zomato,Weekly,2025-07-05,-1064.29
+C60,amazon prime,Monthly,2025-07-17,-999.0
+C60,company,Monthly,2025-07-01,30010.33
+C60,dmart,Weekly,2025-06-12,-986.0
+C60,gym membership,Monthly,2025-07-24,-1200.0
+C60,medical store,Weekly,2025-07-01,-946.63
+C60,petrol pump,Weekly,2025-07-05,-1133.35
+C60,reliance smart,Weekly,2025-07-03,-1153.15
+C60,swiggy,Weekly,2025-07-04,-1149.32
+C60,uber,Weekly,2025-07-03,-1077.88
+C61,amazon prime,Monthly,2025-07-18,-999.0
+C61,cafe coffee day,Weekly,2025-07-06,-1091.68
+C61,company,Monthly,2025-06-04,36444.2
+C61,dmart,Weekly,2025-07-06,-1090.48
+C61,medical store,Weekly,2025-07-04,-1045.68
+C61,petrol pump,Weekly,2025-07-05,-1073.89
+C61,spotify,Monthly,2025-07-07,-199.0
+C61,swiggy,Weekly,2025-07-05,-1189.56
+C61,zomato,Weekly,2025-06-18,-1169.62
+C62,cafe coffee day,Weekly,2025-07-03,-973.05
+C62,flipkart,Weekly,2025-06-28,-1211.87
+C62,gym membership,Monthly,2025-07-12,-1200.0
+C62,netflix,Monthly,2025-07-19,-499.0
+C62,petrol pump,Weekly,2025-06-21,-945.84
+C62,reliance smart,Weekly,2025-06-16,-1023.96
+C62,spotify,Monthly,2025-07-12,-199.0
+C62,swiggy,Weekly,2025-06-26,-1002.5
+C62,uber,Weekly,2025-07-06,-947.5
+C62,zomato,Weekly,2025-07-04,-1116.91
+C63,amazon prime,Monthly,2025-07-01,-999.0
+C63,cafe coffee day,Weekly,2025-06-13,-976.22
+C63,dmart,Weekly,2025-07-05,-989.05
+C63,electricity bill,Monthly,2025-07-26,-1500.0
+C63,medical store,Weekly,2025-06-29,-1112.9
+C63,petrol pump,Weekly,2025-07-06,-1125.26
+C63,spotify,Monthly,2025-07-19,-199.0
+C63,swiggy,Weekly,2025-07-03,-1060.8
+C63,zomato,Weekly,2025-07-02,-862.95
+C64,dmart,Weekly,2025-07-04,-1091.59
+C64,flipkart,Weekly,2025-07-06,-1014.65
+C64,medical store,Weekly,2025-06-26,-860.81
+C64,petrol pump,Weekly,2025-07-02,-1095.11
+C64,reliance smart,Weekly,2025-06-20,-1078.44
+C64,spotify,Monthly,2025-07-15,-199.0
+C64,swiggy,Weekly,2025-07-04,-1047.89
+C64,uber,Weekly,2025-06-30,-1020.38
+C65,cafe coffee day,Weekly,2025-05-20,-987.2
+C65,dmart,Monthly,2025-07-23,-1039.0
+C65,flipkart,Weekly,2025-06-29,-911.86
+C65,gym membership,Monthly,2025-07-21,-1200.0
+C65,petrol pump,Weekly,2025-06-21,-877.9
+C65,reliance smart,Weekly,2025-06-24,-1213.4
+C65,swiggy,Weekly,2025-07-06,-949.45
+C65,uber,Weekly,2025-07-03,-1055.48
+C66,amazon prime,Monthly,2025-07-04,-999.0
+C66,electricity bill,Monthly,2025-07-07,-1500.0
+C66,medical store,Weekly,2025-06-28,-1084.65
+C66,netflix,Monthly,2025-07-08,-499.0
+C66,petrol pump,Weekly,2025-06-19,-1087.81
+C66,reliance smart,Weekly,2025-06-29,-979.79
+C66,uber,Weekly,2025-07-06,-940.92
+C66,zomato,Weekly,2025-06-27,-984.53
+C67,amazon prime,Monthly,2025-07-12,-999.0
+C67,cafe coffee day,Weekly,2025-07-05,-1152.52
+C67,dmart,Weekly,2025-07-05,-1072.05
+C67,flipkart,Weekly,2025-07-01,-873.45
+C67,gym membership,Monthly,2025-07-18,-1200.0
+C67,medical store,Weekly,2025-07-06,-1287.67
+C67,petrol pump,Weekly,2025-06-02,-759.53
+C67,reliance smart,Weekly,2025-06-26,-1043.94
+C67,spotify,Monthly,2025-07-16,-199.0
+C67,swiggy,Weekly,2025-06-29,-987.64
+C67,zomato,Weekly,2025-07-06,-976.14
+C68,cafe coffee day,Weekly,2025-07-02,-866.06
+C68,dmart,Weekly,2025-06-28,-1032.75
+C68,flipkart,Weekly,2025-07-06,-1036.05
+C68,medical store,Weekly,2025-06-19,-989.83
+C68,netflix,Monthly,2025-07-03,-499.0
+C68,petrol pump,Weekly,2025-07-06,-990.48
+C68,spotify,Monthly,2025-07-13,-199.0
+C68,swiggy,Weekly,2025-06-23,-980.28
+C68,uber,Weekly,2025-06-13,-862.29
+C69,amazon prime,Monthly,2025-07-26,-999.0
+C69,cafe coffee day,Weekly,2025-07-04,-1194.12
+C69,flipkart,Weekly,2025-06-30,-1149.89
+C69,petrol pump,Weekly,2025-07-03,-1129.04
+C69,reliance smart,Weekly,2025-07-06,-1079.96
+C69,swiggy,Weekly,2025-07-05,-1190.52
+C69,uber,Weekly,2025-06-16,-976.79
+C69,zomato,Weekly,2025-06-21,-1114.18
+C7,amazon prime,Monthly,2025-07-16,-999.0
+C7,cafe coffee day,Weekly,2025-07-04,-1036.9
+C7,company,Monthly,2025-07-05,33134.5
+C7,dmart,Weekly,2025-07-05,-832.64
+C7,flipkart,Weekly,2025-06-16,-1019.17
+C7,gym membership,Monthly,2025-07-25,-1200.0
+C7,petrol pump,Weekly,2025-06-22,-1198.86
+C7,reliance smart,Weekly,2025-06-26,-908.25
+C70,amazon prime,Monthly,2025-07-10,-999.0
+C70,cafe coffee day,Weekly,2025-07-06,-1043.59
+C70,dmart,Weekly,2025-07-04,-1408.64
+C70,flipkart,Weekly,2025-06-28,-858.4
+C70,medical store,Weekly,2025-05-30,-1181.38
+C70,petrol pump,Weekly,2025-06-27,-1274.0
+C70,swiggy,Weekly,2025-07-05,-835.38
+C70,zomato,Weekly,2025-06-29,-1153.14
+C71,amazon prime,Monthly,2025-07-24,-999.0
+C71,cafe coffee day,Weekly,2025-07-04,-956.26
+C71,dmart,Weekly,2025-07-06,-922.52
+C71,electricity bill,Monthly,2025-07-26,-1500.0
+C71,flipkart,Weekly,2025-06-27,-1122.84
+C71,petrol pump,Weekly,2025-07-05,-1108.05
+C71,reliance smart,Weekly,2025-06-03,-1000.13
+C71,swiggy,Weekly,2025-06-23,-1012.15
+C71,uber,Weekly,2025-06-01,-1004.0
+C71,zomato,Weekly,2025-06-26,-1144.83
+C72,amazon prime,Monthly,2025-07-10,-999.0
+C72,cafe coffee day,Weekly,2025-07-03,-1024.88
+C72,electricity bill,Monthly,2025-07-11,-1500.0
+C72,flipkart,Weekly,2025-06-07,-892.0
+C72,medical store,Weekly,2025-07-01,-968.7
+C72,netflix,Monthly,2025-07-26,-499.0
+C72,petrol pump,Weekly,2025-06-28,-1154.95
+C72,reliance smart,Weekly,2025-07-04,-1186.64
+C72,uber,Weekly,2025-07-02,-1079.47
+C72,zomato,Weekly,2025-07-05,-1159.44
+C73,cafe coffee day,Weekly,2025-07-03,-1039.83
+C73,electricity bill,Monthly,2025-07-25,-1500.0
+C73,gym membership,Monthly,2025-07-20,-1200.0
+C73,medical store,Weekly,2025-06-25,-936.61
+C73,petrol pump,Weekly,2025-06-11,-876.95
+C73,swiggy,Weekly,2025-06-22,-1114.54
+C73,uber,Weekly,2025-06-21,-1133.73
+C74,cafe coffee day,Weekly,2025-06-29,-1047.05
+C74,electricity bill,Monthly,2025-07-04,-1500.0
+C74,gym membership,Monthly,2025-07-11,-1200.0
+C74,medical store,Weekly,2025-07-01,-1153.1
+C74,spotify,Monthly,2025-07-01,-199.0
+C74,zomato,Weekly,2025-07-06,-1088.42
+C75,amazon prime,Monthly,2025-07-17,-999.0
+C75,company,Monthly,2025-05-31,44656.0
+C75,dmart,Weekly,2025-07-05,-1099.95
+C75,flipkart,Weekly,2025-07-06,-1138.68
+C75,petrol pump,Weekly,2025-06-29,-1080.23
+C75,swiggy,Weekly,2025-07-03,-1011.78
+C75,uber,Weekly,2025-06-05,-1093.38
+C75,zomato,Weekly,2025-06-21,-753.17
+C76,amazon prime,Monthly,2025-07-19,-999.0
+C76,cafe coffee day,Weekly,2025-07-06,-977.08
+C76,company,Monthly,2025-07-05,39904.0
+C76,dmart,Weekly,2025-06-28,-1127.14
+C76,electricity bill,Monthly,2025-07-25,-1500.0
+C76,flipkart,Weekly,2025-06-30,-1011.55
+C76,medical store,Weekly,2025-07-01,-1192.09
+C76,netflix,Monthly,2025-07-09,-499.0
+C76,petrol pump,Weekly,2025-06-30,-858.53
+C76,swiggy,Weekly,2025-07-05,-1044.76
+C76,uber,Weekly,2025-06-26,-1103.74
+C76,zomato,Weekly,2025-06-23,-1185.2
+C77,cafe coffee day,Weekly,2025-07-05,-1022.37
+C77,dmart,Weekly,2025-06-22,-846.44
+C77,electricity bill,Monthly,2025-07-23,-1500.0
+C77,netflix,Monthly,2025-07-26,-499.0
+C77,petrol pump,Weekly,2025-06-26,-931.88
+C77,reliance smart,Weekly,2025-06-24,-991.29
+C77,swiggy,Weekly,2025-06-23,-1101.47
+C77,uber,Weekly,2025-07-06,-1130.95
+C77,zomato,Weekly,2025-07-06,-1074.79
+C78,cafe coffee day,Weekly,2025-06-22,-882.45
+C78,flipkart,Weekly,2025-07-05,-907.79
+C78,gym membership,Monthly,2025-07-16,-1200.0
+C78,medical store,Weekly,2025-06-25,-1179.67
+C78,petrol pump,Weekly,2025-06-24,-1117.68
+C78,swiggy,Weekly,2025-06-27,-1157.14
+C78,uber,Weekly,2025-06-19,-979.17
+C79,amazon prime,Monthly,2025-07-20,-999.0
+C79,company,Monthly,2025-07-04,31412.5
+C79,dmart,Weekly,2025-07-01,-1182.19
+C79,electricity bill,Monthly,2025-07-24,-1500.0
+C79,flipkart,Weekly,2025-06-30,-970.56
+C79,gym membership,Monthly,2025-07-23,-1200.0
+C79,petrol pump,Weekly,2025-06-16,-973.35
+C79,uber,Weekly,2025-06-28,-1060.45
+C79,zomato,Weekly,2025-07-04,-1025.9
+C8,cafe coffee day,Weekly,2025-06-02,-1331.73
+C8,dmart,Weekly,2025-07-01,-1153.17
+C8,flipkart,Weekly,2025-06-12,-1003.71
+C8,gym membership,Monthly,2025-07-20,-1200.0
+C8,medical store,Weekly,2025-06-26,-998.9
+C8,petrol pump,Weekly,2025-06-24,-970.75
+C8,reliance smart,Weekly,2025-06-27,-1002.19
+C8,swiggy,Weekly,2025-07-03,-959.29
+C8,uber,Weekly,2025-07-04,-985.07
+C80,amazon prime,Monthly,2025-07-14,-999.0
+C80,electricity bill,Monthly,2025-07-16,-1500.0
+C80,flipkart,Weekly,2025-07-02,-1089.88
+C80,medical store,Weekly,2025-06-22,-830.11
+C80,petrol pump,Weekly,2025-06-24,-1123.81
+C80,reliance smart,Weekly,2025-06-30,-1089.39
+C80,spotify,Monthly,2025-07-06,-199.0
+C80,swiggy,Weekly,2025-06-16,-1025.09
+C80,zomato,Weekly,2025-06-28,-1091.9
+C81,dmart,Weekly,2025-07-04,-944.0
+C81,electricity bill,Monthly,2025-07-21,-1500.0
+C81,medical store,Weekly,2025-07-03,-935.85
+C81,netflix,Monthly,2025-07-25,-499.0
+C81,petrol pump,Weekly,2025-07-06,-1054.89
+C81,reliance smart,Weekly,2025-06-28,-1044.38
+C81,spotify,Monthly,2025-07-05,-199.0
+C82,cafe coffee day,Weekly,2025-06-25,-1191.77
+C82,dmart,Weekly,2025-07-06,-1047.23
+C82,electricity bill,Monthly,2025-07-18,-1500.0
+C82,flipkart,Weekly,2025-07-06,-1058.27
+C82,medical store,Weekly,2025-06-21,-1101.68
+C82,netflix,Monthly,2025-07-19,-499.0
+C82,reliance smart,Weekly,2025-07-02,-1105.85
+C82,swiggy,Weekly,2025-06-23,-825.43
+C82,uber,Weekly,2025-07-01,-1031.64
+C82,zomato,Weekly,2025-06-27,-1074.8
+C83,amazon prime,Monthly,2025-07-12,-999.0
+C83,dmart,Weekly,2025-07-05,-1043.0
+C83,electricity bill,Monthly,2025-07-16,-1500.0
+C83,flipkart,Weekly,2025-06-23,-1078.61
+C83,medical store,Weekly,2025-06-26,-931.38
+C83,netflix,Monthly,2025-07-23,-499.0
+C83,petrol pump,Weekly,2025-06-17,-985.33
+C83,reliance smart,Weekly,2025-07-02,-880.74
+C83,swiggy,Weekly,2025-05-31,-1126.21
+C83,zomato,Weekly,2025-07-05,-1064.89
+C84,cafe coffee day,Weekly,2025-07-02,-1134.0
+C84,dmart,Weekly,2025-07-06,-1103.5
+C84,electricity bill,Monthly,2025-07-21,-1500.0
+C84,flipkart,Weekly,2025-07-03,-1241.05
+C84,medical store,Weekly,2025-07-04,-1075.25
+C84,netflix,Monthly,2025-07-10,-499.0
+C84,petrol pump,Weekly,2025-06-25,-1070.21
+C84,reliance smart,Weekly,2025-06-29,-1246.08
+C84,spotify,Monthly,2025-07-16,-199.0
+C84,swiggy,Weekly,2025-07-03,-848.57
+C84,uber,Weekly,2025-06-24,-1133.77
+C84,zomato,Weekly,2025-07-05,-928.94
+C85,cafe coffee day,Weekly,2025-07-06,-1107.0
+C85,dmart,Weekly,2025-07-05,-1091.62
+C85,electricity bill,Monthly,2025-07-19,-1500.0
+C85,medical store,Weekly,2025-05-09,-1085.33
+C85,petrol pump,Weekly,2025-07-06,-1180.09
+C85,reliance smart,Weekly,2025-06-11,-1051.33
+C85,spotify,Monthly,2025-07-21,-199.0
+C85,swiggy,Weekly,2025-06-18,-1030.9
+C85,uber,Weekly,2025-06-16,-1180.38
+C85,zomato,Weekly,2025-06-28,-905.48
+C86,amazon prime,Monthly,2025-07-18,-999.0
+C86,cafe coffee day,Weekly,2025-07-06,-1047.14
+C86,company,Monthly,2025-07-01,37367.67
+C86,dmart,Weekly,2025-06-28,-1023.95
+C86,flipkart,Weekly,2025-07-04,-984.76
+C86,medical store,Weekly,2025-07-05,-806.35
+C86,netflix,Monthly,2025-07-16,-499.0
+C86,petrol pump,Weekly,2025-06-02,-1004.5
+C86,uber,Weekly,2025-07-02,-1065.14
+C86,zomato,Weekly,2025-07-06,-1082.57
+C87,amazon prime,Monthly,2025-07-08,-999.0
+C87,cafe coffee day,Weekly,2025-06-15,-1137.16
+C87,dmart,Weekly,2025-07-05,-762.05
+C87,electricity bill,Monthly,2025-07-25,-1500.0
+C87,netflix,Monthly,2025-07-06,-499.0
+C87,reliance smart,Weekly,2025-06-27,-1071.91
+C87,uber,Weekly,2025-06-24,-1025.52
+C87,zomato,Weekly,2025-06-16,-1106.37
+C88,amazon prime,Monthly,2025-07-07,-999.0
+C88,cafe coffee day,Weekly,2025-07-05,-1141.73
+C88,flipkart,Weekly,2025-06-20,-1155.36
+C88,petrol pump,Weekly,2025-07-06,-819.74
+C88,spotify,Monthly,2025-07-20,-199.0
+C88,zomato,Weekly,2025-07-03,-992.05
+C89,amazon prime,Monthly,2025-07-22,-999.0
+C89,cafe coffee day,Weekly,2025-07-06,-1151.05
+C89,flipkart,Weekly,2025-07-05,-958.23
+C89,medical store,Weekly,2025-07-03,-1294.16
+C89,petrol pump,Weekly,2025-07-06,-999.15
+C89,reliance smart,Weekly,2025-06-23,-1014.33
+C89,swiggy,Weekly,2025-07-04,-1153.95
+C89,uber,Weekly,2025-06-27,-1161.68
+C89,zomato,Weekly,2025-06-07,-1109.75
+C9,dmart,Weekly,2025-07-03,-942.39
+C9,electricity bill,Monthly,2025-07-19,-1500.0
+C9,flipkart,Weekly,2025-07-04,-1053.65
+C9,medical store,Weekly,2025-07-05,-1005.23
+C9,netflix,Monthly,2025-07-07,-499.0
+C9,petrol pump,Weekly,2025-06-28,-946.0
+C9,reliance smart,Weekly,2025-07-03,-970.42
+C9,spotify,Monthly,2025-07-14,-199.0
+C9,uber,Weekly,2025-06-10,-954.12
+C9,zomato,Weekly,2025-06-14,-1088.78
+C90,cafe coffee day,Weekly,2025-07-04,-1086.7
+C90,dmart,Weekly,2025-07-06,-1118.6
+C90,electricity bill,Monthly,2025-07-21,-1500.0
+C90,flipkart,Weekly,2025-07-05,-968.73
+C90,medical store,Weekly,2025-07-02,-982.91
+C90,netflix,Monthly,2025-07-08,-499.0
+C90,petrol pump,Weekly,2025-07-01,-1045.09
+C90,reliance smart,Weekly,2025-06-28,-829.63
+C90,spotify,Monthly,2025-07-21,-199.0
+C90,swiggy,Weekly,2025-07-01,-1130.11
+C90,uber,Weekly,2025-06-23,-816.44
+C91,cafe coffee day,Weekly,2025-07-06,-1089.05
+C91,company,Monthly,2025-05-31,41778.25
+C91,electricity bill,Monthly,2025-07-23,-1500.0
+C91,flipkart,Weekly,2025-07-06,-1130.55
+C91,gym membership,Monthly,2025-07-06,-1200.0
+C91,medical store,Weekly,2025-07-02,-1033.25
+C91,netflix,Monthly,2025-07-02,-499.0
+C91,reliance smart,Weekly,2025-05-29,-1032.59
+C91,swiggy,Weekly,2025-06-29,-1215.91
+C91,uber,Weekly,2025-07-04,-1223.8
+C91,zomato,Weekly,2025-07-04,-1118.0
+C92,company,Monthly,2025-07-02,33992.5
+C92,flipkart,Weekly,2025-07-01,-958.68
+C92,gym membership,Monthly,2025-07-12,-1200.0
+C92,medical store,Weekly,2025-07-05,-973.2
+C92,netflix,Monthly,2025-07-11,-499.0
+C92,reliance smart,Weekly,2025-06-27,-1037.32
+C92,spotify,Monthly,2025-07-21,-199.0
+C92,uber,Weekly,2025-07-04,-1024.43
+C93,cafe coffee day,Weekly,2025-06-30,-1096.05
+C93,company,Monthly,2025-07-04,35043.43
+C93,gym membership,Monthly,2025-07-16,-1200.0
+C93,medical store,Weekly,2025-06-24,-956.47
+C93,petrol pump,Weekly,2025-06-29,-1157.67
+C93,reliance smart,Weekly,2025-07-06,-1037.1
+C93,spotify,Monthly,2025-07-03,-199.0
+C93,uber,Weekly,2025-07-05,-937.6
+C93,zomato,Weekly,2025-06-03,-853.53
+C94,amazon prime,Monthly,2025-07-06,-999.0
+C94,dmart,Weekly,2025-06-21,-1219.38
+C94,electricity bill,Monthly,2025-07-05,-1500.0
+C94,flipkart,Weekly,2025-07-03,-916.89
+C94,medical store,Weekly,2025-06-26,-872.41
+C94,petrol pump,Weekly,2025-06-02,-950.33
+C94,reliance smart,Weekly,2025-06-25,-1241.3
+C94,swiggy,Weekly,2025-07-02,-961.35
+C94,uber,Weekly,2025-07-03,-955.62
+C94,zomato,Weekly,2025-07-02,-1157.74
+C95,cafe coffee day,Weekly,2025-07-01,-1263.6
+C95,company,Monthly,2025-06-03,28765.0
+C95,electricity bill,Monthly,2025-07-28,-1500.0
+C95,medical store,Weekly,2025-07-03,-961.17
+C95,petrol pump,Weekly,2025-07-05,-1195.23
+C95,swiggy,Weekly,2025-06-25,-1143.0
+C95,uber,Weekly,2025-07-06,-920.64
+C96,dmart,Weekly,2025-06-28,-928.7
+C96,flipkart,Weekly,2025-07-01,-1233.33
+C96,gym membership,Monthly,2025-07-23,-1200.0
+C96,medical store,Weekly,2025-07-04,-845.0
+C96,netflix,Monthly,2025-07-23,-499.0
+C96,reliance smart,Weekly,2025-07-05,-936.15
+C96,spotify,Monthly,2025-07-19,-199.0
+C96,swiggy,Weekly,2025-07-06,-1132.82
+C96,zomato,Weekly,2025-06-27,-1068.1
+C97,amazon prime,Monthly,2025-07-06,-999.0
+C97,cafe coffee day,Weekly,2025-07-03,-1238.6
+C97,medical store,Weekly,2025-07-03,-882.21
+C97,reliance smart,Weekly,2025-07-05,-904.57
+C97,spotify,Monthly,2025-07-02,-199.0
+C97,swiggy,Weekly,2025-06-20,-1065.11
+C97,uber,Weekly,2025-07-06,-969.15
+C97,zomato,Weekly,2025-06-21,-1036.16
+C98,cafe coffee day,Weekly,2025-07-02,-876.71
+C98,dmart,Weekly,2025-06-16,-1350.94
+C98,flipkart,Weekly,2025-07-05,-816.91
+C98,gym membership,Monthly,2025-07-24,-1200.0
+C98,netflix,Monthly,2025-07-03,-499.0
+C98,petrol pump,Weekly,2025-06-21,-1094.07
+C98,reliance smart,Weekly,2025-06-24,-768.11
+C98,swiggy,Weekly,2025-07-02,-1170.5
+C98,zomato,Weekly,2025-06-16,-1175.38
+C99,amazon prime,Monthly,2025-07-17,-999.0
+C99,cafe coffee day,Weekly,2025-06-30,-873.0
+C99,flipkart,Weekly,2025-06-27,-864.27
+C99,petrol pump,Weekly,2025-07-03,-1256.15
+C99,reliance smart,Weekly,2025-06-14,-1059.84
+C99,spotify,Monthly,2025-07-27,-199.0
+C99,swiggy,Weekly,2025-06-18,-961.63
