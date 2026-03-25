@@ -1,0 +1,130 @@
+AI-Subscription-AutoDebit-Intelligence/
+│
+├── README.md
+├── LICENSE
+├── requirements.txt
+├── .gitignore
+│
+├── data/
+│   └── cleaned_transactions.csv(subscription_dataset_cleaned.csv)
+│   └── synthetic/
+│       └── subscription_dataset.csv
+│
+├── notebooks/
+│   ├── 01_data_exploration.ipynb
+│   ├── 02_nlp_subscription_detection.ipynb
+│   ├── 03_pattern_detection.ipynb
+│   ├── 04_ml_debit_prediction.ipynb
+│   ├── 05_risk_scoring_model.ipynb
+│   └── 06_dashboard_dev.ipynb
+│
+├── src/
+│   ├── data/
+│   │   ├── clean_data.py
+│   │   └── generate_synthetic_data.py
+│   │
+│   ├── nlp/
+│   │   ├── preprocess_text.py
+│   │   ├── subscription_classifier.py
+│   │   └── keyword_dictionary.json
+│   │
+│   ├── patterns/
+│   │   └── recurring_pattern_detector.py
+│   │
+│   ├── models/
+│   │   ├── debit_prediction_model.py
+│   │   ├── risk_scoring.py
+│   │   ├── train_models.py
+│   │   └── saved_models/
+│   │       ├── subscription_model.pkl
+│   │       ├── debit_predictor.pkl
+│   │       └── risk_model.pkl
+│   │
+│   ├── genai/
+│   │   └── alert_generator.py
+│   │
+│   └── utils/
+│       ├── helpers.py
+│       ├── config.py
+│       └── logger.py
+│
+├── app/
+│   ├── streamlit_app.py
+│   ├── components/
+│   │   ├── subscription_cards.py
+│   │   ├── risk_alert_box.py
+│   │   └── monthly_spend_chart.py
+│   └── assets/
+│       └── logo.png
+│
+├── docs/
+│   ├── BRD.pdf
+│   ├── Architecture_Diagram.png
+│   ├── Data_Dictionary.md
+│   ├── Model_Performance.md
+│   └── Project_Report.pdf
+│
+└── tests/
+    ├── test_nlp.py
+    ├── test_patterns.py
+    ├── test_models.py
+    └── test_dashboard.py
+
+
+
+👩‍💻 Person A – Data + NLP + Pattern Detection
+Role: Data Engineering + NLP Lead
+Handles everything related to data, cleaning, subscription detection, pattern extraction.
+Tasks for Person A
+1. Data Handling
+Gather/create dataset
+Write data cleaning code
+Normalization (lowercase, remove symbols)
+Create processed dataset
+2. NLP Subscription Detection
+Create keyword dictionary (doc, json)
+Create NLP pipeline:
+text cleaning
+keyword matching
+TF-IDF classifier
+Output:
+subscription flag
+merchant name
+3. Recurring Pattern Detector
+Group by merchant
+Identify monthly/weekly patterns
+Compute expected next-date
+4. Deliverables
+Clean dataset + code scripts
+NLP model + saved pickle
+Pattern detection module
+Notebook documenting everything
+👉 Person A = “Backend Intelligence” (NLP + Rules + Data Pipeline)
+👩‍💻 Person B – ML + Risk + GenAI + Dashboard
+Role: ML + Application Lead
+Handles forecasting, alerts, UI.
+Tasks for Person B
+1. ML Prediction (Debit Prediction)
+Build model for upcoming debit date
+Build model for upcoming debit amount
+(ARIMA + Linear Regression or RF)
+2. Risk Scoring
+Build risk calculation logic
+Simple explainable score using balance, amount
+3. GenAI Alerts
+Use OpenAI API
+Build alert-message generator
+Integrate alert logic
+4. Streamlit Dashboard
+Show subscriptions (from Person A)
+Show predicted debits
+Show risk score
+Show alerts
+Add visuals
+5. Deliverables
+ML models
+Risk model
+GenAI module
+Full Streamlit UI
+👉 Person B = “Prediction + User Experience” (ML + Risk + GenAI + Dashboard)
+
